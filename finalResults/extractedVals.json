@@ -177,7 +177,26 @@
           "modulus": "NA",
           "notes": "Mechanical properties studied for gas-atomized Al 6061 powder, focusing on microstructures and oxide layer effects; results from GDCS post-thermal exposures."
         }
-    ]
+    ], 
+    "Article_11": [
+        {
+          "yield_strength": 262,
+          "ductility": "2%",
+          "hardness": "HV105",
+          "modulus": 67.5,
+          "notes": "Cold-sprayed 6061 alloy in as-sprayed condition"
+        },
+        {
+          "yield_strength": 147.5,
+          "ductility": "13%",
+          "hardness": "HV65.7",
+          "modulus": 64.1,
+          "notes": "Cold-sprayed 6061 alloy after annealing at 617 K for 8 hours"
+        }
+    ],
+    "Article_12": [],
+    "Article_13": []
+
       
     }   
 }
