@@ -1,0 +1,230 @@
+{"Articles": {
+    "Article_1": [
+        {
+          "yield_strength": "260",
+          "ductility": "2.6%",
+          "hardness": "NA",
+          "modulus": "61.4",
+          "notes": "He-sprayed Al6061 sample (Al-2-1) with improved particle impact velocity; shows significant tensile strength increase and ductility."
+        }
+    ],
+    "Article_5":[
+        {
+          "yield_strength_value": 250.3,
+          "yield_strength_units": "MPa",
+          "ultimate_tensile_strength_value": 268.2,
+          "ultimate_tensile_strength_units": "MPa",
+          "ductility_value": 1.2,
+          "ductility_units": "%",
+          "hardness_value": "NA",
+          "hardness_units": "NA",
+          "modulus_value": 54.5,
+          "modulus_units": "GPa",
+          "notes": "As-sprayed AL 6061 from processing set I (longitudinal); powder exposed to humid air"
+        },
+        {
+          "yield_strength_value": 251.2,
+          "yield_strength_units": "MPa",
+          "ultimate_tensile_strength_value": 271.3,
+          "ultimate_tensile_strength_units": "MPa",
+          "ductility_value": 1.0,
+          "ductility_units": "%",
+          "hardness_value": "NA",
+          "hardness_units": "NA",
+          "modulus_value": 55.3,
+          "modulus_units": "GPa",
+          "notes": "As-sprayed AL 6061 from processing set I (transverse); powder exposed to humid air"
+        },
+        {
+          "yield_strength_value": 230.6,
+          "yield_strength_units": "MPa",
+          "ultimate_tensile_strength_value": 292.3,
+          "ultimate_tensile_strength_units": "MPa",
+          "ductility_value": 6.9,
+          "ductility_units": "%",
+          "hardness_value": "NA",
+          "hardness_units": "NA",
+          "modulus_value": 71.0,
+          "modulus_units": "GPa",
+          "notes": "As-sprayed AL 6061 from processing set II (longitudinal); no humid air exposure"
+        },
+        {
+          "yield_strength_value": 231.0,
+          "yield_strength_units": "MPa",
+          "ultimate_tensile_strength_value": 289.6,
+          "ultimate_tensile_strength_units": "MPa",
+          "ductility_value": 5.7,
+          "ductility_units": "%",
+          "hardness_value": "NA",
+          "hardness_units": "NA",
+          "modulus_value": 70.3,
+          "modulus_units": "GPa",
+          "notes": "As-sprayed AL 6061 from processing set II (transverse); no humid air exposure"
+        },
+        {
+          "yield_strength_value": 249.5,
+          "yield_strength_units": "MPa",
+          "ultimate_tensile_strength_value": 289.6,
+          "ultimate_tensile_strength_units": "MPa",
+          "ductility_value": 3.9,
+          "ductility_units": "%",
+          "hardness_value": "NA",
+          "hardness_units": "NA",
+          "modulus_value": 67.5,
+          "modulus_units": "GPa",
+          "notes": "As-sprayed AL 6061 from processing set III (longitudinal)"
+        }
+      ],
+    "Article_10": [],
+    "Article_15": [
+      {
+        "yield_strength_value": "NA",
+        "yield_strength_units": "NA",
+        "ultimate_tensile_strength_value": 440,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 3,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "As-deposited (cold-sprayed) condition"
+      },
+      {
+        "yield_strength_value": "NA",
+        "yield_strength_units": "NA",
+        "ultimate_tensile_strength_value": 490,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 3.6,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "Stress-relieved condition"
+      },
+      {
+        "yield_strength_value": "NA",
+        "yield_strength_units": "NA",
+        "ultimate_tensile_strength_value": 465,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 3.8,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "T6 condition"
+      }
+    ],
+    "Article_20":[ 
+      {
+        "yield_strength_value": 270,
+        "yield_strength_units": "MPa",
+        "ultimate_tensile_strength_value": 319,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 4.43,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "Cold-sprayed 6061 sample 1"
+      },
+      {
+        "yield_strength_value": 247,
+        "yield_strength_units": "MPa",
+        "ultimate_tensile_strength_value": 314,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 4.96,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "Cold-sprayed 6061 sample 2"
+      },
+      {
+        "yield_strength_value": 252,
+        "yield_strength_units": "MPa",
+        "ultimate_tensile_strength_value": 316,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 6.40,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "Cold-sprayed 6061 sample 3"
+      },
+      {
+        "yield_strength_value": 237,
+        "yield_strength_units": "MPa",
+        "ultimate_tensile_strength_value": 310,
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 5.18,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": "NA",
+        "modulus_units": "NA",
+        "notes": "Cold-sprayed 6061 sample 4"
+      }
+  ],
+  "Article_25": [
+    {
+      "yield_strength_value": "NA",
+      "yield_strength_units": "NA",
+      "ultimate_tensile_strength_value": 277.6,
+      "ultimate_tensile_strength_units": "MPa",
+      "ductility_value": 0.6,
+      "ductility_units": "%",
+      "hardness_value": "NA",
+      "hardness_units": "NA",
+      "modulus_value": 64.3,
+      "modulus_units": "GPa",
+      "notes": "As-deposited (MF-CS) condition with no post-spray heat treatment"
+    },
+    {
+      "yield_strength_value": "NA",
+      "yield_strength_units": "NA",
+      "ultimate_tensile_strength_value": 298.1,
+      "ultimate_tensile_strength_units": "MPa",
+      "ductility_value": 0.9,
+      "ductility_units": "%",
+      "hardness_value": "NA",
+      "hardness_units": "NA",
+      "modulus_value": 63.2,
+      "modulus_units": "GPa",
+      "notes": "Stress-relieved (SR) at 175°C for 8 h"
+    },
+    {
+      "yield_strength_value": "NA",
+      "yield_strength_units": "NA",
+      "ultimate_tensile_strength_value": 210.8,
+      "ultimate_tensile_strength_units": "MPa",
+      "ductility_value": 9.3,
+      "ductility_units": "%",
+      "hardness_value": "NA",
+      "hardness_units": "NA",
+      "modulus_value": "NA",
+      "modulus_units": "NA",
+      "notes": "Recrystallization annealed (RA) at 450°C for 2 h"
+    },
+    {
+      "yield_strength_value": "NA",
+      "yield_strength_units": "NA",
+      "ultimate_tensile_strength_value": 314.3,
+      "ultimate_tensile_strength_units": "MPa",
+      "ductility_value": 7.8,
+      "ductility_units": "%",
+      "hardness_value": "NA",
+      "hardness_units": "NA",
+      "modulus_value": "NA",
+      "modulus_units": "NA",
+      "notes": "T6 heat treatment: solution at 535°C for 1 h, water quench, aging at 175°C for 4 h"
+    }
+  ]
+  
+    }
+}

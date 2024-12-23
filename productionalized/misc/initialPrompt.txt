@@ -1,0 +1,31 @@
+Please determine if the provided text includes any results related to cold-sprayed AL 6061. If no such results are found, return an empty JSON array. If results are found, extract the following properties for each set of results and return them as a JSON array of objects:
+
+yield_strength: The reported yield strength (numeric value, or 'NA' if not available).
+ductility: The reported ductility value (numeric value or percentage, or 'NA' if not available).
+hardness: The reported hardness (numeric value, including scale if given, or 'NA' if not available).
+modulus: The reported modulus (e.g., elastic modulus, numeric value, or 'NA' if not available).
+notes: A short description or identifying information about how these values were achieved or the sample/process used (or 'NA' if such information isn’t provided).
+Important details:
+
+It is acceptable if only some of the metrics are present. For any metric not found, record its value as 'NA'.
+If multiple results are mentioned, include all of them in the array.
+If no results are found, return [].
+Return only the JSON array as the final answer.
+Example output format (if results are found):
+
+[
+  {
+    "yield_strength": 250,
+    "ductility": "12%",
+    "hardness": "HV100",
+    "modulus": 70,
+    "notes": "Values achieved after post-spray heat treatment at 400°C"
+  },
+  {
+    "yield_strength": "NA",
+    "ductility": "10%",
+    "hardness": "HV95",
+    "modulus": "NA",
+    "notes": "As-sprayed condition with standard spraying parameters"
+  }
+]
