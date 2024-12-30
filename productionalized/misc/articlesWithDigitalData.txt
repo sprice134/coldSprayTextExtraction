@@ -1,2 +1,6 @@
 Article 1
+Article 3
+Article 9
 Article 15
+Article 25
+Article 30

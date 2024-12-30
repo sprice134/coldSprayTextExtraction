@@ -1,12 +1,18 @@
 {"Articles": {
     "Article_1": [
-        {
-          "yield_strength": "260",
-          "ductility": "2.6%",
-          "hardness": "NA",
-          "modulus": "61.4",
-          "notes": "He-sprayed Al6061 sample (Al-2-1) with improved particle impact velocity; shows significant tensile strength increase and ductility."
-        }
+      {
+        "yield_strength_value": 260,
+        "yield_strength_units": "MPa",
+        "ultimate_tensile_strength_value": "NA",
+        "ultimate_tensile_strength_units": "NA",
+        "ductility_value": 2.6,
+        "ductility_units": "%",
+        "hardness_value": "NA",
+        "hardness_units": "NA",
+        "modulus_value": 61.4,
+        "modulus_units": "GPa",
+        "notes": "He-sprayed Al6061 sample (Al-2-1) with improved particle impact velocity; shows significant tensile strength increase and ductility."
+      }
     ],
     "Article_2": [
         {
@@ -89,6 +95,7 @@
       "notes": "As-sprayed deposit from as-atomized/stored (pAA) powder at Tgas=500°C, pgas=3 MPa, g=1.02" 
       } 
     ],
+    "Article_4":[],
     "Article_5":[
         {
           "yield_strength_value": 250.3,
@@ -156,6 +163,112 @@
           "notes": "As-sprayed AL 6061 from processing set III (longitudinal)"
         }
       ],
+    "Article_7": [ 
+      {
+        "yield_strength_value": 255.7, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 293.7, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 4.122, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 66.60, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 2.5e-4 s^-1 (ASTM E8 specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 252.8, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 291.9, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 4.354, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 66.65, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 2.5e-3 s^-1 (ASTM E8 specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 253.7, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 293.8, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 4.992, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 69.09, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 2.5e-2 s^-1 (ASTM E8 specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 250.7, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 296.2, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 4.478, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 66.61, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 2.5e-1 s^-1 (ASTM E8 specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 250.6, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 285.6, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 3.068, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 67.08, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 8.81e-3 s^-1 (miniature tensile specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 263.4, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 296.7, 
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 5.341, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": 54.35,
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed CS Al-6061 tested at 9.26e-1 s^-1 (miniature tensile specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 259.0, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 294.7, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 6.910, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA",
+        "modulus_value": "NA", 
+        "modulus_units": "NA", 
+        "notes": "As-sprayed CS Al-6061 tested at 1.25e+2 s^-1 (miniature tensile specimen)" 
+      }, 
+      { 
+        "yield_strength_value": 289.0, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 317.5, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 6.888, 
+        "ductility_units": "%", 
+        "hardness_value": "NA", 
+        "hardness_units": "NA", 
+        "modulus_value": "NA", 
+        "modulus_units": "NA", 
+        "notes": "As-sprayed CS Al-6061 tested at 4.82e+2 s^-1 (miniature tensile specimen)" 
+      } 
+    ],
     "Article_8": [
       { 
         "yield_strength_value": 262.0, 
@@ -197,7 +310,103 @@
         "notes": "T6 condition" 
       } 
     ],
+    "Article_9": [ 
+      { 
+        "yield_strength_value": "NA", 
+        "yield_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 87, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 0.14, 
+        "ductility_units": "%", 
+        "hardness_value": 77.5, 
+        "hardness_units": "HV", 
+        "modulus_value": 55, 
+        "modulus_units": "GPa", 
+        "notes": "Al-1-1 (N2 at 68 bar, 445°C), machine-finished substrate + IPA wash" 
+      }, 
+      { 
+        "yield_strength_value": "NA", 
+        "yield_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 80, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 0.14, 
+        "ductility_units": "%", 
+        "hardness_value": 82.5, 
+        "hardness_units": "HV", 
+        "modulus_value": 59, 
+        "modulus_units": "GPa", 
+        "notes": "Al-1-2 (N2 at 68 bar, 445°C), sand-blasted substrate + IPA wash" 
+      }, 
+      { 
+        "yield_strength_value": "NA", 
+        "yield_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 60, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 0.14, 
+        "ductility_units": "%", 
+        "hardness_value": 75, 
+        "hardness_units": "HV", 
+        "modulus_value": 56, 
+        "modulus_units": "GPa", 
+        "notes": "Al-1-3 (N2 at 68 bar, 445°C), wire-wheel substrate + IPA wash" 
+      }, 
+      { 
+        "yield_strength_value": "NA", 
+        "yield_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 75, 
+        "ultimate_tensile_strength_units": "MPa",
+        "ductility_value": 0.14, 
+        "ductility_units": "%", 
+        "hardness_value": 77.5, 
+        "hardness_units": "HV", 
+        "modulus_value": 58, 
+        "modulus_units": "GPa", 
+        "notes": "Al-1-4 (N2 at 68 bar, 445°C), wire-wheel + IPA wash + substrate preheat" 
+      }, 
+      { 
+        "yield_strength_value": "NA", 
+        "yield_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 288, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 5.16, 
+        "ductility_units": "%", 
+        "hardness_value": 90, 
+        "hardness_units": "HV", 
+        "modulus_value": 66, 
+        "modulus_units": "GPa", 
+        "notes": "Al-2-1 (He at 35 bar, 445°C), wire-wheel substrate + IPA wash" 
+      } 
+    ],
     "Article_10": [],
+    "Article_11": [ 
+      { 
+        "yield_strength_value": 262.0, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 286.8, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 2.0, 
+        "ductility_units": "%", 
+        "hardness_value": 105.0, 
+        "hardness_units": "HV", 
+        "modulus_value": 67.5, 
+        "modulus_units": "GPa", 
+        "notes": "As-sprayed cold-spray 6061; data from Table III" 
+      }, 
+      { 
+        "yield_strength_value": 147.5, 
+        "yield_strength_units": "MPa", 
+        "ultimate_tensile_strength_value": 195.1, 
+        "ultimate_tensile_strength_units": "MPa", 
+        "ductility_value": 13.0, 
+        "ductility_units": "%", 
+        "hardness_value": 65.7, 
+        "hardness_units": "HV", 
+        "modulus_value": 64.1, 
+        "modulus_units": "GPa", 
+        "notes": "Annealed cold-spray 6061 (344°C for 8 hours); data from Table III" 
+      } 
+    ],
+    "Article_12": [],
     "Article_15": [
       {
         "yield_strength_value": "NA",
@@ -428,6 +637,10 @@
       "modulus_units": "NA", 
       "notes": "Heat-treated satellited 6061-TiC coating at 345°C for 2h" 
     } 
-  ]
+  ],
+  "Article_40": [],
+  "Article_45": [],
+  "Article_50": [],
+  "Article_55": []
   }
 }

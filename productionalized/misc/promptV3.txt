@@ -1,0 +1,70 @@
+Please determine if the provided text includes any results related to cold-sprayed AL 6061.
+
+If no such results are found, return an empty JSON array:
+[]
+
+If results are found, create a JSON array where each object except for the final one represents a distinct set of experimental results extracted from the text, containing:
+
+yield_strength_value: Numeric value or "NA"
+yield_strength_units: Units (e.g., "MPa") or "NA"
+ultimate_tensile_strength_value: Numeric value or "NA"
+ultimate_tensile_strength_units: Units (e.g., "MPa") or "NA"
+ductility_value: Numeric value or "NA"
+ductility_units: Units (e.g., "%") or "NA"
+hardness_value: Numeric value or "NA"
+hardness_units: Units (e.g., "HV", "HRC") or "NA"
+modulus_value: Numeric value or "NA"
+modulus_units: Units (e.g., "GPa", "MPa") or "NA"
+notes: Short description about how these values were achieved (e.g. sample condition, process parameters). If none, use "NA".
+After listing all of the experimental results, add one more object at the end of the array that contains:
+
+Extracted_paper_author: Paper author(s) or "NA"
+Extracted_publication_year: Publication year or "NA"
+graph_verification_required: One of "LOW", "MEDIUM", or "HIGH"
+"LOW" = Little or no chance additional neccesary data is only in a graph
+"MEDIUM" = Uncertain if additional neccesary data might appear only in a graph
+"HIGH" = Very likely that some necessary information is present in a graph, but not in the text
+Important details:
+
+If multiple results appear in the text, each should be its own object in the array (with the fields listed above).
+For any field you do not find, use "NA" for both the value and units (if applicable).
+If no data is found for notes, "notes": "NA".
+If no paper author or year is found, "Extracted_paper_author": "NA", "Extracted_publication_year": "NA".
+Choose "LOW", "MEDIUM", or "HIGH" for graph_verification_required based on the text and whether it might omit relevant data that exists in a graph.
+If no results at all are found, simply return [].
+Return only the JSON array—nothing else.
+
+Example Output (if results exist)
+[
+  {
+    "yield_strength_value": 250,
+    "yield_strength_units": "MPa",
+    "ultimate_tensile_strength_value": 310,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 12,
+    "ductility_units": "%",
+    "hardness_value": 100,
+    "hardness_units": "HV",
+    "modulus_value": 70,
+    "modulus_units": "GPa",
+    "notes": "Values achieved after post-spray heat treatment at 400°C"
+  },
+  {
+    "yield_strength_value": "NA",
+    "yield_strength_units": "NA",
+    "ultimate_tensile_strength_value": 300,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 10,
+    "ductility_units": "%",
+    "hardness_value": 95,
+    "hardness_units": "HV",
+    "modulus_value": "NA",
+    "modulus_units": "NA",
+    "notes": "As-sprayed condition with standard parameters"
+  },
+  {
+    "Extracted_paper_author": "Doe et al.",
+    "Extracted_publication_year": "2023",
+    "graph_verification_required": "High"
+  }
+]

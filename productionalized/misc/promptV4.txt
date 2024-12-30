@@ -1,0 +1,95 @@
+Task Overview
+Determine whether the provided text contains any experimentally reported results for cold-sprayed AL 6061.
+
+If No Results are Found:
+
+Return a single-object JSON array containing only the following fields:
+
+[
+  {
+    "Extracted_paper_author": "NA" or paper author(s) if found,
+    "Extracted_publication_year": "NA" or publication year if found,
+    "graph_verification_required": "LOW"
+  }
+]
+
+If you cannot locate the author or the publication year in the text, use "NA" for those fields.
+If Results are Found
+
+Return a JSON array.
+
+For every distinct set of experimental results on cold-sprayed AL 6061 mentioned in the text, create an object with the following fields:
+
+{
+  "yield_strength_value": (numeric value or "NA"),
+  "yield_strength_units": (e.g., "MPa" or "NA"),
+  "ultimate_tensile_strength_value": (numeric value or "NA"),
+  "ultimate_tensile_strength_units": (e.g., "MPa" or "NA"),
+  "ductility_value": (numeric value or "NA"),
+  "ductility_units": (e.g., "%" or "NA"),
+  "hardness_value": (numeric value or "NA"),
+  "hardness_units": (e.g., "HV", "HRC" or "NA"),
+  "modulus_value": (numeric value or "NA"),
+  "modulus_units": (e.g., "GPa", "MPa" or "NA"),
+  "notes": (short description, or "NA")
+}
+After listing all objects for the experimental results, add one final object containing:
+
+{
+  "Extracted_paper_author": (author(s) found or "NA"),
+  "Extracted_publication_year": (year found or "NA"),
+  "graph_verification_required": ("HIGH" or "LOW")
+}
+Determining graph_verification_required
+
+Use "LOW" if all the reported values (strength, hardness, modulus, etc.) are explicitly stated in the text.
+Use "HIGH" if it appears the reported values are only found in figures, tables, or graphs (i.e., not stated directly in the text and thus would require verification from those visuals).
+Output Format
+
+Return only the JSON array and nothing else.
+Example Output
+
+If no results are found:
+
+[
+  {
+    "Extracted_paper_author": "NA",
+    "Extracted_publication_year": "NA",
+    "graph_verification_required": "LOW"
+  }
+]
+If results exist:
+
+[
+  {
+    "yield_strength_value": 250,
+    "yield_strength_units": "MPa",
+    "ultimate_tensile_strength_value": 310,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 12,
+    "ductility_units": "%",
+    "hardness_value": 100,
+    "hardness_units": "HV",
+    "modulus_value": 70,
+    "modulus_units": "GPa",
+    "notes": "Values achieved after post-spray heat treatment at 400°C"
+  },
+  {
+    "yield_strength_value": "NA",
+    "yield_strength_units": "NA",
+    "ultimate_tensile_strength_value": 300,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 10,
+    "ductility_units": "%",
+    "hardness_value": 95,
+    "hardness_units": "HV",
+    "modulus_value": "NA",
+    "modulus_units": "NA",
+    "notes": "As-sprayed condition with standard parameters"
+  },
+  {
+    "Extracted_paper_author": "Doe et al.",
+    "Extracted_publication_year": "2023",
+    "graph_verification_required": "HIGH"
+  }
+]
