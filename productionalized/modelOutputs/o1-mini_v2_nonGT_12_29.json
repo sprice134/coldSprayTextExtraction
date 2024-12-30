@@ -1,0 +1,2448 @@
+[
+    {
+        "filename": "Article_1.pdf",
+        "title": "Bulk fracture anisotropy in Cold-Sprayed Al 6061 deposits ...",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422000649",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_2.pdf",
+        "title": "Aluminium 6061 - SPEE3D 3D Metal Printing",
+        "link": "https://www.spee3d.com/material/aluminium-alloy-6061-spd/",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_3.pdf",
+        "title": "Tailoring powder strengths for enhanced quality of cold sprayed ...",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0264127522001150",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_4.pdf",
+        "title": "Stress Corrosion Cracking Resistance of Cold-Sprayed Al 6061 ...",
+        "link": "https://www.mdpi.com/2079-6412/9/7/445",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_5.pdf",
+        "title": "Mechanical properties and growth mechanisms of long and small fatigue cracks in as-deposited bulk cold spray Al-6061",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112324000100?casa_token=8BTO0UmGmO4AAAAA:mj-VECrBp7wwXChuFvC8pE1aM0gwtxZXrvXa8j56GwyanemaThTVF6jtUgEd1h33433Bo2_c",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_6.pdf",
+        "title": "Nanomechanical Characterization for Cold Spray: From Feedstock to Consolidated Material Properties",
+        "link": "https://www.mdpi.com/2075-4701/10/9/1195",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.24,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation hardness for Al 6061 powder size range 25 to 32 \u03bcm"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.16,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation hardness for Al 6061 powder size range 32 to 38 \u03bcm"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.12,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation hardness for Al 6061 powder size range 38 to 45 \u03bcm"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.05,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation hardness for Al 6061 powder size range 45 to 53 \u03bcm"
+            }
+        ]
+    },
+    {
+        "filename": "Article_7.pdf",
+        "title": "Ultrasonic and conventional fatigue behavior, strain rate sensitivity, and structural design methods for wrought and cold spray Al-6061",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2589152924002837?casa_token=5HQzxvgo2O8AAAAA:O8u_M_S5MkcKPLks84R_nScdX6WK4uCwQ_r45fkAdyTg7jwfuWRRUUQoJPq7Pzl23IHpvoXb",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_8.pdf",
+        "title": "Effects of processing on microstructure evolution and fatigue crack growth mechanisms in cold-spray 6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112318300057?casa_token=3YwKzePCiMIAAAAA:ZsYbulYjY9o2oLWQMV5C0JupLhDY34P63EjyWVH_ARFIdWB9uU6bo8SvIdCtGz9qfVzDROjM",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_9.pdf",
+        "title": "Quantitative Nondestructive Evaluation of Cold Spray Manufactured ...",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01738-y",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_10.pdf",
+        "title": "Surface states of gas-atomized Al 6061 powders \u2013 Effects of heat treatment",
+        "link": "sciencedirect.com/science/article/pii/S0169433220324004?via%3Dihub",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_11.pdf",
+        "title": "Small Fatigue Crack Growth Mechanisms and Interfacial Stability in Cold-Spray 6061 Aluminum Alloys and Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11661-018-4929-0",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_12.pdf",
+        "title": "...",
+        "link": "...",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_13.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_14.pdf",
+        "title": "Microstructure and Micromechanical Response in Gas-Atomized Al 6061 Alloy powder and Cold-Sprayed Splats",
+        "link": "https://link.springer.com/article/10.1007/s11666-018-0785-0",
+        "extractedText": [
+            {
+                "yield_strength_value": 183,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-atomized condition, measured via micropillar compression tests"
+            },
+            {
+                "yield_strength_value": 188,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat-treated condition, measured via micropillar compression tests"
+            },
+            {
+                "yield_strength_value": 216,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Homogenized condition, measured via micropillar compression tests"
+            },
+            {
+                "yield_strength_value": 285,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed splats, measured via micropillar compression tests"
+            }
+        ]
+    },
+    {
+        "filename": "Article_15.pdf",
+        "title": "Microsturcture and mechanical properties of cold sprayed 6061 Al in As-sprayed and heat treated condition",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897216313214?casa_token=Ah9Frhq7lAQAAAAA:t2RlwAFDZbM7RE8AKjK8fp570HG22xd5jwYZrKgBzh8GDNSE1DWw-gtgyy-bONEwYxK4Nm6X",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_16.pdf",
+        "title": "Engineered Aluminum Powder Microsturcture and Mechanical Properties by Heat Treatment for Optimized Cold Spray Deposition of High-Strength Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01455-4",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_17.pdf",
+        "title": "Effects of Process Parameters on Cold Spray Deposition of Al-6061 Alloy",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01456-3",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_18.pdf",
+        "title": "Fatigue an delamination of 6061 aluminum cold spray on a similar wrought substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509324009559?casa_token=wJH4sAkNVMIAAAAA:hSLjXhWiaAvq7J3HwYuLjp7Ky7kPDgKdHzL57wwWH_ziitN1mN8fZbRNR3rB3PA-QO5RJJma",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 260,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 11.6,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Tensile testing of similar cold sprayed 6061 aluminum"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 260,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 2.6,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Another sample tensile testing of similar cold sprayed 6061 aluminum"
+            }
+        ]
+    },
+    {
+        "filename": "Article_19.pdf",
+        "title": "Deformation and cracking phenomena in cold sprayed 6061 Al alloy powders with nanoscale aluminum oxide films",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509322004439?casa_token=iTjXQq3ARrsAAAAA:8XIPMB7jxM4LvKNB6zcLczfNcYmdnJM1cwIuaaIwg10sTGYsD2KQ5Z2LLPeBOfTppKTotNEl",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_20.pdf",
+        "title": "Joining of Cast ZE41A Mg to Wrought 6061 Al by the Cold Spray Process and Friction Stir Welding",
+        "link": "https://link.springer.com/article/10.1007/s11666-015-0301-8",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_21.pdf",
+        "title": "Effects of post-deposition processing on static and cyclic performance of cold sprayed 6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860424002926",
+        "extractedText": [
+            {
+                "yield_strength_value": 289,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 318,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 13.1,
+                "ductility_units": "%",
+                "hardness_value": 115,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Wrought 6061-T6"
+            },
+            {
+                "yield_strength_value": 57,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 126,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 22.3,
+                "ductility_units": "%",
+                "hardness_value": 79,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Wrought 6061-Ann"
+            },
+            {
+                "yield_strength_value": 259,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 282,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 1.6,
+                "ductility_units": "%",
+                "hardness_value": 105,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed condition with helium"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 49,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.1,
+                "ductility_units": "%",
+                "hardness_value": 91,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed condition with nitrogen"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 223,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.5,
+                "ductility_units": "%",
+                "hardness_value": 106,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Conventional Heat Treatment - solution-aged"
+            },
+            {
+                "yield_strength_value": 261,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 269,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.9,
+                "ductility_units": "%",
+                "hardness_value": 112,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Conventional Heat Treatment - high temperature solution-aged"
+            },
+            {
+                "yield_strength_value": 56,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 120,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 4.9,
+                "ductility_units": "%",
+                "hardness_value": 67,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Conventional Heat Treatment - annealed"
+            },
+            {
+                "yield_strength_value": 57,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 122,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 7.4,
+                "ductility_units": "%",
+                "hardness_value": 72,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Conventional Heat Treatment - high temperature annealed"
+            },
+            {
+                "yield_strength_value": 110,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 235,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.5,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot Isostatic Pressing - standard conditions"
+            },
+            {
+                "yield_strength_value": 257,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 268,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 1.3,
+                "ductility_units": "%",
+                "hardness_value": 113,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot Isostatic Pressing - high temperature solution-aged"
+            },
+            {
+                "yield_strength_value": 57,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 123,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 5.1,
+                "ductility_units": "%",
+                "hardness_value": 71,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot Isostatic Pressing - annealed"
+            },
+            {
+                "yield_strength_value": 57,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 123,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 9.4,
+                "ductility_units": "%",
+                "hardness_value": 73,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot Isostatic Pressing - high temperature annealed"
+            }
+        ]
+    },
+    {
+        "filename": "Article_22.pdf",
+        "title": "Effects of build orientation and head treatment on microsturcture, mechanical and corrosion properties of Al6061 aluminium parts built by cold spray additive manufacturing process",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0020740321002617?casa_token=H_hTt0GWjLgAAAAA:XXM8sXT83JIOMk463Fc2FQhIuz-N1ALlLflPCQ7oQvnja9N3yzvKH5OEeKke-qLJCj5Ag0U5",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 103,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.3,
+                "ductility_units": "%",
+                "hardness_value": 93,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed (horizontal)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 78,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.2,
+                "ductility_units": "%",
+                "hardness_value": 84,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed (vertical)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 238,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 6.1,
+                "ductility_units": "%",
+                "hardness_value": 88,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed (horizontal), heat-treated"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 241,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 5.1,
+                "ductility_units": "%",
+                "hardness_value": 96,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed (vertical), heat-treated"
+            }
+        ]
+    },
+    {
+        "filename": "Article_23.pdf",
+        "title": "Towards better understanding supersonic impact-bonding behavior of cold sprayed 6061-T6 aluminum alloy based on a high-accuracy material model",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860421006199",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_24.pdf",
+        "title": "Effects of zirconia secondary peening on the microsturcture and mechanical behavior of Al6061 cold spray coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897222001906?casa_token=sU7VsPS_VdUAAAAA:lE0ITUDc6v_wmrQF5nviDLZdq9jW4ZpwLVLMk84Ldurvd-ZwYrkgx07jrQbnSKr49uskDqeE",
+        "extractedText": [
+            {
+                "yield_strength_value": 289,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 313,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 16.5,
+                "ductility_units": "%",
+                "hardness_value": 118.2,
+                "hardness_units": "HV200",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Al6061-T6 substrate in as-received condition"
+            },
+            {
+                "yield_strength_value": 255,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 282,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 6.5,
+                "ductility_units": "%",
+                "hardness_value": 107.4,
+                "hardness_units": "HV200",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "He process gas"
+            },
+            {
+                "yield_strength_value": 110,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 110,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.2,
+                "ductility_units": "%",
+                "hardness_value": 109.6,
+                "hardness_units": "HV200",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "N2 process gas with ZrO2 secondary peening"
+            },
+            {
+                "yield_strength_value": 82,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 82,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.1,
+                "ductility_units": "%",
+                "hardness_value": 91.5,
+                "hardness_units": "HV200",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "N2 process gas only"
+            }
+        ]
+    },
+    {
+        "filename": "Article_25.pdf",
+        "title": "Solid-state additive manufacturing high performance aluminum alloy 6061 enabled by an in-situ micro-forging assisted cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509320301131?casa_token=kDcBkHJzjGkAAAAA:2VFlUZh068QYmFK6i96nD4s-UBocs-30O4CkZUeRlclqCU0X8tObQ33D5kdAZf2-oNR_izTV",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_26.pdf",
+        "title": "Laser assisted cold spray of aluminum alloy 6061: Experimental results",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860424005943?casa_token=AUlvVNeCFL0AAAAA:qjQNaxjSzTTDKDJ-D-i6deO1Z4lCe0_-cKKtdWF-KDs6Du2OSMBOE-LVWNMnlUunM78Y7e5Z",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 34.3,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.07,
+                "ductility_units": "%",
+                "hardness_value": 80,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Deposited with no laser and using hotplate (TS-0kW-T)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 165,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Deposited with 3kW laser and hotplate (TS-3kW-H)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 167.6,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 15.58,
+                "ductility_units": "%",
+                "hardness_value": 50,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Deposited with 5kW laser and hotplate (TS-5kW-H)"
+            }
+        ]
+    },
+    {
+        "filename": "Article_27.pdf",
+        "title": "Effects of substrate surface finish and particle velocity on fatigue performance of cold spray coated A6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897222005977?casa_token=VNPMIq6LyL8AAAAA:fqn3WE8EdHgjmpXzWiUOAMInV2Q8K_cZpZJJOvg5fP-FtAP0CIAa1Dy-Var1lXhOlFusMoPF",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 86.5,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Coatings prepared using N2 as carrier gas"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 105,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Coatings prepared using He as carrier gas"
+            }
+        ]
+    },
+    {
+        "filename": "Article_28.pdf",
+        "title": "Annealing behaviour of 6061 aluminium deposited by high pressure cold spray",
+        "link": "https://journals.sagepub.com/doi/epub/10.1179/1743294413Y.0000000209",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_29.pdf",
+        "title": "Inter-particle bonding in cold spray deposition of a gas-atomized and a solution heat-treated Al 6061 powder",
+        "link": "https://link.springer.com/article/10.1007/s10853-019-03736-w",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 105.3,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-received Al 6061 feedstock powder"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 82.5,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Post-heat treated Al 6061 powder, measured 24 hours after spraying"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 135,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed coating using as-received Al 6061 feedstock powder"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 123.5,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed coating using solution heat-treated Al 6061 feedstock powder"
+            }
+        ]
+    },
+    {
+        "filename": "Article_30.pdf",
+        "title": "Laser Assisted Cold Spray of Aluminum Alloy 6061",
+        "link": "https://www.proquest.com/docview/3098002079?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_31.pdf",
+        "title": "Cold Spray processing of AA2024/Al2O3 coating on magnesium AZ31B alloy: Process parameters optimization, microstructre and adhesive strength performance of coating",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2588840424000416",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_32.pdf",
+        "title": "Effects of Cold-Spray Parameters on Surface Roughness, Thickness and Adhesion of Copper-Based Composite Coating on Aluminum Alloy 6061 T6 Substrate",
+        "link": "https://www.mdpi.com/2227-9717/11/3/959",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_33.pdf",
+        "title": "The use of Al-Al2O3 cold spray coatings to improve the surface properties of magnesium alloys",
+        "link": "https://www.sciencedirect.com/science/article/pii/S025789720900601X?casa_token=ytTuxxNeWUMAAAAA:rpDYUYeedQO3ktvW5yqmjBXzCMS-6GGODNiI5blE-F8g4Ukxmqr19JAC3hGdeRCFSVr9iJk8",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_34.pdf",
+        "title": "Machinability of Al 6061 Deposited with Cold Spray Additive Manufacturing",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0586-x",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 111,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Bulk, original"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 44.88,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Bulk, annealed"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 55.18,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed with Nitrogen, original"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 43.74,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed with Nitrogen, annealed"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 73.8,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed with Helium, original"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 54.18,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed with Helium, annealed"
+            }
+        ]
+    },
+    {
+        "filename": "Article_35.pdf",
+        "title": "Heat-treatment and mechanical properties of cold-sprayed high strength Al alloys from satellited feedstocks",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219305225?casa_token=a6cqKmBQDu4AAAAA:S2GDYl4SQP3kyYKIEBsC05ms6_3yru4sR3LwI-ZVNrTM_XneWOLFJ_HcY9HnmU2ikHWV7eh2",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_36.pdf",
+        "title": "Mocrostructural Evolution of 6061 Aluminum Gas-Atomized Powder and High-Pressure Cold-Sprayed Deposition",
+        "link": "https://link.springer.com/article/10.1007/s11666-013-0049-y",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_37.pdf",
+        "title": "Mechanical Properties of Cold Sprayed Aluminium 2024 and 7075 Coatings for Repairs",
+        "link": "https://www.mdpi.com/2226-4310/9/2/65",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_38.pdf",
+        "title": "Cold-Sprayed Al6061 Coatings: Online Spray Monitoring and Influence of Process Parameters on Coating Properties",
+        "link": "https://www.mdpi.com/2079-6412/10/4/348",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_39.pdf",
+        "title": "Sintering of Cold Spray Additively Manufactured Aluminum 6061",
+        "link": "https://link.springer.com/article/10.1007/s11666-021-01238-3",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 233.5,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 1.78,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Non-heat-treated cold-sprayed AL6061 (Ref11, Ref18)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 291,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 4,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treatment at 176\u00b0C \u00d71h for cold-sprayed AL6061 (Ref18)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 264,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 4,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treatment at 176\u00b0C \u00d78h for cold-sprayed AL6061 (Ref18)"
+            },
+            {
+                "yield_strength_value": 288,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 298.1,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 1,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Micro-forged cold-sprayed AL6061 with heat treatment at 175\u00b0C \u00d78h (Ref11)"
+            },
+            {
+                "yield_strength_value": 111,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 210.8,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 10,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Micro-forged cold-sprayed AL6061 with heat treatment at 450\u00b0C \u00d72h (Ref11)"
+            },
+            {
+                "yield_strength_value": 255,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 314.3,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 8,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Micro-forged cold-sprayed AL6061 with heat treatment at 535\u00b0C \u00d71h, water quenched, 175\u00b0C \u00d74h (Ref11)"
+            }
+        ]
+    },
+    {
+        "filename": "Article_40.pdf",
+        "title": "Comparison of Cold-Sprayed Coatings of Copper-Based Composite Deposited on AZ31B Magnesium Alloy and 6061 T6 Aluminum Alloy Substrates",
+        "link": "https://link.springer.com/article/10.1007/s11666-021-01238-3",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_41.pdf",
+        "title": "Bonding mechanism and fracture behavior of cold-sprayed Fe-based amorphous alloy on 6061 Al alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224008259?casa_token=vIiu4o0IKAwAAAAA:TAFM2aBqrToe7JqC8cVgvCCwuwapoNkgkEVK-joftqbzSqAP_8HSy1964Cr75HnfFJqlLjaZ",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_42.pdf",
+        "title": "Residual stresses in cold spray Al coatings: The effect of alloyying and of process parameters",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897212003283?casa_token=PO33Y1mfn3UAAAAA:oMZWZIDCPpZqJrVmLYR4WTDTo2Y0bLDQqnf4vttyJ70J9M-nJWu_P9GrFrqtOsSGvZ_QOMxZ",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_43.pdf",
+        "title": "Effect of particle size, morphology, and hardness on cold gas dynamic sprayed aluminum alloy coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S025789720600778X?casa_token=_zTBnlkwgYMAAAAA:GDQ5eHL3R8eJDaDWu629FEAkCgTQQFqoCT6PmPnAQBrS_ww_BVlhPiSKxrDaUCjyaC3iarVM",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_44.pdf",
+        "title": "Microstructure and Mechanical property Evaluation of Aluminum F357 Powder for Cold Spray Applications",
+        "link": "https://link.springer.com/article/10.1007/s11666-020-01140-4",
+        "extractedText": "NA"
+    },
+    {
+        "filename": "Article_45.pdf",
+        "title": "Initial Observation of Grain Orientation Dependent Nanoindentation Hardness of Al 6061 Gas-atomized Powder",
+        "link": "https://www.researchgate.net/profile/Bryer-Sousa/publication/341318988_Initial_Observation_of_Grain_Orientation_Dependent_Nanoindentation_Hardness_of_Al_6061_Gas-atomized_Powder/links/5f4ad369458515a88b8a2fa2/Initial-Observation-of-Grain-Orientation-Dependent-Nanoindentation-Hardness-of-Al-6061-Gas-atomized-Powder.pdf",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_46.pdf",
+        "title": "Thermal preprocessing of Rapidly Solidified Al 6061 Feedstock for Tunable Cold Spray Additive Manufacturing",
+        "link": "https://www.mdpi.com/2075-4701/12/7/1214",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_47.pdf",
+        "title": "Microstructural evolution and interfaces in cold sprayed hybrid aluminum alloy powders of different hardness",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224010247?casa_token=wTOh7I0wpfYAAAAA:9oQ8lQgFKBELfoMKDYtKIXztZ9d1XzAh5GGkTj6qRknvM94VOm15y7tZ7_Wy0q6V3Qm4aqeq",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 2.56,
+                "hardness_units": "GPa",
+                "modulus_value": 76,
+                "modulus_units": "GPa",
+                "notes": "Composite deposit achieved by cold spraying Al HEA blended with Al 6061 in a 1:1 wt% ratio, resulting in a thickness of 5 mm."
+            }
+        ]
+    },
+    {
+        "filename": "Article_48.pdf",
+        "title": "Substrate Roughness and Thickness Effects on Cold Spray Nanocrystalline Al-Mg Coatings",
+        "link": "https://link.springer.com/article/10.1361/105996306X108174",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_49.pdf",
+        "title": "Adhesion, tribological and corrosion properties of cold-sprayed CoCrMo and Ti6Al4V coatings on 6061-T651 Al alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897217307636?casa_token=52L5x7LlpmsAAAAA:W9Hq5m9Jq4_GWgahHdj3Rj_grGrVyJKoemKSmk5X6eJElpFCOytd-oxknwPo2QhJuklSEno7",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_50.pdf",
+        "title": "Bonding mechanism and microstructural evolution in mechanically-alloyed nanodiamond-reinforced Al6061 composite particle deposits in cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897223003869?casa_token=nGygSyfXqg8AAAAA:PkaJYno5BFicM4EzyyYCx3gm6mj2kP2ahg9j1jpr18KsxBSm-KwWvyoUBd3B3i8qgPmJROpO",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_51.pdf",
+        "title": "Effects of Interface Bonding on the Residual Stresses in Cold-Sprayed Al-6061: A Numerical Investigation",
+        "link": "https://link.springer.com/article/10.1007/s11666-019-00827-7",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_52.pdf",
+        "title": "Different Cold Spray Deposition Strategies: Single- and Multi-layers to Repair Aluminium Alloy Components",
+        "link": "https://link.springer.com/article/10.1007/s11666-014-0141-y",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 100,
+                "hardness_units": "HV0.01",
+                "modulus_value": 38,
+                "modulus_units": "GPa",
+                "notes": "Single-pass deposition with varying coating thickness (0.5 mm to 2 mm)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 100,
+                "hardness_units": "HV0.01",
+                "modulus_value": 58,
+                "modulus_units": "GPa",
+                "notes": "Multi-pass deposition with constant overall coating thickness (2 mm)"
+            }
+        ]
+    },
+    {
+        "filename": "Article_53.pdf",
+        "title": "In situ stress measurements during anodic dissolution of cold spray AA6061 coating",
+        "link": "https://www.proquest.com/docview/2622964897?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_54.pdf",
+        "title": "..",
+        "link": "..",
+        "extractedText": "NA"
+    },
+    {
+        "filename": "Article_55.pdf",
+        "title": "Effect of Surface Preparation on the Microstructure, Adhesion, and Tensile Properties of Cold-Sprayed Aluminum Coatings on AA2024 Substrates",
+        "link": "https://link.springer.com/article/10.1007/s11666-014-0175-1",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_56.pdf",
+        "title": "Cold Spray Coatings Recent Trends and Future Perspectives",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-67183-3_2",
+        "extractedText": "NA - Context Limit"
+    },
+    {
+        "filename": "Article_57.pdf",
+        "title": "Cold sprayed aluminum based glassy coating: Synthesis, wear and corrosion properties",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897213004039?casa_token=OsZzNWTDzI8AAAAA:V6Pl_-M2LeioGCBbyfHNZwIgasQKmR5EIEV1OCwPPMIRssc5yTGufTOOJ1moKqfFAn-PmQIL",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 3.36,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Micro-hardness measured using Vickers indenter with 200g load for 15s dwell time"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 5.01,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nano-hardness measured using Hysitron Triboindenter with Berkovich probe, 100nm depth"
+            }
+        ]
+    },
+    {
+        "filename": "Article_58.pdf",
+        "title": "Precipitation behavior of cold sprayed Al6061 coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2589152922001934?casa_token=ogSNoPI8aOQAAAAA:hbb-h9WzPLgt5NSoUUiwjGCi72b86yd1ShCqQqBWM3qOWg4ClyXqlrgR10PBjAeB5gw1yMt1",
+        "extractedText": [
+            {
+                "yield_strength_value": 56.25,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 107,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-deposited coating"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": 0.26,
+                "ductility_units": "%",
+                "hardness_value": 88,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-deposited coating after further aging"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 101,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Solutionized aged coating"
+            }
+        ]
+    },
+    {
+        "filename": "Article_59.pdf",
+        "title": "In-situ creep deformation of cold sprayed aluminum splats at elevated temperatures",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219305249?casa_token=-DiJw8FxsC8AAAAA:R5elq8h9zxfa3lPGo6n4fEhTU1u-V2cL-WNWnFnFrQvSnq7cHqB5DmXQY12R38gIb4Pr2lAy",
+        "extractedText": [
+            {
+                "yield_strength_value": 460,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.37,
+                "hardness_units": "GPa",
+                "modulus_value": 35.7,
+                "modulus_units": "GPa",
+                "notes": "Indentation performed at room temperature"
+            },
+            {
+                "yield_strength_value": 550,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.65,
+                "hardness_units": "GPa",
+                "modulus_value": 29.4,
+                "modulus_units": "GPa",
+                "notes": "Indentation performed at 176\u00b0C, standard heat-treatment temperature"
+            },
+            {
+                "yield_strength_value": 23,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 70,
+                "hardness_units": "MPa",
+                "modulus_value": 15.5,
+                "modulus_units": "GPa",
+                "notes": "Indentation performed at 400\u00b0C"
+            }
+        ]
+    },
+    {
+        "filename": "Article_60.pdf",
+        "title": "Materials Characterization of advanced cold-spray aluminum alloys",
+        "link": "https://openurl.ebsco.com/EPDB%3Agcd%3A5%3A1967093/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A118270599&crl=c&link_origin=scholar.google.com",
+        "extractedText": "NA"
+    },
+    {
+        "filename": "Article_61.pdf",
+        "title": "Factors governing static properties and fatigue, fatigue crack growth, and fracture mechanisms in cold spray alloys and coatings/repairs: A review",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860420307430?casa_token=6sK5pKAFofgAAAAA:yGEIJa6mJvjDJLoqAUcsgkaZIFX5jATKyBUSE7Hs-OjaswQG-5QN8zAs4-Wzij_R7s-qWA_i",
+        "extractedText": [
+            {
+                "yield_strength_value": 252,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 315,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 5.2,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed"
+            },
+            {
+                "yield_strength_value": 262.0,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 286.8,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 67.5,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed, ASTM E8"
+            },
+            {
+                "yield_strength_value": 147.5,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 195.1,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 64.1,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treated at 344\u00b0C-8 h"
+            },
+            {
+                "yield_strength_value": 203.4,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 216.5,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 65.1,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treated T6, ASTM E8"
+            },
+            {
+                "yield_strength_value": 438,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": 3.0,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed Y"
+            },
+            {
+                "yield_strength_value": 491,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": 3.6,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treated at 176\u00b0C-1 h Y"
+            },
+            {
+                "yield_strength_value": 464,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": 3.8,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treated at 176\u00b0C-8 h Y"
+            },
+            {
+                "yield_strength_value": 555,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": 5.8,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat treated at 176\u00b0C-1 h Y"
+            }
+        ]
+    },
+    {
+        "filename": "Article_62.pdf",
+        "title": "Modelling the anisotropic fracture behaviour of cold spray additive manufactured 6061 aluminium alloy deposits based on the phase field method",
+        "link": "",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_63.pdf",
+        "title": "Cold Spray Deposition of Aluminium 6061 Decoradted with Al2O3 Nanoparticles",
+        "link": "https://dl.asminternational.org/itsc/proceedings-abstract/ITSC2023/84536/574/26362",
+        "extractedText": "NA"
+    },
+    {
+        "filename": "Article_64.pdf",
+        "title": "Residual stress induced by cold spray coating of magnesiums AZ31B extrusion",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0261306914002477?casa_token=BklB2AKJyq0AAAAA:jLX1BJA_lJgfbIaf5Awo5XnqTA25UowCgSpjN6rGCUlZSKiqo-Y3jij5LlCeq2ZvHmoMV8L0",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_65.pdf",
+        "title": "Fabrication of aluminum-alumina metal matrix composites via cold gas dynamic spraying at low pressure followed by friction stir processing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509312009124?casa_token=290QzJ6dsncAAAAA:YeQcc2BAEskY2wdjr0UW4jrUJV0IoaA6-Te_1tt0VhIXvMcBT_nq6hTexsWsNkvW2S_CTSmj",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 45,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed coating with 100wt% Al powder"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 57,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed coating with 17wt% Al\u2082O\u2083"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 85,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed coating with 48wt% Al\u2082O\u2083"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 137,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Friction stir processed coating with 48wt% Al\u2082O\u2083 at 894RPM"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 105,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Base 6061 Al substrate"
+            }
+        ]
+    },
+    {
+        "filename": "Article_66.pdf",
+        "title": "The Microstructural Annealing Response of Cold Gas Dynamically Sprayed Al 6061",
+        "link": "https://digitalcommons.unf.edu/etd/846/",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 99.2,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "AR low deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 93.7,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "1 hr low deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 80.8,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "10 hr low deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 67.9,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "100 hr low deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 107,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "AR medium deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 101,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "1 hr medium deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 88.7,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "10 hr medium deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 74.9,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "100 hr medium deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 119,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "AR high deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 112,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "1 hr high deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 101,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "10 hr high deformation region indent"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 91.1,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "100 hr high deformation region indent"
+            }
+        ]
+    },
+    {
+        "filename": "Article_67.pdf",
+        "title": "Dissimilar metal joining and structural repair of ZE41A-T5 cast magnesium by the cold spray (CS) process",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/10426914.2016.1257137?scroll=top&needAccess=true#abstract",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 163,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 105,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of 6061 Al onto ZE41A-T5 Mg substrates."
+            }
+        ]
+    },
+    {
+        "filename": "Article_68.pdf",
+        "title": "Microsturcture and Mechanical Properties of the Plasma-Sprayed and Cold-Sprayed Al0.5CoCrFeNi2Ti0.5 High-Entropy Alloy Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01356-6",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_69.pdf",
+        "title": "Recover the tensile strength of hard aluminum alloy through laser assisted cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224005978?casa_token=wBAVFwqSQrYAAAAA:33cg6eS4Sg7B0HrC6bLYILhcm7tVnNEF2NX-DW5vypALwDvtYBTV1ToqKV6HJQlRvYxevMKM",
+        "extractedText": [
+            {
+                "yield_strength_value": 372,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 413,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Repaired by cold spray (CS) process"
+            },
+            {
+                "yield_strength_value": 378,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 439,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 7.3,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Repaired by laser-assisted cold spray (LACS) process"
+            }
+        ]
+    },
+    {
+        "filename": "Article_70.pdf",
+        "title": "Effect of cold spray parameters on surface roughness, thickness and adhesion of copper based composite coating on aluminium alloy 6061 T6 substrate",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4369202",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_71.pdf",
+        "title": "Influence of Pre-heated Al 6061 Substrate Temperature on the Residual Stresses of Multipass Al Coatings Deposited by Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-010-9596-7",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_72.pdf",
+        "title": "Impact of cold spraying on microstructure and mechanical properties of optimized friction stir welded AA2024-T3 joint",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509317308900?casa_token=aqlL-CbZI6MAAAAA:E8odehdTBRG3hz-lxnlvHWSMkl0QEgUXzL4ycajvSHy30CWUMx1ijCoGFFIKK5tAVxDerHdk",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_73.pdf",
+        "title": "Towards high-strength cold spray additive manufactured metals: Methods, mechanisms, and properties",
+        "link": "",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 277.6,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.56,
+                "ductility_units": "%",
+                "hardness_value": 0.12,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed with powder preheated at 300\u00b0C, pressure 2.5 MPa, using peening particles 1Cr13 (200\u2013300 \u03bcm)"
+            }
+        ]
+    },
+    {
+        "filename": "Article_74.pdf",
+        "title": "Characterization Of In-Situ Peened Aluminum 6061 Nitrogen Sprayeed Cold Spray Depositions",
+        "link": "https://www.proquest.com/docview/2897326712?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 140,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition using nitrogen carrier gas"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 153,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 11,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nitrogen carrier gas with 75% Al6061 and 25% ZrO peening media"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 202.7,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 15,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nitrogen carrier gas with 50% Al6061 and 50% ZrO peening media"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 282.7,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 32,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nitrogen carrier gas with 25% Al6061 and 75% ZrO peening media"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 327.5,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 4.8,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition using helium carrier gas"
+            }
+        ]
+    },
+    {
+        "filename": "Article_75.pdf",
+        "title": "The unique abilities of cold spray deposition",
+        "link": "https://journals.sagepub.com/doi/full/10.1080/09506608.2016.1194948?casa_token=RuCfLXMvhHIAAAAA%3ArKa9P8Yv9Xq2hGdrJ5C6FgRGWYdbkhqwJ-Bou9vVmKZFE0Bz0z9mEU_BafRPs4lKgRKrExL7SW7q",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_76.pdf",
+        "title": "Microstructural and Micromechanical Characterization of Feedstock for Cold Spray Additive Manufacturing and Processing",
+        "link": "https://www.mdpi.com/2674-0516/1/3/10",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_77.pdf",
+        "title": "High cycle fatigue behavior of bulk 6061 Al prepared by cold spray-friction stir processing composite additive manufacturing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0013794424004181?casa_token=2fBEY0E40lgAAAAA:_XyCFVroHRjiNXw0iMoCLF3GeZyPPfAADJGIBGwoyMxHpETXeG4wovryMtiRLLQ92IlwIkdr",
+        "extractedText": [
+            {
+                "yield_strength_value": 67,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 158,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 2.3,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "bulk 6061Al prepared by CS"
+            },
+            {
+                "yield_strength_value": 98,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 186,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 54.8,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "bulk 6061Al prepared by CFAM"
+            }
+        ]
+    },
+    {
+        "filename": "Article_78.pdf",
+        "title": "Fabrication and study of electrochemical, mechanical & tribological properties of Al alloys coatings by cold spraying",
+        "link": "https://ttu-ir.tdl.org/items/52f7483b-a3ab-4da2-a478-e2d200c41327",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_79.pdf",
+        "title": "Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112324004663?casa_token=hEkgj0c5-z4AAAAA:BoQlNqz7DU9bv644S_I-k164Wd-abMLOV0y5ZBBJncsS5wuRZMaLQUQlS-cmof5cSVA-3533",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_80.pdf",
+        "title": "Research on Micro-nanoscale SiCp/6061Al Composite Coating Using High-Pressure Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01880-7",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 100.64,
+                "hardness_units": "Hv",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hardness peaks at mass ratio 5:15 with 100.64 Hv"
+            }
+        ]
+    },
+    {
+        "filename": "Article_81.pdf",
+        "title": "Effect of Gas Propellant Temperature on the Microstructure, Friction, and Wear Resistance of High-Pressure Cold Sprayed Zr702 Coatings on Al6061 Alloy",
+        "link": "https://www.mdpi.com/2079-6412/12/2/263",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_82.pdf",
+        "title": "Rapidly Solidified Gas-Atomized Aluminum Alloys Compared with Conventionally Cast Counterparts: Implications for Cold Spray Materials Consolidation",
+        "link": "https://www.mdpi.com/2079-6412/10/11/1035",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_83.pdf",
+        "title": "Mechanical Performance of Cold-Sprayed A357 Aluminum Alloy Coatings for Repair and Additive Manufacturing",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0643-5",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_84.pdf",
+        "title": "Characterization of Al6061 Splats Cold Spray-deposited on Al6061-T6 Substrate",
+        "link": "https://www.proquest.com/docview/2088057257?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.675,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #1 for non-heat treated powder (054), unetched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.793,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #2 for non-heat treated powder (054), unetched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.811,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #2 for non-heat treated powder (054), etched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.385,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation test #1 for non-heat treated powder (054), unetched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.688,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #1 for conventionally heat treated powder (055), etched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.729,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #2 for conventionally heat treated powder (055), unetched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 0.688,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness test #2 for conventionally heat treated powder (055), etched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.22,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Nanoindentation test #1 for conventionally heat treated powder (055), unetched"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.08,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness measurement close to splats for substrate (054A)"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.46,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Microhardness measurement far from splats for substrate (054A)"
+            }
+        ]
+    },
+    {
+        "filename": "Article_85.pdf",
+        "title": "Role of in-situ splat sintering on elastic and damping behavior of cold sprayed aluminum coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S135964622100405X?casa_token=r5DylrwUqK0AAAAA:3MmSk-LYRU-zMa6JYsKIqVaods4cw4K4YsfwbnHbPWJFMtjYu9W9X1_pZVyBGHhW7_A58SDM",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": 19.5,
+                "modulus_units": "GPa",
+                "notes": "Heat-treated air sprayed cold-sprayed Al 6061 coating at 400\u00b0C"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": 38.5,
+                "modulus_units": "GPa",
+                "notes": "Heat-treated helium sprayed cold-sprayed Al 6061 coating at 400\u00b0C"
+            }
+        ]
+    },
+    {
+        "filename": "Article_86.pdf",
+        "title": "Enhavnced Electrochemical and Tribological Properties of AZ91D Magnesium Alloy via Cold Spraying of Aluminum Alloy",
+        "link": "https://link.springer.com/article/10.1007/s11666-019-00915-8",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_87.pdf",
+        "title": "Microstructural Development in Cold Sprayed Al 6061: Feedstock Powders Single- Particle Impacts and Consolidated Coatings",
+        "link": "https://www.proquest.com/docview/3073205541?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_88.pdf",
+        "title": "Microstructure, Mechanical Properties and Corrosion Behavior of the Aluminum Alloy Components Repaired by Cold Spray with Al-Based Powders",
+        "link": "https://www.mdpi.com/2075-4701/11/10/1633",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_89.pdf",
+        "title": "Joining Al 6061 to ZE41A Mg Alloy by Friction Stir Welding Using a Cold Spray Transition Joint",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-52383-5_22",
+        "extractedText": "NA - Context Limit"
+    },
+    {
+        "filename": "Article_90.pdf",
+        "title": "Influence of feedstock powder and cold spray processing parameters on microstructure and mechanical properties of Ti-6Al-4V cold spray depositions",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897217312318?casa_token=KWOJSUNq95wAAAAA:VwrQLgo-IP58NuzvD6q3i3dJAITRv3Cj-4wAaN1_cJnYxZAvG3zS0P59iJPbGtCYbcoZL0Sc",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_91.pdf",
+        "title": "An investigation into the mechanism for enhanced mechanical properties in friction stir welded AA2024-T3 joints coated with cold spraying",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433218300527?casa_token=gsmRpOeOMcEAAAAA:s4_9uHcx7EvRaA5cD3J9L-rC3Den4qrk8XzyEyEM5Ifr3o6HXuIlRRPnvvGyyfM-M6RCyjS1",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_92.pdf",
+        "title": "Mechanical and corrosion properties in 3.5% NaCl solution of cold sprayed Al-based coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897220300414?casa_token=qA8xpUiE6WkAAAAA:O0conKbENDkC1C0_0N-VO99b1emZsraZI3PK5buyc_mt0Hrn92_fAGVYbtLnFn9yRg3nUE79",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_93.pdf",
+        "title": "Analysis of the residual stress and bonding mechanism in the cold spray technique using experimental and numerical methods",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897214003983?casa_token=Ql8k2HTuF2gAAAAA:gFVqGWwLtHgHR789UmOlTNem1-_vliPWk1h4fBfS7_iuyc-vvtgq44Qfmrq6E6QRlexXLvgW",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": 69.6,
+                "modulus_units": "%",
+                "notes": "Young's modulus presented as percentage of bulk values."
+            }
+        ]
+    },
+    {
+        "filename": "Article_94.pdf",
+        "title": "A critical analysis of collision dynamics pertaining to aluminum micro particles on aluminium 6061 alloy substrate in cold spray additive manufacturing process",
+        "link": "https://www.researchgate.net/publication/367542804_A_critical_analysis_of_collision_dynamics_pertaining_to_aluminum_micro_particles_on_aluminium_6061_alloy_substrate_in_cold_spray_additive_manufacturing_process",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_95.pdf",
+        "title": "Effects of different heat treatments on anisotropy of cold sprayed 7075 Al deposits",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1044580323001869?casa_token=ZiWS-VRx-40AAAAA:plzvIuv-OYmBVtivAo4Q302mFsafkY_yW09QNWSsTgXa1lTG931PC8FQbdeFRfODhABbT4cV",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_96.pdf",
+        "title": "Application of High-Pressure Cold Spray for an Internal Bore Repair of a Navy Valve Actuator",
+        "link": "https://link.springer.com/article/10.1007/s11666-015-0366-4",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 199,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 1.92,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "ASTM E8 type tensile testing on initial mockup sample 1"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 203,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 2.01,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "ASTM E8 type tensile testing on initial mockup sample 2"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 272,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 2.91,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "ASTM E8 type tensile testing on final process sample 1"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 251,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 3.02,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "ASTM E8 type tensile testing on final process sample 2"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 87,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Average hardness measured on mockup with 87 \u00b1 3.3 HV"
+            }
+        ]
+    },
+    {
+        "filename": "Article_97.pdf",
+        "title": "Effect of friction stir spot processing on microstructure and mechanical properties of cold-sprayed Al coating on Ti substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897221005260?casa_token=sKgpbHItxXUAAAAA:QCcEux-zEL2p4hndetE-nbSrACJYnTCX38dYd9NTdLC0xyZCvZ0wTpPgSxSsVyjxGr5Z6LA9",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_98.pdf",
+        "title": "Microstructure, mechanical properties, and corrosion behavior of 6061Al alloy prepared by cold spray-friction stire processing composite additive manufacturing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1003632623663319",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 166,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 45.4,
+                "ductility_units": "%",
+                "hardness_value": 55,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Bulk 6061 aluminum alloy prepared by cold spray-friction stir processing composite additive manufacturing (CFAM). Tested along PD direction."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 174,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 55.6,
+                "ductility_units": "%",
+                "hardness_value": 55,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Bulk 6061 aluminum alloy prepared by cold spray-friction stir processing composite additive manufacturing (CFAM). Tested along TD direction."
+            }
+        ]
+    },
+    {
+        "filename": "Article_99.pdf",
+        "title": "Corrosion Characteristics And Mechanical Properties Of Aluminum Coatings Applied By The Cold Spray Process",
+        "link": "https://digitalcommons.bucknell.edu/masters_theses/33/",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_100.pdf",
+        "title": "Preparation and mechanical properties of cold sprayed nanocrystalline aluminum",
+        "link": "https://www.osti.gov/servlets/purl/1145747",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.464,
+                "hardness_units": "GPa",
+                "modulus_value": 87.5,
+                "modulus_units": "GPa",
+                "notes": "6061 T6 Bulk at 1000 nm depth"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.45,
+                "hardness_units": "GPa",
+                "modulus_value": 86.7,
+                "modulus_units": "GPa",
+                "notes": "Wrought 6061 at 250 nm depth"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.322,
+                "hardness_units": "GPa",
+                "modulus_value": 87.9,
+                "modulus_units": "GPa",
+                "notes": "Wrought 6061 at 1000 nm depth"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.363,
+                "hardness_units": "GPa",
+                "modulus_value": 86.7,
+                "modulus_units": "GPa",
+                "notes": "6061 coating as-received powder at 250 nm depth"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 2.621,
+                "hardness_units": "GPa",
+                "modulus_value": 84.4,
+                "modulus_units": "GPa",
+                "notes": "6061 coating as-received powder at 1000 nm depth"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 2.715,
+                "hardness_units": "GPa",
+                "modulus_value": 83.9,
+                "modulus_units": "GPa",
+                "notes": "6061 coating LN2 milled powder at 250 nm depth"
+            }
+        ]
+    },
+    {
+        "filename": "Article_101.pdf",
+        "title": "Experimental Studies into the Analysis Required for the Durability Assessment of 7075 and 6061 Cold Spray Repairs to Military Aircraft",
+        "link": "https://www.mdpi.com/2226-4310/7/9/119",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_102.pdf",
+        "title": "An effective approach to improve microstructure and tribological properties of cold sprayed Al alloys",
+        "link": "https://www.degruyter.com/document/doi/10.1515/rams-2023-0314/html",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 82,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "As-sprayed sample"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Heat-treated sample"
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 89,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot-rolled sample"
+            }
+        ]
+    },
+    {
+        "filename": "Article_103.pdf",
+        "title": "Microstructure Characteristics and Mechanical properties of Al-12Si Coatings on AZ31 Magnesium Alloy produced by Cold Spray Technique",
+        "link": "https://link.springer.com/article/10.1007/s11666-016-0409-5",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_104.pdf",
+        "title": "Electrochemical corrosion performance of friction stir processed cold spray metal matrix composite coatings on AZ31B magnesium alloy under sodium chloride environment",
+        "link": "https://iopscience.iop.org/article/10.1088/2051-672X/ac8301/meta?casa_token=E3LnuzthQKAAAAAA:iCgYtPx9KivSkqGVnLhRwPf8OmtEWEkGzu69AboePWGFbtAqIzaatyFAiHRxsA1AwDk8ueAqERUHwAAW92Oi2Tbhcps",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_105.pdf",
+        "title": "The Potential of the Cold Spray Process for the Repair and Manufacture of Aluminium Alloy Parts",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-48761-8_40",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_106.pdf",
+        "title": "A viable approach to repair neutron shielding B4C/6061 Al composite sheets through cold spray and hot rolling co-treatment",
+        "link": "https://www.sciencedirect.com/science/article/pii/S100503022100788X?casa_token=eYdeL2IBwyAAAAAA:u6aHh9feCZB4O_DZXYH2Wxory1fl0xYHPieiege-32O_L2ONanJ59o4H-DqvCRG1dXqpFrm0",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_107.pdf",
+        "title": "Characterization of cold-sprayed material consolidations",
+        "link": "https://books.google.com/books?hl=en&lr=&id=oCWjEAAAQBAJ&oi=fnd&pg=PA205&dq=%22cold+spray%22+(6061+aluminum+OR+6061+aluminium+OR+%22Al+6061%22+OR+%22AA+6061%22)+(yield+strength+OR+YS+OR+modulus+OR+%22Young%5C%27s+modulus%22+OR+%22elastic+modulus%22+OR+hardness+OR+microhardness+OR+%22Vickers+hardness%22+OR+ductility+OR+elongation+OR+%22percent+elongation%22+OR+%22%25+elongation%22)&ots=rBr_PX0A8M&sig=epRzh6hq41iF8J90QsdPgScdr3g#v=onepage&q&f=false",
+        "extractedText": "NA"
+    },
+    {
+        "filename": "Article_108.pdf",
+        "title": "Crack Repair in Aerospace Aluminum Alloy panels by Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0534-9",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_109.pdf",
+        "title": "Properties of SiC-reinforced aluminum alloy coatings produced by the cold gas dynamic spraying process",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897208001321?casa_token=uyT8av0ec6sAAAAA:Oyt5or8s6oVezH13tGTcD6cihApD7Yj1kctgVa214bL-y4mYxiQ3FrT927Wom-FynxZqxNwU",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_110.pdf",
+        "title": "Characterization of Microstructural Evolution and Bond Formation in Cold Sprayed Aluminum Alloy Splats and Substrates",
+        "link": "https://www.proquest.com/docview/2438990364?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_111.pdf",
+        "title": "Experimental Substantiation of Computational Thermodynamic, Kinetic, and Solidification Modeling for Cold Sprayable, Gas-atomized, Al 6061 Powder",
+        "link": "https://www.researchgate.net/profile/Bryer-Sousa/publication/347441536_Experimental_Substantiation_of_Computational_Thermodynamic_Kinetic_and_Solidification_Modeling_for_Cold_Sprayable_Gas-atomized_Al_6061_Powder/links/5fe9d0d9a6fdccdcb80d337c/Experimental-Substantiation-of-Computational-Thermodynamic-Kinetic-and-Solidification-Modeling-for-Cold-Sprayable-Gas-atomized-Al-6061-Powder.pdf",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_112.pdf",
+        "title": "Effects of spraying parameters and heat treatment temperature on microstructure and properties of single-pass and single-layer cold-sprayed Cu coatings on Al alloy substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224008156?casa_token=MPM1rN-PHNgAAAAA:idsothXaaRzLlmb6u5YO2hsk9IvZ8KnXFE3HiqAjO2MOfYGdJmLTuKvUxo3hU5mMY2b51VY4",
+        "extractedText": []
+    },
+    {
+        "filename": "Article_113.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_114.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_115.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_116.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_117.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_118.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_119.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_120.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_121.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_122.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_123.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_124.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    },
+    {
+        "filename": "Article_125.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": ""
+    }
+]

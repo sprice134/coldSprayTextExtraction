@@ -32,12 +32,12 @@
       { 
         "yield_strength_value": "NA", 
         "yield_strength_units": "NA", 
-        "ultimate_tensile_strength_value": "NA", 
-        "ultimate_tensile_strength_units": "NA", 
+        "ultimate_tensile_strength_value": 100, 
+        "ultimate_tensile_strength_units": "MPa", 
         "ductility_value": "NA", 
         "ductility_units": "NA", 
-        "hardness_value": 60, 
-        "hardness_units": "HV", 
+        "hardness_value": 85, 
+        "hardness_units": "HV0.3", 
         "modulus_value": "NA", 
         "modulus_units": "NA", 
         "notes": "As-sprayed deposit from solution-annealed (pAS) powder at Tgas=400°C, pgas=3 MPa, g=1.07" 
@@ -45,55 +45,16 @@
     { 
       "yield_strength_value": "NA", 
       "yield_strength_units": "NA", 
-      "ultimate_tensile_strength_value": "NA", 
-      "ultimate_tensile_strength_units": "NA", 
-      "ductility_value": "NA", 
-      "ductility_units": "NA", 
-      "hardness_value": 65, 
-      "hardness_units": "HV", 
-      "modulus_value": "NA", 
-      "modulus_units": "NA",
-      "notes": "As-sprayed deposit from solution-annealed (pAS) powder at Tgas=450°C, pgas=3 MPa, g=1.15" 
-    }, 
-    { 
-      "yield_strength_value": "NA", 
-      "yield_strength_units": "NA", 
-      "ultimate_tensile_strength_value": 107, 
-      "ultimate_tensile_strength_units": "MPa",
-      "ductility_value": "NA", 
-      "ductility_units": "NA", 
-      "hardness_value": 69, 
-      "hardness_units": "HV", 
-      "modulus_value": "NA", 
-      "modulus_units": "NA", 
-      "notes": "As-sprayed deposit from solution-annealed (pAS) powder at Tgas=500°C, pgas=3 MPa, g=1.25" 
-    }, 
-    { 
-      "yield_strength_value": "NA", 
-      "yield_strength_units": "NA", 
-      "ultimate_tensile_strength_value": "NA",
-      "ultimate_tensile_strength_units": "NA", 
-      "ductility_value": "NA", 
-      "ductility_units": "NA", 
-      "hardness_value": 79, 
-      "hardness_units": "HV", 
-      "modulus_value": "NA", 
-      "modulus_units": "NA", 
-      "notes": "As-sprayed deposit from solution-annealed (pAS) powder at Tgas=550°C, pgas=3 MPa, g=1.35" 
-    }, 
-    { 
-      "yield_strength_value": "NA", 
-      "yield_strength_units": "NA", 
-      "ultimate_tensile_strength_value": 70, 
+      "ultimate_tensile_strength_value": 75, 
       "ultimate_tensile_strength_units": "MPa", 
       "ductility_value": "NA", 
       "ductility_units": "NA", 
-      "hardness_value": 85, 
-      "hardness_units": "HV", 
+      "hardness_value": 69, 
+      "hardness_units": "HV0.3", 
       "modulus_value": "NA", 
-      "modulus_units": "NA", 
-      "notes": "As-sprayed deposit from as-atomized/stored (pAA) powder at Tgas=500°C, pgas=3 MPa, g=1.02" 
-      } 
+      "modulus_units": "NA",
+      "notes": "As-sprayed deposit from solution-annealed (pAS) powder at Tgas=500°C" 
+    }
     ],
     "Article_4":[],
     "Article_5":[
