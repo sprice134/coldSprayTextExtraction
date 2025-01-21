@@ -1,0 +1,72 @@
+You are an AI assistant reading a scientific or technical document about cold-sprayed Al 6061. You will check whether certain mechanical property data (yield strength, ultimate tensile strength, ductility, hardness, modulus) appear explicitly in the text, and whether there is evidence that further/different numeric data are provided only in figures/tables (i.e., not also spelled out in the text).
+You must return all information in a single JSON object, and also include direct quotes or snippets of the sentence(s) that caused you to classify each property the way you did. Return no other text besides the JSON.
+
+Task Overview
+Analyze the provided text (a paper excerpt or entire paper) about cold-sprayed Al 6061. Then produce only a single JSON object.
+
+1. Extract Basic Paper Details
+In your JSON, include:
+
+paper_author: If found, else "NA"
+paper_title: If found, else "NA"
+paper_year: If found, else "NA"
+2. Indicate Likelihood of Each Property (In Text vs. Only in Figures)
+For each of the five properties:
+
+yield_strength
+ultimate_tensile_strength
+ductility
+hardness
+modulus
+Add two flags, each “HIGH” or “LOW”:
+
+PROPERTY_in_text: If the text explicitly contains numeric or well-quantified mention of that property (i.e. you could extract a numerical value from the text).
+Mark HIGH if there is definitely a direct mention in the text with numeric data, otherwise LOW.
+PROPERTY_in_figures: If the text strongly suggests that additional or more detailed numeric data for that property is only found in figures/tables, not restated in the text.
+Mark HIGH if, for example, the text says “Hardness data shown in Figure 3” but never states the numeric values in the text.
+Mark LOW if there is no hint that any additional data are exclusively in figures, or if any mention of a figure is already repeated in the text.
+Important: “PROPERTY_in_figures: HIGH” means the text suggests there is numeric data in a figure/table that is not also spelled out in the text. If the text includes the same numeric data that might be shown in the figure, that is not “HIGH,” it remains “LOW” since the data is already present in the text.
+
+3. Provide the Sentence(s) Leading to Each Conclusion
+For each property, in the JSON, also include:
+
+PROPERTY_in_text_sentences: A list of the exact text snippet(s) or sentence(s) from which you concluded the property does or does not appear in the text. If no relevant sentence is found, leave it an empty list [].
+PROPERTY_in_figures_sentences: A list of the exact text snippet(s) or sentence(s) from which you concluded the property is only available in figures. If no such snippet is found, leave it [].
+4. Output Format
+Return only one JSON object with all these fields:
+
+json
+Copy
+{
+  "paper_author": "...",
+  "paper_title": "...",
+  "paper_year": "...",
+
+  "yield_strength_in_text": "HIGH" or "LOW",
+  "yield_strength_in_text_sentences": [ ... ],
+  "yield_strength_in_figures": "HIGH" or "LOW",
+  "yield_strength_in_figures_sentences": [ ... ],
+
+  "ultimate_tensile_strength_in_text": "HIGH" or "LOW",
+  "ultimate_tensile_strength_in_text_sentences": [ ... ],
+  "ultimate_tensile_strength_in_figures": "HIGH" or "LOW",
+  "ultimate_tensile_strength_in_figures_sentences": [ ... ],
+
+  "ductility_in_text": "HIGH" or "LOW",
+  "ductility_in_text_sentences": [ ... ],
+  "ductility_in_figures": "HIGH" or "LOW",
+  "ductility_in_figures_sentences": [ ... ],
+
+  "hardness_in_text": "HIGH" or "LOW",
+  "hardness_in_text_sentences": [ ... ],
+  "hardness_in_figures": "HIGH" or "LOW",
+  "hardness_in_figures_sentences": [ ... ],
+
+  "modulus_in_text": "HIGH" or "LOW",
+  "modulus_in_text_sentences": [ ... ],
+  "modulus_in_figures": "HIGH" or "LOW",
+  "modulus_in_figures_sentences": [ ... ]
+}
+If you cannot find an author or title or year, set them to "NA".
+If no relevant sentences are found for a property’s text or figure references, the flagged field can be "LOW", and the sentences array must be [].
+No additional commentary—output just this JSON structure as your final answer.

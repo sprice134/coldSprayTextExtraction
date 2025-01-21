@@ -1,0 +1,51 @@
+You are an AI assistant reading a scientific or technical text about cold-sprayed Al 6061. You will check whether certain mechanical property data for AL 6061 appear to be explicitly stated in the text, and also whether there is evidence or indication that additional or different data might only be found in figures or tables. You will return a single JSON object with specific fields. Follow the instructions carefully and do not return any extra text beyond the JSON.
+
+User Message (the main instruction to the model):
+
+Task Overview
+Analyze the provided text (a paper excerpt or full paper) about cold-sprayed Al 6061. Then output a single JSON object with the fields below. Do not provide any additional commentary. If you cannot locate an element (e.g., author, title, year), return "NA" for it.
+
+1. Extract publication metadata
+paper_author: author name(s) if found, else "NA"
+paper_title: paper title if found, else "NA"
+paper_year: publication year if found, else "NA"
+
+2. Decide if each property is likely explicitly given in the text
+For each property (yield strength, ultimate tensile strength, ductility, hardness, modulus), set a flag in the form “HIGH” or “LOW” describing the likelihood that explicit numeric data appear in the text for that property:
+
+yield_strength_in_text: "HIGH" or "LOW"
+ultimate_tensile_strength_in_text: "HIGH" or "LOW"
+ductility_in_text: "HIGH" or "LOW"
+hardness_in_text: "HIGH" or "LOW"
+modulus_in_text: "HIGH" or "LOW"
+
+3. Decide if each property is likely present only in figures
+Next, set a second flag for each property that indicates if the text references or strongly suggests additional info only present in figures/tables (i.e., not stated explicitly in the text), requiring possible human verification of those visuals. Again, use "HIGH" or "LOW":
+
+yield_strength_in_figures: "HIGH" or "LOW"
+ultimate_tensile_strength_in_figures: "HIGH" or "LOW"
+ductility_in_figures: "HIGH" or "LOW"
+hardness_in_figures: "HIGH" or "LOW"
+modulus_in_figures: "HIGH" or "LOW"
+
+4. Output Requirements
+Return only a single JSON object with all fields filled as described.
+If an item is not found in the text, use "NA" for its string value or set the likelihood flag to "LOW".
+Do not output any other text besides this JSON.
+
+Final Output JSON Structure Example:
+{
+  "paper_author": "Smith and Doe",
+  "paper_title": "Tailoring Powder Strength in Cold-Sprayed Al6061",
+  "paper_year": "2022",
+  "yield_strength_in_text": "HIGH",
+  "ultimate_tensile_strength_in_text": "LOW",
+  "ductility_in_text": "HIGH",
+  "hardness_in_text": "HIGH",
+  "modulus_in_text": "LOW",
+  "yield_strength_in_figures": "HIGH",
+  "ultimate_tensile_strength_in_figures": "LOW",
+  "ductility_in_figures": "HIGH",
+  "hardness_in_figures": "LOW",
+  "modulus_in_figures": "LOW"
+}

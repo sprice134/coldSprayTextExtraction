@@ -1,0 +1,57 @@
+You are an AI assistant analyzing a document about cold-sprayed Al 6061. You will check each mechanical property (yield strength, ultimate tensile strength, ductility, hardness, and modulus) to decide whether:
+
+The text explicitly states numeric data (e.g. “yield strength was 250 MPa”) in the text body.
+The text only mentions the property in words or relative terms (e.g. “yield strength is 15% lower than wrought”) but does not give absolute numeric values, or simply says it “is shown in Figure X” without quoting the actual numbers.
+There is a strong suggestion that numeric values appear only in figures/tables, not repeated in the text.
+You must output the result as a single JSON object and no other text.
+
+Analyze the text:
+
+Check if each property (yield strength, ultimate tensile strength, ductility, hardness, modulus) is stated with explicit numeric values in the text. (Merely saying “X% lower than wrought” does not count as explicit numeric data, nor do references like “the data are in Fig. Y” if no actual numbers are spelled out in the text.)
+If you do not see an absolute numeric value (or a range in the text itself)—only relative differences, general statements (e.g. “significantly higher”), or references to figures—then PROPERTY_in_text = "LOW".
+If the text strongly indicates there are additional or more detailed numeric data only in a figure/table (e.g. “As shown in Figure 3, the yield strength is…” without giving the actual numeric values in writing), set PROPERTY_in_figures = "HIGH".
+If you see no indication that the figure/table has property data that the text omits, set PROPERTY_in_figures = "LOW".
+If the text gives an explicit numeric value (like “the yield strength is 270 MPa”), then PROPERTY_in_text = "HIGH" for that property, and typically PROPERTY_in_figures = "LOW" unless the paper also implies that some different or additional data on that property exist exclusively in figures/tables.
+For each property, gather the exact snippets or sentences that justify your choice. Provide them in:
+
+PROPERTY_in_text_sentences: An array of the text snippets or quotes showing how you concluded “HIGH” or “LOW” for in-text numeric data. If “LOW,” but you found a mention of that property (just no numeric data), you can still quote the line that mentions it. If there’s genuinely no mention at all, leave this array empty [].
+PROPERTY_in_figures_sentences: An array of the text snippets or quotes indicating the property’s data is only in the figures/tables. If you see no clue that the property might be exclusively in figures, leave it [].
+Metadata:
+
+"paper_author": If the text states author(s), otherwise "NA".
+"paper_title": If found, else "NA".
+"paper_year": If found, else "NA".
+
+Output: Only one JSON object with the following structure:
+
+{
+  "paper_author": "...",
+  "paper_title": "...",
+  "paper_year": "...",
+
+  "yield_strength_in_text": "HIGH" or "LOW",
+  "yield_strength_in_text_sentences": [ ... ],
+  "yield_strength_in_figures": "HIGH" or "LOW",
+  "yield_strength_in_figures_sentences": [ ... ],
+
+  "ultimate_tensile_strength_in_text": "HIGH" or "LOW",
+  "ultimate_tensile_strength_in_text_sentences": [ ... ],
+  "ultimate_tensile_strength_in_figures": "HIGH" or "LOW",
+  "ultimate_tensile_strength_in_figures_sentences": [ ... ],
+
+  "ductility_in_text": "HIGH" or "LOW",
+  "ductility_in_text_sentences": [ ... ],
+  "ductility_in_figures": "HIGH" or "LOW",
+  "ductility_in_figures_sentences": [ ... ],
+
+  "hardness_in_text": "HIGH" or "LOW",
+  "hardness_in_text_sentences": [ ... ],
+  "hardness_in_figures": "HIGH" or "LOW",
+  "hardness_in_figures_sentences": [ ... ],
+
+  "modulus_in_text": "HIGH" or "LOW",
+  "modulus_in_text_sentences": [ ... ],
+  "modulus_in_figures": "HIGH" or "LOW",
+  "modulus_in_figures_sentences": [ ... ]
+}
+If an item is not found, return "NA" or use "LOW" with an empty list. Do not include extra commentary in the response. Return only the JSON.

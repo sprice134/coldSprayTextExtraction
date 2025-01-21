@@ -1,0 +1,6 @@
+Figure Flagging V1:
+ - The flagging system flags things too frequnetly, offering little utility
+Figure Flagging V2:
+ - This one doesn't flag enough, rarely properly flagging things
+ Figure Flagging V3:
+ - This one did pretty good, but falsely flagged metrics from particles and non-6061 materials
