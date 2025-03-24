@@ -1,0 +1,108 @@
+Instructions:
+
+You are given:
+ - A text describing one or more cold spray experiments and the resulting mechanical properties (e.g., yield strength, ultimate tensile strength, ductility, etc.).
+ - A specific set of experimental results of interest, marked as {EXPERIMENTAL_RESULTS}.
+
+Your task is:
+ - Identify the particular cold spray processing parameters in the text that produced the experimental results.
+ - Return exactly one JSON object containing the following fields. If a field is not mentioned or cannot be found, set its value to "NA" for string or numeric fields, and false for boolean fields.
+
+Fields to extract (with expected data types in parentheses):
+ - material (string): e.g., "Aluminum," "Steel," etc.
+ - material_series (string): e.g., "6061," "4340"
+ - material_composition (string)
+ - gas_type (string)
+ - gas_velocity_value (numeric)
+ - gas_velocity_units (string)
+ - gas_pressure_value (numeric)
+ - gas_pressure_units (string)
+ - gas_temperature_value (numeric)
+ - gas_temperature_units (string)
+ - standoff_distance_value (numeric)
+ - standoff_distance_units (string)
+ - post_deposition_treatment (boolean)
+ - post_deposition_treatment_description (string)
+ - nozzle_type (string)
+ - material_depositions (string)
+ - cold_spray_system (string)
+ - heat_treated (boolean)
+ - heat_treatment_description (string)
+ - powder_vendor (string)
+ - powder_processed (boolean)
+ - powder_processing_description (string)
+
+Important details:
+ - You will receive a single experimental result to process, which is provided as {EXPERIMENTAL_RESULTS}.
+ - Locate the specific conditions that match this result as closely as possible in the text.
+ - If no matching conditions are found, fill all fields with "NA" (for strings or numbers) or false (for booleans).
+ - Return only one JSON object. Do not include any additional commentary or text in your response.
+
+Example usage:
+
+{
+    "yield_strength_value": 255.7,
+    "yield_strength_units": "MPa",
+    "ultimate_tensile_strength_value": "NA",
+    "ultimate_tensile_strength_units": "NA",
+    "ductility_value": 4.6,
+    "ductility_units": "%",
+    "hardness_value": "NA",
+    "hardness_units": "NA",
+    "modulus_value": 35.2,
+    "modulus_units": "GPa",
+    "notes": "NA"
+}
+
+Return:
+{ 
+    "material": "Aluminum", 
+    "material_series": "6061", 
+    "material_composition": "NA", 
+    "gas_type": "Nitrogen", 
+    "gas_velocity_value": 800, 
+    "gas_velocity_units": "m/s", 
+    "gas_pressure_value": 4.5, 
+    "gas_pressure_units": "MPa", 
+    "gas_temperature_value": 500, 
+    "gas_temperature_units": "°C", 
+    "standoff_distance_value": 25, 
+    "standoff_distance_units": "mm", 
+    "post_deposition_treatment": true, 
+    "post_deposition_treatment_description": "Stress relief at 300°C for 1h", 
+    "nozzle_type": "High-pressure nozzle", 
+    "material_depositions": "Multiple passes", 
+    "cold_spray_system": "NA", 
+    "heat_treated": true, 
+    "heat_treatment_description": "T6 solutionizing, quench, aging at 175°C", 
+    "powder_vendor": "Solvus Global", 
+    "powder_processed": true, 
+    "powder_processing_description": "Gas-classified to <45 microns" 
+}
+
+
+If the text does not mention any processing parameters for the provided {EXPERIMENTAL_RESULTS}, return:
+
+{ 
+    "material": "NA", 
+    "material_series": "NA", 
+    "material_composition": "NA", 
+    "gas_type": "NA", "gas_velocity_value": "NA", 
+    "gas_velocity_units": "NA", 
+    "gas_pressure_value": "NA", 
+    "gas_pressure_units": "NA", 
+    "gas_temperature_value": "NA", 
+    "gas_temperature_units": "NA", 
+    "standoff_distance_value": "NA", 
+    "standoff_distance_units": "NA", 
+    "post_deposition_treatment": false, 
+    "post_deposition_treatment_description": "NA", 
+    "nozzle_type": "NA", 
+    "material_depositions": "NA", 
+    "cold_spray_system": "NA", 
+    "heat_treated": false, 
+    "heat_treatment_description": "NA", 
+    "powder_vendor": "NA", 
+    "powder_processed": false, 
+    "powder_processing_description": "NA" 
+}

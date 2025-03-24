@@ -1,0 +1,75 @@
+Please determine if the provided text includes any results related to cold-sprayed material experiments. If no such results are found, return an empty JSON array. If results are found, extract the following properties for each set of results and return them as a JSON array of objects:
+
+feedstock_material: The type of feedstock material (e.g., "Aluminum," "Steel," etc., or 'NA' if not available)
+feedstock_material_series: The series of the feedstock material (e.g., "6061," "4340," etc., or 'NA' if not available)
+feedstock_material_composition: The composition details of the feedstock material (e.g., "Mg 1.01, Si 0.61, Fe 0.30, Cu 0.25, Mn 0.04, Cr 0.09, Ti 0.02, Balance Al," or 'NA' if not available)
+
+substrate_material: The type of substrate material (or 'NA' if not available)
+substrate_material_series: The series of the substrate material (or 'NA' if not available)
+substrate_material_composition: The composition details of the substrate material (or 'NA' if not available)
+
+yield_strength_value: The reported yield strength (numeric value, or 'NA' if not available)
+yield_strength_units: The units of the reported yield strength (e.g., 'MPa', or 'NA' if not available)
+
+ultimate_tensile_strength_value: The reported ultimate tensile strength (numeric value, or 'NA' if not available)
+ultimate_tensile_strength_units: The units of the reported ultimate tensile strength (e.g., 'MPa', or 'NA' if not available)
+
+ductility_value: The reported ductility value (numeric value, or 'NA' if not available)
+ductility_units: The units of the reported ductility (e.g., '%', or 'NA' if not available)
+
+hardness_value: The reported hardness (numeric value, or 'NA' if not available)
+hardness_units: The hardness scale or units (e.g., 'HV', 'HRC', or 'NA' if not available)
+
+modulus_value: The reported modulus (numeric value, or 'NA' if not available)
+modulus_units: The units of the modulus (e.g., 'GPa', 'MPa', or 'NA' if not available)
+
+notes: A short description or identifying information about how these values were achieved or the sample/process used (or 'NA' if such information isn’t provided)
+
+Important details:
+
+It is acceptable if only some of these metrics are present. For any metric not found, record both its value and its unit as 'NA' (except for notes, which should just be 'NA' if unavailable).
+If multiple results are mentioned, include all of them in the array.
+If no results are found, return [].
+Return only the JSON array as the final answer.
+Example output format (if results are found):
+
+[
+  {
+    "feedstock_material": "Steel",
+    "feedstock_material_series": "4340",
+    "feedstock_material_composition": "NA",
+    "substrate_material": "Steel",
+    "substrate_material_series": "NA",
+    "substrate_material_composition": "NA",
+    "yield_strength_value": 250,
+    "yield_strength_units": "MPa",
+    "ultimate_tensile_strength_value": 310,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 12,
+    "ductility_units": "%",
+    "hardness_value": 100,
+    "hardness_units": "HV",
+    "modulus_value": 70,
+    "modulus_units": "GPa",
+    "notes": "Values achieved after post-spray heat treatment at 400°C"
+  },
+  {
+    "feedstock_material": "Aluminum",
+    "feedstock_material_series": "Al 6061",
+    "feedstock_material_composition": "Mg 1.01, Si 0.61, Fe 0.30, Cu 0.25, Mn 0.04, Cr 0.09, Ti 0.02, Balance Al",
+    "substrate_material": "Steel",
+    "substrate_material_series": "4340",
+    "substrate_material_composition": "NA",
+    "yield_strength_value": "NA",
+    "yield_strength_units": "NA",
+    "ultimate_tensile_strength_value": 300,
+    "ultimate_tensile_strength_units": "MPa",
+    "ductility_value": 10,
+    "ductility_units": "%",
+    "hardness_value": 95,
+    "hardness_units": "HV",
+    "modulus_value": "NA",
+    "modulus_units": "NA",
+    "notes": "As-sprayed condition with standard spraying parameters"
+  }
+]

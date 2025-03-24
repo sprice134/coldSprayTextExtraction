@@ -1,0 +1,34 @@
+{
+    "filename": "",
+    "title": "",
+    "need_graph_verification": ""
+    "date_created": "",
+    "creator": "",
+    "extractedText": [
+        {
+            "yield_strength_value": ,
+            "yield_strength_units": ,
+            "ultimate_tensile_strength_value": ,
+            "ultimate_tensile_strength_units": ,
+            "ductility_value": ,
+            "ductility_units": ,
+            "hardness_value": ,
+            "hardness_units": ,
+            "modulus_value": ,
+            "modulus_units": ,
+            "gas_type": ,
+            "gas_speed": ,
+            "gas_speed_units": ,
+            "gas_pressure": ,
+            "gas_pressure_units": ,
+            "gas_temperature": ,
+            "gas_temperature_units": ,
+            "nozzle_standoff_distance": ,
+            "nozzle_standoff_distance_units": ,
+            "particle_velocity": ,
+            "particle_velocity_units": ,
+            "powder_heat_treatment": ,
+            "post_deposition_heat_treatment": 
+        }
+    ]
+}

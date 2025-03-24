@@ -1,0 +1,60 @@
+Please determine if the provided text includes any results related to cold-sprayed AL 6061. 
+If no such results are found, return an empty JSON array: []
+
+If results are found, extract the following properties for each set of results and return them as a JSON array of objects. 
+Return only the JSON array as the final answer.
+
+Important: 
+- Report values only for the sprayed/fabricated/deposited part (i.e., ignore values measured strictly on particles). 
+- Any property not found in the text should have both its "value" and "units" recorded as "NA" (except for "notes", 
+  which should just be "NA" if nothing is found).
+- If multiple distinct result sets are mentioned, include them all as separate objects in the final JSON array.
+
+### **Properties to extract**:
+
+1. **yield_strength_value**: Numeric value or 'NA'
+2. **yield_strength_units**: e.g., 'MPa' or 'NA'
+
+3. **ultimate_tensile_strength_value**: Numeric value or 'NA'
+4. **ultimate_tensile_strength_units**: e.g., 'MPa' or 'NA'
+
+5. **ductility_value**: Numeric value or 'NA'
+6. **ductility_units**: e.g., '%', or 'NA'
+
+7. **hardness_value**: Numeric value or 'NA'
+8. **hardness_units**: e.g., 'HV', 'HRC', or 'NA'
+
+9. **modulus_value**: Numeric value or 'NA'
+10. **modulus_units**: e.g., 'GPa', 'MPa', or 'NA'
+
+11. **gas_type**: 'He', 'Air', 'Nitrogen', or 'NA'
+12. **gas_speed**: Numeric value or 'NA'
+13. **gas_speed_units**: e.g., 'm/sec' or 'NA'
+
+14. **gas_pressure**: Numeric value or 'NA'
+15. **gas_pressure_units**: e.g., 'bar', 'MPa', or 'NA'
+
+16. **gas_temperature**: Numeric value or 'NA'
+17. **gas_temperature_units**: e.g., 'K', 'C', or 'NA'
+
+18. **standoff_distance**: Numeric value or 'NA'
+19. **standoff_distance_units**: e.g., 'mm', 'm', or 'NA'
+
+20. **spray_gun_speed**: Numeric value or 'NA'
+21. **spray_gun_speed_units**: e.g., 'm/sec' or 'NA'
+
+22. **powder_heat_treatment**: Short description or 'NA'
+23. **post_deposition_heat_treatment**: Short description or 'NA'
+
+24. **notes**: Short description/identifying info, or 'NA' if none
+
+### **Output Format Example** (if results are found)
+
+[ { "yield_strength_value": 250, "yield_strength_units": "MPa", "ultimate_tensile_strength_value": 310, "ultimate_tensile_strength_units": "MPa", "ductility_value": 12, "ductility_units": "%", "hardness_value": 100, "hardness_units": "HV", "modulus_value": 70, "modulus_units": "GPa", "gas_type": "He", "gas_speed": 700, "gas_speed_units": "m/sec", "gas_pressure": 20, "gas_pressure_units": "bar", "gas_temperature": 600, "gas_temperature_units": "C", "standoff_distance": 0.3, "standoff_distance_units": "m", "spray_gun_speed": 0.15, "spray_gun_speed_units": "m/sec", "powder_heat_treatment": "solutionized at 600C for 45 minutes", "post_deposition_heat_treatment": "T6", "notes": "Tensile testing performed at high temperature" }, { "yield_strength_value": "NA", "yield_strength_units": "NA", "ultimate_tensile_strength_value": 300, "ultimate_tensile_strength_units": "MPa", "ductility_value": 10, "ductility_units": "%", "hardness_value": 95, "hardness_units": "HV", "modulus_value": "NA", "modulus_units": "NA", "gas_type": "Air", "gas_speed": "NA", "gas_speed_units": "NA", "gas_pressure": 12, "gas_pressure_units": "MPa", "gas_temperature": "NA", "gas_temperature_units": "NA", "standoff_distance": "NA", "standoff_distance_units": "NA", "spray_gun_speed": "NA", "spray_gun_speed_units": "NA", "powder_heat_treatment": "NA", "post_deposition_heat_treatment": "NA", "notes": "As-sprayed condition" } ]
+
+
+### **If no results are found**, simply return:
+[]
+
+Copy
+Edit

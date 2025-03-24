@@ -1,0 +1,102 @@
+Please determine if the provided text includes any results and process parameters related to cold-sprayed AL 6061. If no such results are found, return an empty JSON array. If results are found, extract the following properties for each set of results and return them as a JSON array of objects:
+
+yield_strength_value: The reported yield strength (numeric value, or 'NA' if not available)
+yield_strength_units: The units of the reported yield strength (e.g., 'MPa', or 'NA' if not available)
+
+ultimate_tensile_strength_value: The reported ultimate tensile strength (numeric value, or 'NA' if not available)
+ultimate_tensile_strength_units: The units of the reported ultimate tensile strength (e.g., 'MPa', or 'NA' if not available)
+
+ductility_value: The reported ductility value (numeric value, or 'NA' if not available)
+ductility_units: The units of the reported ductility (e.g., '%', or 'NA' if not available)
+
+hardness_value: The reported hardness (numeric value, or 'NA' if not available)
+hardness_units: The hardness scale or units (e.g., 'HV', 'HRC', or 'NA' if not available)
+
+modulus_value: The reported modulus (numeric value, or 'NA' if not available)
+modulus_units: The units of the modulus (e.g., 'GPa', 'MPa', or 'NA' if not available)
+
+gas type: The reported gas type ('He', 'Air', 'Nitrogen', 'NA' if not available)
+
+gas speed: The reported gas speed (numeric value, or 'NA' if not available)
+gas speed_units: The units of the gas speed (e.g., 'm/sec' or 'NA' if not available)
+
+gas pressure: The reported gas pressure (numeric value, or 'NA' if not available)
+gas pressure_units: The units of the gas pressure (e.g., 'bar', 'MPa' or 'NA' if not available)
+
+gas temperature: The reported gas temperature (numeric value, or 'NA' if not available)
+gas temperature_units: The units of the gas temperature (e.g., 'K', 'C' or 'NA' if not available)
+
+standoff distance: The reported standoff distance (numeric value, or 'NA' if not available)
+standoff distancee_units: The units of the standoff distance (e.g., 'mm', 'm' or 'NA' if not available)
+
+spray gun speed: The reported spray gun speed (numeric value, or 'NA' if not available)
+spray gun speed_units: The units of the spray gun speed (e.g., 'm/sec' or 'NA' if not available)
+
+powder heat_treatment: A short description of any heat treatment performed on the powder ("solutionized at 600C for 45 minutes")
+
+post-deposition heat_treatment: A short description of any heat treatment performed on the deposited aluminium/fabricated part ("Annealed for 2 hrs at 250C")
+
+notes: A short description or identifying information about how these values were achieved ('Tensile testing at high temperature', 'Microindentation measurements) or the sample/process used (or 'NA' if such information isn’t provided)
+
+Important details:
+
+It is acceptable if only some of these metrics are present. For any metric not found, record both its value and its unit as 'NA' (except for notes, which should just be 'NA' if unavailable).
+If multiple results are mentioned, include all of them in the array.
+If no results are found, return [].
+Return only the JSON array as the final answer.
+Example output format (if results are found):
+[
+  {
+  "yield_strength_value_sprayed": 180,
+  "yield_strength_units_sprayed": "MPa",
+  "ultimate_tensile_strength_value": 310,
+  "ultimate_tensile_strength_units": "MPa",
+  "ductility_value": 12,
+  "ductility_units": "%",
+  "hardness_value": 100,
+  "hardness_units": "HV",
+  "modulus_value": 70,
+  "modulus_units": "GPa",
+  "gas_type": "He",
+  "gas_speed": 900,
+  "gas_speed_units": "m/sec",
+  "gas_pressure": 20,
+  "gas_pressure_units": "bar",
+  "gas_temperature": 600,
+  "gas_temperature_units": "C",
+  "standoff distance": 0.2,
+  "standoff distance_units": "m",
+  "spray_gun_velocity": 0.15,
+  "spray_gun_velocity_units": "m/sec",
+  "powder heat_treatment": "solutionized at 600C",
+  "post-deposition heat_treatment": "Annealed",
+  "notes": "As-sprayed condition with standard parameters."
+  },
+  
+  {
+  "yield_strength_value_sprayed": 160,
+  "yield_strength_units_sprayed": "MPa",
+  "ultimate_tensile_strength_value": 300,
+  "ultimate_tensile_strength_units": "MPa",
+  "ductility_value": 10,
+  "ductility_units": "%",
+  "hardness_value": 95,
+  "hardness_units": "HV",
+  "modulus_value": "NA",
+  "modulus_units": "NA",
+  "gas_type": "Argon",
+  "gas_speed": 600,
+  "gas_speed_units": "m/sec",
+  "gas_pressure": 12,
+  "gas_pressure_units": "bar",
+  "gas_temperature": 500,
+  "gas_temperature_units": "C",
+  "standoff distance": 0.14,
+  "standoff distance_units": "m",
+  "spray_gun_velocity": 0.4,
+  "spray_gun_velocity_units": "m/sec",
+  "powder heat_treatment": "annealed at 300C for 2 hours",
+  "post-deposition heat_treatment": "T6",
+  "notes": "Tensile testing performed at high temperature"
+  }
+]

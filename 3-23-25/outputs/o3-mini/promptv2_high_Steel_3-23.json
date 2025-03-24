@@ -1,0 +1,550 @@
+[
+    {
+        "filename": "article_4340_1.pdf",
+        "title": "Laser assisted cold spray of AISI 4340 steel",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897220308872",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 561,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray (CS) deposit without laser heating; average hardness measured from a typical CS process."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 466,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Laser-assisted cold spray (LACS) deposit achieved with in situ laser heating to a substrate surface temperature of 500\u00b0C (lowest measured hardness)."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 532,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS deposit at 738\u00b0C under standard gas conditions; average hardness measured at the lower end (532 HV)."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 592,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS deposit at 738\u00b0C with lowered gas temperature (475\u00b0C) and pressure (3.1 MPa), resulting in a higher average hardness (592 HV)."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS deposit at 950\u00b0C; although microstructural evolution is described, no specific hardness value was reported (hardness returned to a normal distribution)."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_2.pdf",
+        "title": "A 4340 Steel with Superior Strength and Toughness Achieved by Heterostructure via Intercritical Quenching and Tempering",
+        "link": "https://www.mdpi.com/2075-4701/13/6/1139",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_3.pdf",
+        "title": "On the Role of Deformation and Cracking in the Cold Spray Processing of Refractory Ta Powders Onto Ta or 4340 Steel Substrates: Effects of Topical Oxide Layers and Spray Velocity",
+        "link": "https://link.springer.com/article/10.1007/s11661-022-06754-7",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_4.pdf",
+        "title": "Evaluation of the Fatigue Behavior and Failure Mechanisms of 4340 Steel Coated with WIP-C1 (Ni/CrC) by Cold Spray",
+        "link": "https://www.mdpi.com/1996-1944/15/22/8116",
+        "extractedText": [
+            {
+                "yield_strength_value": 785,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 890,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "The base AISI 4340 steel used for fatigue testing was reported to have a tensile strength of 890 MPa and a yield strength of 785 MPa. This material was coated with WIP-C1 (Ni/CrC) by cold spray."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_5.pdf",
+        "title": "Effect of laser clad repair on the fatigue behaviour of ultra-high strength AISI 4340 steel",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509314003591",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_6.pdf",
+        "title": "Improvement of the Cold Sprayability of Hard Steel Alloy Powders",
+        "link": "https://dl.asminternational.org/itsc/proceedings-abstract/ITSC2023/84536/288/26321",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 570,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "4340-AR: Data for as\u2010received 4340 steel powder used in the cold spray process; Vickers microhardness measured at ~570 HV."
+            },
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 351,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "4340-HT1: Data for 4340 steel powder after heat treatment at 600\u00b0C for 1.5 h in Ar; Vickers microhardness measured at ~351 HV."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_7.pdf",
+        "title": "Mechanical and Metallurgical Properties of Two-Layered Diamalloy 4010 and 2002 HVOF Coating",
+        "link": "https://doras.dcu.ie/16093/",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_8.pdf",
+        "title": "Tensile and Fatigue Response of Steel Parts Fabricated by the Additive Friction-Stir Deposition Process",
+        "link": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2023/87691/1196278",
+        "extractedText": [
+            {
+                "yield_strength_value": 795,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 890,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Experimental tensile test on cold\u2010sprayed AISI 4340 steel specimen at room temperature (Table 4)"
+            },
+            {
+                "yield_strength_value": 792,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 883.03,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "FE simulation results for cold\u2010sprayed AISI 4340 steel specimen at room temperature (Table 4)"
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_9.pdf",
+        "title": "Surface Engineering-Controlled Tribological Behavior and Adhesion Strength Of Ni-Cr Coating Sprayed Onto Carburized AISI 4340 Steel Substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219304645",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_10.pdf",
+        "title": "Some Aspects On 3D Numerical Modeling Of High Velocity impact Of Particles In Cold Spraying By Explicit Finite Element Analysis",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433209005170",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_11.pdf",
+        "title": "Cold Spray Coatings Morphology",
+        "link": "https://doaj.org/article/40c8e4168e404f12bc8077487f9b0f8d",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_12.pdf",
+        "title": "Heating Behavior of Cold Spray Particles in Laser",
+        "link": "https://link.springer.com/article/10.1007/s11666-025-01938-0",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 455,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed 4340 steel coating prepared by Barton et al. (Ref16); only microhardness (455 \u00b1 11 HV) reported under identical spray parameters."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_13.pdf",
+        "title": "Microstructural and Tribological Properties of High-Performance Inconel 625 alloy-WS2 Salf-Lubricious Composite Coating By Laser Assisted Cold Spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925838824004274",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_14.pdf",
+        "title": "Towards Strength-Ductility Synergy in Cold Spray for manufacturing and Repair Application: A Review",
+        "link": "https://www.mdpi.com/2227-9717/12/10/2216",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_15.pdf",
+        "title": "Towards High-Strength Cold Spray Additive Manufactured Metals: Methods, Mechanisms, and Properties",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1005030223005479",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_16.pdf",
+        "title": "Effect of Particle Morphology on Cold Spray Deposition of Chromium Carbide-Nickel Chromium Cermet Powders",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0580-3",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_17.pdf",
+        "title": "Cold Spray Coatings of Complex Concentrated Alloys: Critical Assessment of Milestones, Challenges, and Opportunities",
+        "link": "https://www.mdpi.com/2079-6412/13/3/538",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_18.pdf",
+        "title": "Laser assisted cold spray of ferritic alloys: oxide dispersion strengtherened fe91ni8zr1 and aisi 4340 steel",
+        "link": "https://ir.ua.edu/bitstream/handle/123456789/7637/file_1.pdf?sequence=1&isAllowed=n",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_19.pdf",
+        "title": "Understanding the Effect of Substrate Preheating Temperature and Track Spacing on Laser Assisted Cold Spraying of Ti6Al4V",
+        "link": "https://www.mdpi.com/2075-4701/13/10/1640",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_20.pdf",
+        "title": "Structural Analysis and Mechanical properties of Some Coatings Obtained by Cold Spray Method. A Review",
+        "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1262/1/012023/meta",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "40-44",
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray coating on AISI 4340 alloy steel using a two\u2010layer approach (WIP-BC1 as bonding layer and WIP-C1 powder) produced an increase in hardness from 17 HRC (base material) to 40-44 HRC. Porosity was 1.5-3% with nitrogen spraying and below 1% with helium."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_21.pdf",
+        "title": "Corrosion properties of Cold-Sprayed Tantalum Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-008-9281-2",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_22.pdf",
+        "title": "Effect of Substrate Surface Roughening and Cold Spray Coating On The Fatigue Life of AA2024 specimens",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0261306913008054",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_23.pdf",
+        "title": "Laser Assisted Cold Spray Deposition",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-42756-6_6",
+        "extractedText": "The text is an extensive collection of chapters from a multi-author volume exploring cold spray technology in additive manufacturing. It covers the fundamentals and processing principles of cold spray deposition, emphasizing its solid\u2010state, low thermal input nature that minimizes oxidation while enabling rapid, high\u2010density coating build\u2010up. Several chapters detail how process parameters such as gas temperature, pressure, stand\u2010off distance, powder feed rate, particle size, and substrate properties affect deposition efficiency, microstructure evolution, and mechanical properties.\n\nA significant portion of the text is devoted to advanced modeling and simulation tools for predicting coating build\u2010up. Multiple approaches are discussed, including finite element analysis, smoothed particle hydrodynamics, and morphological modeling that incorporates particle impedance, impact angle, and toolpath planning. These predictive models are intended to optimize deposition parameters to achieve desired shapes and near\u2010net\u2010shape components while minimizing post\u2010processing.\n\nOther sections investigate the use of laser assistance\u2014both co\u2010axial and off\u2010axis configurations\u2014to improve deposition efficiency and enable the use of less expensive gases. Laser heating softens the substrate and powder particles, reducing the critical velocity for bonding and fostering improved interparticle cohesion, even for harder materials such as titanium alloys or shape memory alloys like CuAlNi. Moreover, comprehensive non\u2010destructive inspection methods such as Optical Coherence Tomography and laser ultrasonic testing are presented for in\u2010process dimensional analysis, flaw detection, and bond integrity assessment.\n\nCollectively, the volume provides a state\u2010of\u2010the\u2010art review of cold spray additive manufacturing, presenting experimental results, simulation studies, and advanced inspection techniques that together offer guidelines for improved process control, material performance, and integration into industrial applications."
+    },
+    {
+        "filename": "article_4340_24.pdf",
+        "title": "Cold Spray and Laser-Assisted Cold Spray of CrMnCoFeNi High Entropy Alloy Using Nitrogen as the Propelling Gas",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01361-9",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_25.pdf",
+        "title": "Influence of Surface Temperature in the Laser Assisted Cold Spray Deposition of Sequential Oxide Dispersion Strengthened Layers: Microstructure and Hardness",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509321002963",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_26.pdf",
+        "title": "Particle Deformation and Microstructure Evolution During Cold Spray of Individual Al-Cu Alloy Powder particles",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1359645419300692",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_27.pdf",
+        "title": "Improving Inter-Particle Deformation and Bonding by Preserving Transient in-situ Deposition Temperatures During Cold Spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897223009416",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_28.pdf",
+        "title": "How to Unleash the Remarkable Potential of Cold Spray: A Perspective",
+        "link": "https://link.springer.com/article/10.1007/S11666-022-01363-7",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_29.pdf",
+        "title": "Interfacial Contact and Deformation: From All Solid State Li Batteries to the Cold Spray Refractory Ta Powders",
+        "link": "https://digital.wpi.edu/downloads/9s161933d",
+        "extractedText": "The dissertation text provides a very detailed account of both modeling/simulation and experimental work in two different areas: (1) all\u2010solid\u2010state lithium battery (ASSB) interfacial contact and deformation under different stack pressures, and (2) cold spray deposition of refractory tantalum (Ta) powders on Ta and 4340 steel substrates.\n\nBelow is a summary of the key simulation and experimental results described in the text:\n\n1. All\u2010Solid\u2010State Battery (ASSB) Results  \n\u2003\u2022 A combined analytical, computational (FEM), and experimental study was carried out on a model ASSB based on a LiBH\u2084\u2013LiNH\u2082 solid electrolyte.  \n\u2003\u2022 The dissertation uses the Hertzian contact model (analytical) and axisymmetric finite element modeling to simulate interfacial contact between the electrolyte and the cathode. The simulations show that as the applied stack pressure increases, the contact radius improves (i.e. better interfacial contact), but the cost is an increase in localized axial and shear strains at the interface.  \n\u2003\u2022 Experimental measurements using digital image correlation (DIC) during compression tests captured local strain distributions. Initially (at 0 MPa) there is little deformation, but increasing pressure (up to 1 MPa) closes gaps and enhances contact. However, at higher pressures the imposed stresses cause significant plastic deformation and microcracking\u2014which may eventually lower the ionic conductivity.  \n\u2003\u2022 Electrochemical tests (impedance spectroscopy and cyclic voltammetry) reveal that there is an optimum stack pressure\u2014around 0.26 MPa\u2014in which the electrolyte\u2013electrode interfacial contact is maximized while induced strains remain in the elastic range. At this optimum, the measured room\u2010temperature ionic conductivity reaches about 9\u00d710\u207b\u2075 S/cm. Pressures above this value are found to lead to increased damage (large axial/shear strains), which degrade cell performance.\n\n2. Cold Spray (CS) of Refractory Ta Powders  \n\u2003\u2022 The work explores the role of deformation and cracking during cold spray deposition of Ta powders onto Ta and 4340 steel substrates.  \n\u2003\u2022 Experimental characterization (SEM, FIB, TEM) of the Ta powders shows that the particles are coated by a nanoscale (\u22482.8 nm) amorphous TaO\u2093 film.  \n\u2003\u2022 Density functional theory (DFT) calculations are used to obtain the mechanical properties of top surface oxides (both for Ta and for the oxide on 4340 steel, modeled here as Fe\u2082O\u2083). These calculated properties (elastic moduli, Poisson\u2019s ratio, tensile strength, etc.) serve as inputs for the finite element simulations.  \n\u2003\u2022 Finite element analyses (conducted in ABAQUS\u2013Explicit) simulate the impact of a single Ta particle (with an average diameter of about 10\u2005\u00b5m) at an impact velocity of ~680 m/s. The simulations show that high-velocity impacts generate localized temperature rises (although still below the melting point of Ta) and very high plastic strains in the particle and substrate at the contact region.  \n\u2003\u2022 The modeling also tracks the evolution of stress fields and predicts the initiation and propagation of microcracks, particularly in the oxide layers on both the particle and the substrate. In addition, parametric studies indicate that higher impact velocities and thicker oxide layers lead to a lower fraction of oxides being fractured\u2014in other words, optimal conditions for oxide disruption (which is necessary for achieving metal-to-metal bonding) depend critically on both spray velocity and oxide thickness.\n\n3. Overall Implications and Conclusions  \n\u2003\u2022 In the ASSB study, it is shown that moderate stack pressure is beneficial because it improves interfacial contacts and ionic conductivity, whereas too high a pressure induces damaging strains that can trigger plasticity and microcracking.  \n\u2003\u2022 In cold spray processing, controlling the oxide character (its thickness and propensity to crack) and achieving sufficient particle impact energy are both essential for promoting metallurgical bonding between the particle and the substrate.  \n\u2003\u2022 The combined experimental, analytical, and computational approaches demonstrate that optimizing mechanical loading parameters (whether in battery assembly or in cold spray deposition) is key to enhancing performance and durability.  \n\u2003\u2022 Finally, the text outlines opportunities for future work including the use of machine learning to optimize parameter effects in ASSBs and further investigation (and possible extension of computational models) into the complex thermo-mechanical behavior in high-velocity cold spray processes.\n\nThis multi-scale investigation clearly shows how interfacial contact, induced interfacial stress/strain and material degradation phenomena play a critical role in both solid\u2013state battery performance and in the quality of cold-sprayed deposits.\n\n"
+    },
+    {
+        "filename": "article_4340_30.pdf",
+        "title": "Mechanical and Microstructural Behavior of Inconel 625 Deposits by High-Pressure Cold Spray and Laser Assisted Cold Spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224005486",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_31.pdf",
+        "title": "Residual Stress in Cold Spray SS304L Measured Via Neutron Diffraction and Comparison of Analytical Models to Predict the Residual Stress",
+        "link": "https://link.springer.com/article/10.1007/s11665-024-09422-6",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_32.pdf",
+        "title": "Influence of Deposition Technology on the Morphology of Chromium Carbide-Based Powder Coatings",
+        "link": "https://jesi.astr.ro/wp-content/uploads/2025/01/4_Corneliu-Munteanu.pdf",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_33.pdf",
+        "title": "Laser Assisted Cold Spray of Aluminum Alloy 6061: Experimental Results",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860424005943",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_34.pdf",
+        "title": "Processing Nanostructured Metal and Metal-Matrix Coatings by Thermal and Cold Spraying",
+        "link": "https://www.sciencedirect.com/science/article/pii/B9781845696702500204",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_35.pdf",
+        "title": "Material Model for Predicting Dynamic Response of Copper and Nickel at Very High Strain Rates Under Cold Spray Conditions",
+        "link": "https://link.springer.com/article/10.1007/s11666-020-01137-z",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_36.pdf",
+        "title": "A Review of Advances in Cold Spray Additive Manufacturing",
+        "link": "https://www.mdpi.com/2079-6412/13/2/267",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_37.pdf",
+        "title": "Laser Assisted Cold Spray of Aluminum Alloy 6061",
+        "link": "https://www.proquest.com/docview/3098002079?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_38.pdf",
+        "title": "Artificial Neural Networks Approach for Hardness Prediction of Copper Cold Spray Laser Heat Treated Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-021-01311-x",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_39.pdf",
+        "title": "Finite Element Modeling of Single-Particle Impacts for the Optimization of Antimicrobial Copper Cold Spray Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-020-01093-8",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_40.pdf",
+        "title": "Near Surface Transformations of Stainless Steel Cold Spray and laser Cladding Deposits After Turning and Ball-Burnishing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219301094",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_41.pdf",
+        "title": "Impact of Ultrasonic Nanocrystal Surface Modification on the Corrosion Behavior of Cold Sprayed and Additive Friction Stir Deposited 304L Austenitic Stainless Steel",
+        "link": "https://www.proquest.com/docview/3157052115?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_42.pdf",
+        "title": "Improving the Usage Properties of Steel using Cold Spray Deposition: A Review",
+        "link": "https://www.mdpi.com/2073-4352/13/2/245",
+        "extractedText": [
+            {
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "40-44",
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray of AISI alloy steel 4340 using WIP powders resulted in an increase in hardness from 17 HRC (base material) to 40\u201344 HRC, with improved wear performance and satisfactory porosity levels (1.5\u20133% with nitrogen, below 1% with helium)."
+            }
+        ]
+    },
+    {
+        "filename": "article_4340_43.pdf",
+        "title": "Advanced Functional Metal-Ceramic and Ceramic Coatings Deposited by Low-Pressure Cold Spraying: A Review",
+        "link": "https://www.mdpi.com/2079-6412/11/9/1044",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_44.pdf",
+        "title": "Toward Efficient Cold Spraying of Inconel 718: Understanding the Influence of Coating and Particle Impact Temperatures",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01490-1",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_45.pdf",
+        "title": "Optimization of laser Assisted Cold Spray of Niobium Metal",
+        "link": "https://www.proquest.com/docview/3159051971?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_46.pdf",
+        "title": "Finite Element Implementation of the Preson-Tonks-Wallace Plasticity Model and Energy based Bonding Parameter for the Cold Spray Process",
+        "link": "https://www.proquest.com/docview/2206673285?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_47.pdf",
+        "title": "Recent Advances on Bonding Mechanism in Cold Spray Process: A Review of Single-Particle Impact Methods",
+        "link": "file:///Users/aarongreen/Downloads/s43578-022-00764-2.pdf",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_48.pdf",
+        "title": "Considerations on the Failure Mechanisms at Fatigue Loading of 1018 Steel Samples Coated with Wip-C1 by Cold Spray",
+        "link": "https://www.mdpi.com/1996-1944/17/8/1868",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_49.pdf",
+        "title": "Corrosion Resistance of Copper Coatings Deposited by Cold Spraying",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0646-2",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_50.pdf",
+        "title": "Cold Spray Coatings for Cr and Ni Plating Replacement - Fatigue Testing Results",
+        "link": "https://s3.us-gov-west-1.amazonaws.com/sepub-demo-0001-124733793621-us-gov-west-1/s3fs-public/2024-08%2FWP19-5120%20Final%20Report%20-%20Addendum.pdf",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_51.pdf",
+        "title": "Realizing the Tribological Feasibility of Novel Laster Surface Texturing Techniques for Cold Spray Kinetically Metallized Stainless Steel",
+        "link": "https://link.springer.com/article/10.1007/s00170-024-13872-6",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_52.pdf",
+        "title": "Corrosion Properties of Cold-Sprayed Cr3C2-25(Ni20Cr) Coatings After Heat Treatment",
+        "link": "https://www.mdpi.com/1996-1944/17/24/6289",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_53.pdf",
+        "title": "The Emergence of Cold Spray as a Tool for Surface Modification",
+        "link": "https://www.scientific.net/KEM.384.61",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_54.pdf",
+        "title": "Cold Spray Particle Impact Simulation Using the Preston-Tonks-Wallace Plasticity Model",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0168874X2100041X",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_55.pdf",
+        "title": "Solid-State Metal Additive Manufacturing for Structural Repair",
+        "link": "https://pubs.acs.org/doi/full/10.1021/accountsmr.1c00098",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_56.pdf",
+        "title": "Cold Spraying and Laster Cladding as an Alternative to Electroplating Processes",
+        "link": "https://www.emerald.com/insight/content/doi/10.1108/aeat-01-2018-0071/full/html",
+        "extractedText": []
+    },
+    {
+        "filename": "article_4340_57.pdf",
+        "title": "Characterization, Deposition Mechanisms, and Modeling of Metallic Glass Powders for Cold Spray",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-67183-3_8",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_58.pdf",
+        "title": "Nanosecond-Pulse Laser Assisted Cold Spraying of Al-Cu Aluminum Alloy",
+        "link": "https://www.mdpi.com/2079-6412/11/3/267",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_59.pdf",
+        "title": "Generative Adversarial Network (GAN) Enabled Statistically Equivalent Virtual Microstructures (SEVM) for Modeling Cold Spray Formed Bimodal Polycrystals",
+        "link": "https://www.nature.com/articles/s41524-024-01219-4",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_60.pdf",
+        "title": "Multiscale Simulation of Shot-Peening-Assisted Low-Pressure Cold Spraying based on Al-Zn-Al2O3 Coatings",
+        "link": "https://www.mdpi.com/2079-6412/12/10/1490",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_61.pdf",
+        "title": "The Study of Assessment Parameters and Performance Measurement of Cold Spray Technique: A Futuristic Approach Towards Additive Manufacturing",
+        "link": "https://link.springer.com/article/10.1007/s12647-022-00597-8",
+        "extractedText": ""
+    },
+    {
+        "filename": "article_4340_62.pdf",
+        "title": "Corrosion Characteristics and Mechanical Properties of Aluminum Coatings Applied by the Cold Spray Process",
+        "link": "https://digitalcommons.bucknell.edu/masters_theses/33/",
+        "extractedText": ""
+    }
+]

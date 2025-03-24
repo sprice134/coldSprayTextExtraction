@@ -1,0 +1,36 @@
+{
+    "filename": "Artilce_1.pdf",
+    "title": "Bulk fracture anisotropy in Cold-Sprayed Al 6061 deposits",
+    "need_graph_verification": "Yes",
+    "date_created": "2-3-2025",
+    "creator": "Stephen Price",
+    "extractedText": [
+        {
+            "yield_strength_value": 260,
+            "yield_strength_units": "MPA",
+            "ultimate_tensile_strength_value": "NA",
+            "ultimate_tensile_strength_units": "NA",
+            "ductility_value": 2.6,
+            "ductility_units": "%",
+            "hardness_value": "NA",
+            "hardness_units": "NA",
+            "modulus_value": 61.4,
+            "modulus_units": "GPA",
+            "gas_type": Helium,
+            "gas_speed": "NA",
+            "gas_speed_units": "NA",
+            "gas_pressure": 3.5,
+            "gas_pressure_units": "MPA",
+            "gas_temperature": 400,
+            "gas_temperature_units": "C",
+            "nozzle_standoff_distance": 25.4,
+            "nozzle_standoff_distance_units": "mm",
+            particle_velocity": 1110,
+            "particle_velocity_units": "m/s",
+            "spray_gun_speed": 254,
+            "spray_gun_speed_units": "mm/s",
+            "powder_heat_treatment": "heat treated in air at 230 ◦C for one hour, then allowed to cool to room temperature. It was subsequently stored in a dry nitrogen glovebox until spraying",
+            "post_deposition_heat_treatment": "NA",
+        }
+    ]
+}
