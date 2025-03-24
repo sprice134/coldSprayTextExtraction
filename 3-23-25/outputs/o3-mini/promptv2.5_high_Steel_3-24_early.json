@@ -1216,19 +1216,115 @@
         "filename": "article_4340_15.pdf",
         "title": "Towards High-Strength Cold Spray Additive Manufactured Metals: Methods, Mechanisms, and Properties",
         "link": "https://www.sciencedirect.com/science/article/pii/S1005030223005479",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Aluminum",
+                "feedstock_material_series": "6061",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "NA",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 107,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.2,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Al 6061 deposit produced using heat\u2010treated powders shows an increase in UTS from 70 to 107 MPa with ductility reported as <0.2%. Also, the strength of the powder itself drops from 311 to 179 MPa after heat treatment."
+            },
+            {
+                "feedstock_material": "Fe",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "NA",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 145.17,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.3,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "In\u2010situ micro\u2010forging assisted cold spray of an Fe deposit using preheated powders yields a UTS of 145.17 MPa \u2013 53.90% higher than deposits with non\u2010heated powders."
+            },
+            {
+                "feedstock_material": "Inconel",
+                "feedstock_material_series": "718",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "NA",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 463,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 0.48,
+                "ductility_units": "%",
+                "hardness_value": 507,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "An Inconel 718 deposit made by in\u2010situ micro\u2010forging assisted cold spray exhibits a UTS of 463 MPa, ductility of 0.48%, and a hardness of 507 HV."
+            },
+            {
+                "feedstock_material": "Copper",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "NA",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 310,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 40,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Friction stir processing (FSP) applied to a cold\u2010sprayed Cu deposit raises the UTS from 83 MPa to 310 MPa and improves elongation from <1% to 40%."
+            },
+            {
+                "feedstock_material": "Aluminum",
+                "feedstock_material_series": "380 alloy",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "NA",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": 420,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": 10,
+                "ductility_units": "%",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Hot rolling of an Al 380 alloy deposit increases tensile strength from 100 MPa to 420 MPa while elongation improves from <2% to >10%."
+            }
+        ]
     },
     {
         "filename": "article_4340_16.pdf",
         "title": "Effect of Particle Morphology on Cold Spray Deposition of Chromium Carbide-Nickel Chromium Cermet Powders",
         "link": "https://link.springer.com/article/10.1007/s11666-017-0580-3",
-        "extractedText": ""
+        "extractedText": []
     },
     {
         "filename": "article_4340_17.pdf",
         "title": "Cold Spray Coatings of Complex Concentrated Alloys: Critical Assessment of Milestones, Challenges, and Opportunities",
         "link": "https://www.mdpi.com/2079-6412/13/3/538",
-        "extractedText": ""
+        "extractedText": []
     },
     {
         "filename": "article_4340_18.pdf",
@@ -1240,85 +1336,608 @@
         "filename": "article_4340_19.pdf",
         "title": "Understanding the Effect of Substrate Preheating Temperature and Track Spacing on Laser Assisted Cold Spraying of Ti6Al4V",
         "link": "https://www.mdpi.com/2075-4701/13/10/1640",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Ti6Al4V",
+                "feedstock_material_series": "grade 5",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Ti6Al4V",
+                "substrate_material_series": "grade 5",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 429,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Standard cold spray specimen deposited without laser substrate preheating; average microhardness measured at 429 HV."
+            },
+            {
+                "feedstock_material": "Ti6Al4V",
+                "feedstock_material_series": "grade 5",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Ti6Al4V",
+                "substrate_material_series": "grade 5",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 403,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS specimen (Phase2) deposited on a mill\u2010annealed Ti6Al4V substrate preheated to 600\u00b0C with a 1 mm track spacing; showed higher scatter with some interface values (~455 HV) but an overall average of 403 HV."
+            },
+            {
+                "feedstock_material": "Ti6Al4V",
+                "feedstock_material_series": "grade 5",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Ti6Al4V",
+                "substrate_material_series": "grade 5",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 397,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS specimen (Phase2) deposited on a mill\u2010annealed Ti6Al4V substrate preheated to 600\u00b0C with a 2 mm track spacing; exhibited an even deposit distribution with an average hardness of 397 HV."
+            },
+            {
+                "feedstock_material": "Ti6Al4V",
+                "feedstock_material_series": "grade 5",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Ti6Al4V",
+                "substrate_material_series": "grade 5",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 388,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS specimen (Phase2) deposited on a mill\u2010annealed Ti6Al4V substrate preheated to 600\u00b0C with a 3 mm track spacing; exhibited a slightly lower average hardness of 388 HV."
+            }
+        ]
     },
     {
         "filename": "article_4340_20.pdf",
         "title": "Structural Analysis and Mechanical properties of Some Coatings Obtained by Cold Spray Method. A Review",
         "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1262/1/012023/meta",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "WIP-C1 powder",
+                "feedstock_material_series": "WIP-C1",
+                "feedstock_material_composition": "66-72% Cr, 3% C, 25-31% Ni",
+                "substrate_material": "AISI 4340 steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 42,
+                "hardness_units": "HRC",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray coating applied using a preliminary WIP-BC1 bonding layer followed by spraying with WIP-C1 powder; resulted in an increase in hardness from 17 HRC (base) to 40\u201344 HRC."
+            },
+            {
+                "feedstock_material": "WC-Ni powder",
+                "feedstock_material_series": "WC - 4% Ni",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "mild steel",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 459.2,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Low\u2010pressure cold spray deposition with WC\u2013Ni powder (4% Ni variant) on a mild steel substrate produced a maximum hardness of 459.2 HV."
+            },
+            {
+                "feedstock_material": "Ni-Cr powder",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "SA516 boiler steel",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 529,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "A comparative study of cold spray versus HVOF on SA516 boiler steel using Ni\u2013Cr powders showed cold spray deposits with hardness ranging from 456 to 601 HV (averaging ~529 HV) and improved scratch resistance."
+            }
+        ]
     },
     {
         "filename": "article_4340_21.pdf",
         "title": "Corrosion properties of Cold-Sprayed Tantalum Coatings",
         "link": "https://link.springer.com/article/10.1007/s11666-008-9281-2",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Tantalum",
+                "feedstock_material_series": "150.090",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Steel",
+                "substrate_material_series": "Fe52",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed tantalum coating (CS Ta1) prepared using standard powder (Amperit 150.090) with the Kinetiks3000 system on a grit-blasted steel substrate; exhibited through-porosity and lower corrosion resistance."
+            },
+            {
+                "feedstock_material": "Tantalum",
+                "feedstock_material_series": "151.065",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Steel",
+                "substrate_material_series": "Fe52",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold-sprayed tantalum coating (CS Ta2) prepared using improved powder (Amperit 151.065) with the Kinetiks4000 system on a grit-blasted steel substrate; exhibited a dense, pore\u2010free microstructure with corrosion resistance similar to that of bulk tantalum."
+            }
+        ]
     },
     {
         "filename": "article_4340_22.pdf",
         "title": "Effect of Substrate Surface Roughening and Cold Spray Coating On The Fatigue Life of AA2024 specimens",
         "link": "https://www.sciencedirect.com/science/article/pii/S0261306913008054",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Aluminum",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "99.5\u201399.9% Al",
+                "substrate_material": "Aluminum",
+                "substrate_material_series": "AA2024-T351",
+                "substrate_material_composition": "3.8\u20134.9% Cu, 1.2\u20131.8% Mg, 0.3\u20130.9% Mn, 0.5% Fe, 0.5% Si, 0.25% Zn, 0.15% Ti, 0.1% Cr, Balance Al (90.7\u201394.7%)",
+                "yield_strength_value": 324,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": 469,
+                "ultimate_tensile_strength_units": "MPa",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 137,
+                "hardness_units": "HV",
+                "modulus_value": 73.1,
+                "modulus_units": "GPa",
+                "notes": "Cold spray coating experiments were conducted by depositing commercially pure (CP) Al powder onto AA2024-T351 aluminum alloy substrates. The substrate mechanical properties, as detailed in Table 1, are provided."
+            }
+        ]
     },
     {
         "filename": "article_4340_23.pdf",
         "title": "Laser Assisted Cold Spray Deposition",
         "link": "https://link.springer.com/chapter/10.1007/978-3-030-42756-6_6",
-        "extractedText": ""
+        "extractedText": []
     },
     {
         "filename": "article_4340_24.pdf",
         "title": "Cold Spray and Laser-Assisted Cold Spray of CrMnCoFeNi High Entropy Alloy Using Nitrogen as the Propelling Gas",
         "link": "https://link.springer.com/article/10.1007/s11666-022-01361-9",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "CrMnCoFeNi HEA",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "Very close to equiatomic composition",
+                "substrate_material": "Al6061, Mild Steel, Hastelloy X",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 361,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition using nitrogen as the process gas at 950\u00b0C and 4.9 MPa produced coatings up to 250 \u03bcm thick on three different substrates, though weak inter\u2010particle bonding was observed."
+            },
+            {
+                "feedstock_material": "CrMnCoFeNi HEA",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "Very close to equiatomic composition",
+                "substrate_material": "Mild Steel",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 391,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Laser\u2010assisted cold spray (LACS) deposition on mild steel using a 4 kW continuous fiber laser (with process parameters approx. T = 500\u00b0C and P = 3.4 MPa) enhanced inter\u2010particle bonding and led to a higher measured coating hardness."
+            }
+        ]
     },
     {
         "filename": "article_4340_25.pdf",
         "title": "Influence of Surface Temperature in the Laser Assisted Cold Spray Deposition of Sequential Oxide Dispersion Strengthened Layers: Microstructure and Hardness",
         "link": "https://www.sciencedirect.com/science/article/pii/S0921509321002963",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "ODS Fe\u2013Ni\u2013Zr alloy",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "Fe91Ni8Zr1 (at. %)",
+                "substrate_material": "Steel",
+                "substrate_material_series": "AISI 1018",
+                "substrate_material_composition": "0.18 wt% C, <0.75 wt% Mn, <0.05 wt% P, <0.05 wt% S",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 598,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS deposit at 650\u00b0C with 6 layers; ferritic phase with refined grain structure; hardness measured as 598 \u00b156 HV."
+            },
+            {
+                "feedstock_material": "ODS Fe\u2013Ni\u2013Zr alloy",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "Fe91Ni8Zr1 (at. %)",
+                "substrate_material": "Steel",
+                "substrate_material_series": "AISI 1018",
+                "substrate_material_composition": "0.18 wt% C, <0.75 wt% Mn, <0.05 wt% P, <0.05 wt% S",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 293,
+                "hardness_units": "HV",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "LACS deposit at 950\u00b0C with 6 layers; austenitic phase with coarser grains; hardness measured as 293 \u00b138 HV."
+            }
+        ]
     },
     {
         "filename": "article_4340_26.pdf",
         "title": "Particle Deformation and Microstructure Evolution During Cold Spray of Individual Al-Cu Alloy Powder particles",
         "link": "https://www.sciencedirect.com/science/article/pii/S1359645419300692",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Al-Cu Alloy",
+                "feedstock_material_series": "Al-2Cu",
+                "feedstock_material_composition": "2 wt% Cu",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of Al-2Cu alloy powder particles onto 4340 steel; compression ratio ~0.59 observed and microstructure evolution analyzed."
+            },
+            {
+                "feedstock_material": "Al-Cu Alloy",
+                "feedstock_material_series": "Al-3Cu",
+                "feedstock_material_composition": "3 wt% Cu",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of Al-3Cu alloy particles onto 4340 steel; features such as jetting and peripheral particle deposition were noted."
+            },
+            {
+                "feedstock_material": "Al-Cu Alloy",
+                "feedstock_material_series": "Al-4Cu",
+                "feedstock_material_composition": "4 wt% Cu",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of Al-4Cu alloy particles onto 4340 steel; particle morphologies with fractures and peripheral features were observed."
+            },
+            {
+                "feedstock_material": "Al-Cu Alloy",
+                "feedstock_material_series": "Al-5Cu",
+                "feedstock_material_composition": "5 wt% Cu",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of Al-5Cu alloy particles onto 4340 steel; average compression ratio ~0.55 observed with ultrafine grain formation at the interface."
+            },
+            {
+                "feedstock_material": "Aluminum",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.0,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of pure aluminum particles using nitrogen as carrier gas onto 4340 steel; high deformation observed with nanohardness ~1.0 GPa."
+            },
+            {
+                "feedstock_material": "Copper",
+                "feedstock_material_series": "NA",
+                "feedstock_material_composition": "NA",
+                "substrate_material": "Steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 1.8,
+                "hardness_units": "GPa",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold spray deposition of pure copper particles using nitrogen as carrier gas onto 4340 steel; lower deformation observed with nanohardness ~1.8 GPa."
+            }
+        ]
     },
     {
         "filename": "article_4340_27.pdf",
         "title": "Improving Inter-Particle Deformation and Bonding by Preserving Transient in-situ Deposition Temperatures During Cold Spray",
         "link": "https://www.sciencedirect.com/science/article/pii/S0257897223009416",
-        "extractedText": ""
+        "extractedText": []
     },
     {
         "filename": "article_4340_28.pdf",
         "title": "How to Unleash the Remarkable Potential of Cold Spray: A Perspective",
         "link": "https://link.springer.com/article/10.1007/S11666-022-01363-7",
-        "extractedText": ""
+        "extractedText": []
     },
     {
         "filename": "article_4340_29.pdf",
         "title": "Interfacial Contact and Deformation: From All Solid State Li Batteries to the Cold Spray Refractory Ta Powders",
         "link": "https://digital.wpi.edu/downloads/9s161933d",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "experiment_type": "Cold Spray Processing of Refractory Ta Powders",
+                "powder_material": "Tantalum (Ta)",
+                "powder_size_distribution": "2\u201320 \u00b5m (mean \u224810.9 \u00b5m)",
+                "topical_oxide": {
+                    "composition": "Amorphous Ta O",
+                    "thickness": "\u22482.8 nm",
+                    "mechanical_properties": {
+                        "Youngs_modulus": "152 GPa",
+                        "Poissons_ratio": 0.25,
+                        "tensile_strength": "15.2 GPa"
+                    }
+                },
+                "substrates": [
+                    {
+                        "material": "Tantalum (Ta)",
+                        "topical_oxide": "Not separately characterized; presumed similar to particle oxide"
+                    },
+                    {
+                        "material": "4340 Steel",
+                        "topical_oxide": {
+                            "composition": "Fe O (hematite-like)",
+                            "mechanical_properties": {
+                                "Youngs_modulus": "219 GPa",
+                                "Poissons_ratio": 0.22,
+                                "tensile_strength": "21.9 GPa"
+                            }
+                        }
+                    }
+                ],
+                "cold_spray_parameters": {
+                    "impact_velocity": "680 m/s",
+                    "temperature_effects": "FEM simulations show a significant local temperature rise (Ta\u2013Ta impact shows higher temperature due to Ta\u2019s lower heat capacity; Ta on 4340 steel yields temperatures above the substrate\u2019s recrystallization threshold, promoting possible diffusion bonding)",
+                    "contact_and_deformation": "Simulations and experiments reveal formation of splat microstructures, high equivalent plastic strains localized to the contact zone, and both axial and shear strains that can result in brittle cracking of the oxide layers"
+                },
+                "observations": "Increasing impact velocity and thicker oxide layers lead to a lower fraction of unfractured oxide; cracking of the nanoscale oxide is critical to expose bare metal surfaces for bonding; overall, controlled deformation and cracking via cold spray enable improved interfacial contact and potential metallurgical bonding on both Ta and 4340 steel substrates"
+            }
+        ]
     },
     {
         "filename": "article_4340_30.pdf",
         "title": "Mechanical and Microstructural Behavior of Inconel 625 Deposits by High-Pressure Cold Spray and Laser Assisted Cold Spray",
         "link": "https://www.sciencedirect.com/science/article/pii/S0257897224005486",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Inconel 625",
+                "feedstock_material_series": "OER 625",
+                "feedstock_material_composition": "Cr: 21.5 wt%, Mo: 9.0 wt%, Fe: 2.75 wt%, Nb: 3.7 wt%, Balance Ni",
+                "substrate_material": "Inconel 625",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 8.9,
+                "hardness_units": "GPa",
+                "modulus_value": 265,
+                "modulus_units": "GPa",
+                "notes": "High-pressure cold spray (HPCS) deposit measured by nanoindentation; standard processing without laser assistance."
+            },
+            {
+                "feedstock_material": "Inconel 625",
+                "feedstock_material_series": "OER 625",
+                "feedstock_material_composition": "Cr: 21.5 wt%, Mo: 9.0 wt%, Fe: 2.75 wt%, Nb: 3.7 wt%, Balance Ni",
+                "substrate_material": "Inconel 625",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 9.1,
+                "hardness_units": "GPa",
+                "modulus_value": 265,
+                "modulus_units": "GPa",
+                "notes": "Laser assisted cold spray (LACS) deposit processed with a laser surface temperature of 650 \u00b0C, measured by nanoindentation."
+            },
+            {
+                "feedstock_material": "Inconel 625",
+                "feedstock_material_series": "OER 625",
+                "feedstock_material_composition": "Cr: 21.5 wt%, Mo: 9.0 wt%, Fe: 2.75 wt%, Nb: 3.7 wt%, Balance Ni",
+                "substrate_material": "Inconel 625",
+                "substrate_material_series": "NA",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 7.2,
+                "hardness_units": "GPa",
+                "modulus_value": 265,
+                "modulus_units": "GPa",
+                "notes": "Laser assisted cold spray (LACS) deposit processed with a laser surface temperature of 900 \u00b0C; nanoindentation indicated a softer, recrystallized microstructure."
+            }
+        ]
     },
     {
         "filename": "article_4340_31.pdf",
         "title": "Residual Stress in Cold Spray SS304L Measured Via Neutron Diffraction and Comparison of Analytical Models to Predict the Residual Stress",
         "link": "https://link.springer.com/article/10.1007/s11665-024-09422-6",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Stainless Steel",
+                "feedstock_material_series": "304L",
+                "feedstock_material_composition": "C 0.02, N 0.14, Mn 1.5, P 0.023, S 0.006, Si 0.73, Cr 18.7, Ni 8.3, Balance Fe",
+                "substrate_material": "Stainless Steel",
+                "substrate_material_series": "304L",
+                "substrate_material_composition": "NA",
+                "yield_strength_value": 270,
+                "yield_strength_units": "MPa",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": 400,
+                "hardness_units": "HV",
+                "modulus_value": 196.5,
+                "modulus_units": "GPa",
+                "notes": "Cold spray experiments used SS304L powder (composition in Table\u00a01) deposited onto a cold-rolled SS304L plate. Neutron diffraction was employed to map residual stresses, and mechanical tests on the substrate showed a yield strength of 270 MPa. As\u2010sprayed deposits exhibited a uniform hardness of ~400 HV, while laser heating modified the near\u2010surface stress state and hardness profile."
+            }
+        ]
     },
     {
         "filename": "article_4340_32.pdf",
         "title": "Influence of Deposition Technology on the Morphology of Chromium Carbide-Based Powder Coatings",
         "link": "https://jesi.astr.ro/wp-content/uploads/2025/01/4_Corneliu-Munteanu.pdf",
-        "extractedText": ""
+        "extractedText": [
+            {
+                "feedstock_material": "Chromium carbide-Ni powder (WIP-C1)",
+                "feedstock_material_series": "WIP-C1",
+                "feedstock_material_composition": "0.02%Co, 68.45%Cr, 0.08%Fe, 27.84%Ni, 0.01%W, 0.06%Al, 0.04%B, 0.01%Mo, 0.43%Si, 0.01%V, 3.00%C",
+                "substrate_material": "AISI 4340 steel",
+                "substrate_material_series": "4340",
+                "substrate_material_composition": "0.38-0.43%C, 0.60-0.80% Mn, max 0.035% P, max 0.040% S, 0.15-0.35% Si, 1.65-2.00% Ni, 0.70-0.90% Cr, 0.20-0.30% Mo",
+                "yield_strength_value": "NA",
+                "yield_strength_units": "NA",
+                "ultimate_tensile_strength_value": "NA",
+                "ultimate_tensile_strength_units": "NA",
+                "ductility_value": "NA",
+                "ductility_units": "NA",
+                "hardness_value": "NA",
+                "hardness_units": "NA",
+                "modulus_value": "NA",
+                "modulus_units": "NA",
+                "notes": "Cold Spray coating deposited using a VRC Gen-III cold spray machine with WIP-C1 powder on AISI 4340 steel; XRD analysis showed a predominant NiCr phase and a secondary CrC phase with minimal oxidation."
+            }
+        ]
     },
     {
         "filename": "article_4340_33.pdf",
