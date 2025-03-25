@@ -1,0 +1,2573 @@
+[
+    {
+        "filename": "Article_1.pdf",
+        "title": "Bulk fracture anisotropy in Cold-Sprayed Al 6061 deposits ...",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422000649",
+        "extractedText": {
+            "pre_sprayed_material_properties": {
+                "Powder Type": "Specifies the composition and identification of the feedstock powder used for cold spray deposition.",
+                "Powder Size Dist.": "Describes the particle size distribution of the powder feedstock before spraying.",
+                "Substrate": "Identifies the base material onto which the cold-sprayed deposit is applied."
+            },
+            "experimental_properties": {
+                "Spraying System": "Specifies the equipment used to perform the cold spray deposition.",
+                "Powder Feed Rate": "Defines the rate at which powder is supplied during the cold spray process.",
+                "Gas Type": "Indicates the type of gas used to accelerate the powder particles during spraying.",
+                "Gas Pressure": "Specifies the pressure of the accelerating gas in the cold spray process.",
+                "Gas Temperature": "Represents the temperature of the accelerating gas during spraying.",
+                "Nozzle Material": "Describes the material composition of the spray nozzle used in the deposition process.",
+                "Nozzle Model": "Identifies the specific model of the nozzle utilized in the cold spray process.",
+                "Nozzle Throat Length": "Specifies the length of the converging section of the nozzle through which particles are accelerated.",
+                "Nozzle Length": "Indicates the overall length of the spray nozzle employed during deposition.",
+                "Nozzle Throat Diameter": "Specifies the diameter of the narrowest section of the nozzle affecting particle acceleration.",
+                "Nozzle Exit Diameter": "Represents the diameter of the nozzle opening from which particles are ejected.",
+                "Nozzle Standoff Distance": "Defines the gap between the spray nozzle and the substrate during deposition.",
+                "Rastering Speed": "Specifies the speed at which the spray nozzle moves across the substrate.",
+                "Rastering Step Size": "Indicates the incremental distance between successive passes of the nozzle during spraying.",
+                "Particle Velocity": "Represents the speed at which powder particles impact the substrate in the cold spray process."
+            },
+            "sparyed_properties": {
+                "Elastic Modulus": "Measures the stiffness of the sprayed deposit by quantifying its resistance to elastic deformation.",
+                "Yield Strength": "Indicates the stress at which the sprayed material begins to deform plastically.",
+                "Tensile Strength": "Represents the maximum stress the sprayed deposit can withstand before failure.",
+                "Elongation at Break": "Describes the ductility of the sprayed deposit by measuring the strain at fracture.",
+                "Fracture Toughness": "Represents the resistance of the sprayed deposit to crack initiation and propagation.",
+                "Porosity": "Quantifies the fraction of void space in the sprayed deposit, reflecting its density and quality.",
+                "Residual Stresses": "Indicates the internal stresses present in the sprayed deposit resulting from the deposition process.",
+                "Fatigue Crack Growth Rate": "Measures the rate at which a crack propagates under cyclic loading in the sprayed material."
+            },
+            "standards": {
+                "ASTM E399": "Standard for determining linear-elastic plane-strain fracture toughness of metallic materials.",
+                "ASTM E561": "Standard method for determining the plane stress fracture resistance curve of metals.",
+                "ASTM E1820": "Standard test method for measuring fracture toughness and resistance in metals exhibiting elastic-plastic behavior.",
+                "ASTM E647": "Standard test method for measuring fatigue crack growth rates in materials.",
+                "ASTM C633": "Standard test method for evaluating the adhesion or cohesion strength of thermal spray coatings.",
+                "ASTM E2109-01": "Standard method for determining the area percentage porosity in thermal sprayed coatings.",
+                "ASTM E3": "Standard guide for the preparation of metallographic specimens.",
+                "ASTM E8": "Standard test methods for tension testing of metallic materials.",
+                "ASTM E111": "Standard test method for determining Young's modulus and related moduli of metallic materials.",
+                "ISO 12135": "Unified standard method for determining quasistatic fracture toughness.",
+                "MIL-DTL-32495C": "Military specification that defines the quality and characteristics of the feedstock powder."
+            }
+        },
+        "metadata": {
+            "Title": "Bulk fracture anisotropy in Cold-Sprayed Al 6061 deposits",
+            "Abstract": "NA",
+            "Date Published": "2022-3",
+            "DOI": "10.1016/j.engfracmech.2022.108301",
+            "Number of References": 73,
+            "Number of Citations": 20,
+            "Journal": "Engineering Fracture Mechanics",
+            "Date Updated (of metadata)": "2024-09-20T16:52:38Z"
+        }
+    },
+    {
+        "filename": "Article_2.pdf",
+        "title": "Aluminium 6061 - SPEE3D 3D Metal Printing",
+        "link": "https://www.spee3d.com/material/aluminium-alloy-6061-spd/",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_3.pdf",
+        "title": "Tailoring powder strengths for enhanced quality of cold sprayed Al6061 deposits",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0264127522001150",
+        "extractedText": {
+            "pre_sprayed_material_properties": {
+                "material_composition": "Represents the elemental makeup and alloy system (Al6061) of the powder feedstock before any treatment.",
+                "powder_strength": "Indicates the intrinsic mechanical resistance of the powder particles against deformation prior to deposition.",
+                "powder_microstructure": "Describes the internal structural features of the powder, including grain size, phase distribution, and segregation patterns.",
+                "powder_morphology": "Refers to the external shape, sphericity, and surface features (such as satellites) of the powder particles.",
+                "powder_size_distribution": "Represents the statistical distribution of particle sizes (e.g., D10, D50, D90) in the powder.",
+                "oxygen_content": "Measures the level of oxygen present in the powder, which can influence oxidation and bonding during spraying.",
+                "solute_segregation": "Refers to the uneven distribution of alloying elements within the powder particles that affects local properties."
+            },
+            "experimental_properties": {
+                "processing_gas_temperature": "Denotes the temperature of the gas used in the cold spraying process, affecting particle heating and softening.",
+                "processing_gas_pressure": "Indicates the pressure of the gas jet that accelerates the particles towards the substrate.",
+                "standoff_distance": "Represents the distance between the spray gun and the substrate, which influences particle impact conditions.",
+                "gun_traverse_speed": "Specifies the speed at which the spray gun moves over the substrate during deposition.",
+                "powder_injection_feed_rate": "Describes the rate at which the powder is introduced into the cold spray system.",
+                "critical_velocity": "Defines the minimum particle impact velocity necessary to achieve successful bonding during deposition.",
+                "particle_impact_temperature": "Represents the temperature of the particles at the moment of impact, influenced by process conditions.",
+                "g_parameter": "A dimensionless quality parameter derived from the ratio of particle impact velocity to critical velocity that correlates with deposit quality.",
+                "cavitation_test_duration": "Specifies the time intervals used during cavitation-induced erosion tests to assess splat adhesion.",
+                "compression_test_rate": "Indicates the displacement rate applied during particle compression testing to evaluate powder strength."
+            },
+            "sparyed_properties": {
+                "deposit_microhardness": "Represents the hardness of the sprayed deposit as measured by microindentation tests on cross-sectional samples.",
+                "deposit_porosity": "Defines the fraction of voids within the deposit, which can influence its overall mechanical and physical performance.",
+                "electrical_conductivity": "Reflects the ability of the deposit to conduct electricity as measured by an inductive method.",
+                "deposition_efficiency": "Indicates the effectiveness of material transfer from the powder to the deposit during the cold spray process.",
+                "deposit_thickness": "Represents the overall thickness of the cold-sprayed deposit layer on the substrate.",
+                "yield_strength": "Defines the stress at which the sprayed deposit begins to undergo permanent plastic deformation.",
+                "ultimate_tensile_strength": "Represents the maximum stress the deposit can sustain before failure during tensile testing.",
+                "splat_adhesion": "Describes the bonding strength of individual particle splats to the substrate as evaluated through cavitation-induced erosion testing.",
+                "fracture_morphology": "Characterizes the features observed on the fracture surfaces of the deposit that indicate its failure mechanisms."
+            },
+            "standards": {
+                "ASTM E384-10": "A standard detailing the methods for microindentation hardness testing used to assess deposit microhardness.",
+                "ASTM E1004": "A standard specifying the inductive method for measuring electrical conductivity in deposited samples."
+            }
+        },
+        "metadata": {
+            "Title": "Tailoring Powder Strengths for Enhanced Quality of Cold Sprayed Al6061 Deposits",
+            "Abstract": "NA",
+            "Date Published": "2022",
+            "DOI": "10.2139/ssrn.4004791",
+            "Number of References": 35,
+            "Number of Citations": 0,
+            "Journal": "SSRN Electronic Journal",
+            "Date Updated (of metadata)": "2023-03-23T04:31:23Z"
+        }
+    },
+    {
+        "filename": "Article_4.pdf",
+        "title": "Stress Corrosion Cracking Resistance of Cold-Sprayed Al 6061 Deposits Using a Newly Developed Test Fixture",
+        "link": "https://www.mdpi.com/2079-6412/9/7/445",
+        "extractedText": {
+            "pre_sprayed_material_properties": {
+                "material_composition": "Indicates the chemical makeup of the starting aluminum alloy, specifically Al 6061.",
+                "material_condition": "Specifies the initial processing state of the material, such as wrought Al6061-T6 versus the powder feedstock for cold spray.",
+                "grain_structure": "Describes the fine grain characteristics preserved in the feedstock powder and maintained in the deposited material.",
+                "oxidation_level": "Represents the low degree of surface oxidation on the feedstock powder that benefits corrosion resistance.",
+                "powder_particle_size": "Indicates the distribution of particle sizes in the feedstock powder used in the cold spray process."
+            },
+            "experimental_properties": {
+                "cold_spray_nozzle_throat_diameter": "Represents the throat diameter of the nozzle used in cold spray deposition, which affects particle acceleration.",
+                "exit_diameter": "Refers to the diameter at the nozzle exit that influences particle velocity and spray pattern.",
+                "nozzle_length": "Specifies the length of the cold spray nozzle, a geometric parameter that can impact gas flow characteristics.",
+                "gas_type": "Indicates the type of carrier gas used during the cold spray process.",
+                "gas_pressure": "Denotes the operating pressure of the gas in the cold spray system, affecting the momentum of the particles.",
+                "mass_feed_rate": "Represents the rate at which powder is fed into the cold spray process.",
+                "standoff_distance": "Defines the distance between the nozzle and the substrate during deposition, impacting coating quality.",
+                "raster_speed": "Specifies the movement speed of the spray head over the substrate to achieve uniform coating deposition.",
+                "tensile_test_strain_rate": "Describes the strain rate applied during tensile testing as prescribed by standard procedures.",
+                "sample_preparation_EDM": "Indicates that wire electrical discharge machining was used to fabricate the tensile test specimens.",
+                "fixture_calibration": "Refers to the calibration of the test fixture using sensor feedback to ensure consistent load application.",
+                "SCC_exposure_duration": "Specifies the time period during which samples were exposed to the salt fog environment in stress corrosion testing.",
+                "pre_strain_levels": "Represents the different percentages of the material\u2019s yield strength used to pre-strain samples prior to testing."
+            },
+            "sparyed_properties": {
+                "yield_strength": "Represents the stress at which the sprayed material begins to undergo plastic, irreversible deformation.",
+                "tensile_strength": "Indicates the maximum stress the sprayed deposit can withstand before failure occurs.",
+                "plastic_deformation": "Describes the amount of permanent deformation observed in the sprayed coating during mechanical testing.",
+                "fracture_behavior": "Qualitatively characterizes the mode of failure of the sprayed deposit, for example, whether it exhibits ductile or brittle rupture.",
+                "residual_strength": "Represents the remaining strength of the sprayed deposit after exposure to corrosive environments.",
+                "stress_strain_behavior": "Describes the overall mechanical response of the sprayed material under tensile loading.",
+                "porosity": "Indicates the level of void content within the sprayed coating, which affects its mechanical performance.",
+                "deposition_efficiency": "Represents the fraction of powder that successfully adheres to the substrate during the cold spray process.",
+                "work_hardening_effect": "Describes the increase in material strength due to deformation induced during the cold spray deposition."
+            },
+            "standards": {
+                "ASTM E8": "A standard test method for obtaining tensile properties of metallic materials.",
+                "ASTM B117": "A standard practice for operating salt spray (fog) apparatus used to assess corrosion resistance.",
+                "ASTM G64-99": "A standard classification for resistance to stress corrosion cracking in heat-treatable aluminum alloys.",
+                "ASTM E112-12": "A standard test method for determining the average grain size in metallographic specimens."
+            }
+        },
+        "metadata": {
+            "Title": "Stress Corrosion Cracking Resistance of Cold-Sprayed Al 6061 Deposits Using a Newly Developed Test Fixture",
+            "Abstract": "<jats:p>The stress corrosion cracking (SCC) response of Al 6061 bulk deposits produced by high-pressure cold spray (HPCS) was investigated and compared to commercial wrought Al 6061-T6 material. Representative tensile coupons were stressed to 25%, 65% and 85% of their respective yield strength and exposed to ASTM B117 salt fog for 90 days. After exposure, the samples were mechanically tested to failure, and subsequently investigated for stress corrosion cracking via optical and scanning electron microscopy with energy-dispersive X-ray spectroscopy (EDS). The results were compared to the wrought Al 6061-T6 properties and correlated with the observed microstructures. Wrought samples showed the initiation of stress corrosion cracking, while the cold-sprayed deposits appeared to be unaffected or affected by general corrosion only. Optical microscopy revealed evidence of stress corrosion cracking in the form of intergranular corrosion in the wrought samples, while no significant corrosion was observed in the cold-sprayed deposits. Fractography revealed wrought samples failed due to multiple mechanisms, with predominant cleavage and intergranular failure, but cold-sprayed samples only failed by ductile dimple rupture. The difference in SCC response between the differently processed materials is attributed to the documented benefits of the cold spray process, which includes maintaining fine grain structure of the feedstock powder and high density after consolidation, low oxidation, and work hardening effect.</jats:p>",
+            "Date Published": "2019-7-17",
+            "DOI": "10.3390/coatings9070445",
+            "Number of References": 49,
+            "Number of Citations": 3,
+            "Journal": "Coatings",
+            "Date Updated (of metadata)": "2025-02-21T17:54:36Z"
+        }
+    },
+    {
+        "filename": "Article_5.pdf",
+        "title": "Mechanical properties and growth mechanisms of long and small fatigue cracks in as-deposited bulk cold spray Al-6061",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112324000100?casa_token=8BTO0UmGmO4AAAAA:mj-VECrBp7wwXChuFvC8pE1aM0gwtxZXrvXa8j56GwyanemaThTVF6jtUgEd1h33433Bo2_c",
+        "extractedText": {
+            "pre_sprayed_material_properties": {
+                "Powder Type": "Specifies the type of aluminum powder used, defining the base material composition (e.g., Al-6061).",
+                "Powder Supply": "Indicates the source or supplier of the powder material, distinguishing between raw and pre\u2010processed supplies.",
+                "Powder Handling": "Describes the pre-deposition treatment of the powder, such as exposure to humid air prior to spraying.",
+                "Powder Heat Treatment": "Specifies whether the powder underwent heat treatment before deposition to remove contaminants and modify its microstructure.",
+                "Deposited Particle Size": "Represents the average size of the powder particles as they appear in the as-sprayed deposition.",
+                "Average Grain Size": "Indicates the mean crystallite or grain size determined from microstructural analysis of the deposited material.",
+                "Microstructure": "Describes the internal arrangement and bonding of grains and particle boundaries within the as-deposited material."
+            },
+            "experimental_properties": {
+                "System": "Specifies the cold spray equipment and configuration used during deposition (e.g., VRC Gen 3).",
+                "Process Gas": "Identifies the type of gas used in the spraying process, such as helium, which affects particle acceleration.",
+                "Main Gas Temperature Set Point": "Defines the target temperature for the primary process gas during the cold spray operation.",
+                "Pressure Set Point": "Specifies the target process pressure applied during the cold spray deposition procedure.",
+                "Carrier Gas Flow Rate": "Indicates the actual flow rate of the gas used to carry and accelerate the powder particles.",
+                "Powder Feed RPM": "Describes the rotational speed of the powder feeder during the deposition process.",
+                "Powder Feeder Vibrator": "Indicates whether the powder feeder vibrator was active or inactive during the spraying process.",
+                "Robot Traverse Velocity": "Specifies the movement speed of the spray gun or robotic arm during deposition.",
+                "Index Spacing": "Defines the spacing interval between successive spray passes during the deposition process.",
+                "Tensile Testing Standard": "Specifies that tensile testing was conducted according to a standardized method (e.g., ASTM E8).",
+                "Long FCG Testing Standard": "Indicates that long fatigue crack growth tests were performed following a recognized standard (e.g., ASTM E647).",
+                "Lap Shear Testing Standard": "Specifies that lap shear tests for interfacial strength were conducted in accordance with a standard (e.g., ASTM D1002).",
+                "Grain Size Measurement Standard": "Indicates that the average grain size was measured using a standardized method (e.g., ASTM E112).",
+                "Testing Temperature": "Describes the ambient laboratory temperature maintained during the mechanical testing procedures.",
+                "Relative Humidity": "Specifies the range of atmospheric moisture conditions present in the laboratory during testing.",
+                "Notch Preparation Method": "Describes the technique used to create initial notches in specimens (e.g., using sinker EDM) for fatigue testing."
+            },
+            "sparyed_properties": {
+                "Yield Strength": "Represents the stress level at which the as-sprayed material begins to deform plastically.",
+                "Ultimate Tensile Strength": "Indicates the maximum stress that the as-sprayed material can withstand before failure.",
+                "E": "Denotes the elastic modulus of the as-sprayed material, reflecting its stiffness under tensile loading.",
+                "Elongation": "Represents the ductility of the as-sprayed material as measured by its percent strain at fracture.",
+                "\u0394Kth-app": "Specifies the applied fatigue crack growth threshold used to evaluate the onset of crack propagation in the material.",
+                "\u0394Kth-eff": "Represents the effective fatigue crack growth threshold after corrections for crack closure have been applied.",
+                "\u0394KFT": "Indicates the fracture toughness of the as-sprayed material, quantifying its resistance to crack propagation.",
+                "Paris Law Constant C": "A constant from the Paris Law that characterizes the rate of fatigue crack growth.",
+                "Paris Law Exponent m": "Defines the sensitivity of the fatigue crack growth rate to variations in the stress intensity factor.",
+                "Kmax": "Represents the maximum stress intensity factor reached during fatigue testing.",
+                "Interface Shear Strength": "Denotes the shear strength measured at the interface between the cold-sprayed deposition and its substrate.",
+                "Strain Energy Release Rate": "Represents the energy rate available for crack propagation, as determined from shear testing data."
+            },
+            "standards": {
+                "ASTM E8": "A standard specifying test methods for tension testing of metallic materials.",
+                "ASTM E647": "A standard test method for measuring fatigue crack growth rates in materials.",
+                "ASTM D1002": "A standard test method for determining the apparent shear strength of single-lap-joint adhesively bonded metal specimens by tension loading.",
+                "ASTM E112": "A standard test method used for determining average grain size in metallic materials.",
+                "MIL-J-24445A": "A Department of Defense military specification related to material testing procedures."
+            }
+        },
+        "metadata": {
+            "Title": "Mechanical properties and growth mechanisms of long and small fatigue cracks in as-deposited bulk cold spray Al-6061",
+            "Abstract": "NA",
+            "Date Published": "2024-4",
+            "DOI": "10.1016/j.ijfatigue.2024.108152",
+            "Number of References": 31,
+            "Number of Citations": 4,
+            "Journal": "International Journal of Fatigue",
+            "Date Updated (of metadata)": "2025-03-19T13:14:30Z"
+        }
+    },
+    {
+        "filename": "Article_6.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_7.pdf",
+        "title": "Ultrasonic and conventional fatigue behavior, strain rate sensitivity, and structural design methods for wrought and cold spray Al-6061",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2589152924002837?casa_token=5HQzxvgo2O8AAAAA:O8u_M_S5MkcKPLks84R_nScdX6WK4uCwQ_r45fkAdyTg7jwfuWRRUUQoJPq7Pzl23IHpvoXb",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Ultrasonic and Conventional Fatigue Behavior, Strain Rate Sensitivity, and Structural Design Methods for Wrought and Cold Spray Al-6061",
+            "Abstract": "NA",
+            "Date Published": "2024",
+            "DOI": "10.2139/ssrn.4733158",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2024-02-21T00:27:40Z"
+        }
+    },
+    {
+        "filename": "Article_8.pdf",
+        "title": "Effects of processing on microstructure evolution and fatigue crack growth mechanisms in cold-spray 6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112318300057?casa_token=3YwKzePCiMIAAAAA:ZsYbulYjY9o2oLWQMV5C0JupLhDY34P63EjyWVH_ARFIdWB9uU6bo8SvIdCtGz9qfVzDROjM",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of processing on microstructure evolution and fatigue crack growth mechanisms in cold-spray 6061 aluminum alloy",
+            "Abstract": "NA",
+            "Date Published": "2018-5",
+            "DOI": "10.1016/j.ijfatigue.2018.01.006",
+            "Number of References": 46,
+            "Number of Citations": 57,
+            "Journal": "International Journal of Fatigue",
+            "Date Updated (of metadata)": "2025-03-19T14:00:55Z"
+        }
+    },
+    {
+        "filename": "Article_9.pdf",
+        "title": "Quantitative Nondestructive Evaluation of Cold Spray Manufactured Aluminum Alloy 6061 and Copper Samples",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01738-y",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Quantitative Nondestructive Evaluation of Cold Spray Manufactured Aluminum Alloy 6061 and Copper Samples",
+            "Abstract": "<jats:title>Abstract</jats:title><jats:p>Cold spray (CS) is a solid-state process for depositing thick layers of material via the successive high-velocity impact of powder particles onto a solid surface, which leads to high rates of deformation, interparticle bonding, and coating build-up. Although CS is finding commercial utilization in non-load-bearing repair and coating applications, clear nondestructive characterization procedures are necessary to realize its potential in load-bearing structural applications. In this study, the viability of electrical conductivity and through thickness ultrasound wave velocity measurement methods was studied to serve as a means for nondestructive quantitative measurement for quality control in CS and potentially other additive manufacturing (AM) methods. Eddy current, ultrasound, porosity, hardness, and uniaxial tensile strength tests were conducted on CS deposited layers of aluminum alloy 6061 and copper on aluminum alloy 6061 and commercially pure copper substrates, respectively. CS gas dynamic parameters were intentionally and systematically varied to result in corresponding discrete differences in mechanical properties of deposits. Ultrasound measurements of longitudinal wave velocity and eddy current electrical conductivity measurements showed good correlation with process conditions, microstructural characterization results, and destructive mechanical tests (hardness, tensile). The results of this work show that ultrasound wave velocity and electrical conductivity correlate well with increased particle impact velocity in CS deposited aluminum and copper blocks, which evidently show an incremental decrease in porosity, increase in hardness, and increase in tensile strength. The outlined ultrasound and eddy current nondestructive testing methods present effective means for quantitative assessment of cold spray deposited structures while intact with the substrate.</jats:p>",
+            "Date Published": "2024-2-28",
+            "DOI": "10.1007/s11666-024-01738-y",
+            "Number of References": 53,
+            "Number of Citations": 1,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-02-21T11:45:07Z"
+        }
+    },
+    {
+        "filename": "Article_10.pdf",
+        "title": "Surface states of gas-atomized Al 6061 powders \u2013 Effects of heat treatment",
+        "link": "sciencedirect.com/science/article/pii/S0169433220324004?via%3Dihub",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Surface states of gas-atomized Al 6061 powders \u2013 Effects of heat treatment",
+            "Abstract": "NA",
+            "Date Published": "2020-12",
+            "DOI": "10.1016/j.apsusc.2020.147643",
+            "Number of References": 55,
+            "Number of Citations": 19,
+            "Journal": "Applied Surface Science",
+            "Date Updated (of metadata)": "2025-02-21T04:02:20Z"
+        }
+    },
+    {
+        "filename": "Article_11.pdf",
+        "title": "Small Fatigue Crack Growth Mechanisms and Interfacial Stability in Cold-Spray 6061 Aluminum Alloys and Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11661-018-4929-0",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Small Fatigue Crack Growth Mechanisms and Interfacial Stability in Cold-Spray 6061 Aluminum Alloys and Coatings",
+            "Abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Cold-spray-processed aluminum alloys have static mechanical properties superior to those of aerospace cast alloys, and similar to those of their wrought counterparts, making them good candidates for structural applications. However, their broad and confident use relies upon systematic fatigue crack growth studies to investigate and demonstrate the materials\u2019 performance in critical high-integrity components. In this work, the fatigue crack growth behavior in early stages (small crack growth regime) was investigated for cold-spray processed 6061 aluminum alloys and coatings, at stress ratio <jats:italic>R</jats:italic>\u2009=\u20090.1, in room temperature laboratory air. The effects of the characteristic microstructure and initial flaw size on the fatigue crack growth response were systematically examined, and the crack growth mechanisms at the microstructural scale were established and compared to those of long cracks. The mechanical interfacial stability of coatings was examined in cold-spray 6061\u2013rolled 6061-T6 couples. An original method of quantifying the deposition\u2013substrate interfacial strength, and correlating it to the response under cyclic loading <jats:italic>via</jats:italic> crack-interface stability maps, was developed. The proposed methodology is based on combined scratch testing and fracture mechanics formulations, and failure at the coating\u2013substrate interface can be predicted for any crack growth scenario under cyclic loading. The method can be broadly used for the design and optimization of cold-spray and other coatings, as well as in structural repair.</jats:p>",
+            "Date Published": "2018-10-15",
+            "DOI": "10.1007/s11661-018-4929-0",
+            "Number of References": 47,
+            "Number of Citations": 19,
+            "Journal": "Metallurgical and Materials Transactions A",
+            "Date Updated (of metadata)": "2024-09-20T16:28:31Z"
+        }
+    },
+    {
+        "filename": "Article_12.pdf",
+        "title": "Comparing Relative Bond Characteristics Between Spherical and Elongated Morphologies for Cold Spray Process Using SPH Simulation",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01448-3",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Comparing Relative Bond Characteristics Between Spherical and Elongated Morphologies for Cold Spray Process Using SPH Simulation",
+            "Abstract": "<jats:title>Abstract</jats:title><jats:p>Under cold spray conditions, the modified Johnson\u2013Cook model was adopted to perform single and multiple particle simulation for spherical and elongated aluminum alloy- Al-6061 feedstock particles. The splat formations were realistically presented; the temperature evolution throughout the deposition process stayed below the melting point of Al-6061, and the feedstock particles exhibited restitution for impact velocities lower than 200\u00a0m/s. Feedstock particles with elongated morphology experienced a lower elastic strain energy level than spherical morphology after impact, which implied the relative bond strength was higher for elongated particles than spherical particles. The displacement curves in single particle simulations for both morphologies suggested a spherical particle experienced a greater shock than the elongated particle upon impact. The relative bond strength achieved by multiple particle impact was lower than the single particle impact, even though the displacement curves showed the feedstock particles were individually embedded in the substrate.</jats:p>",
+            "Date Published": "2022-8-10",
+            "DOI": "10.1007/s11666-022-01448-3",
+            "Number of References": 42,
+            "Number of Citations": 5,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-02-21T11:46:05Z"
+        }
+    },
+    {
+        "filename": "Article_13.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_14.pdf",
+        "title": "Microstructure and Micromechanical Response in Gas-Atomized Al 6061 Alloy powder and Cold-Sprayed Splats",
+        "link": "https://link.springer.com/article/10.1007/s11666-018-0785-0",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure and Micromechanical Response in Gas-Atomized Al 6061 Alloy Powder and Cold-Sprayed Splats",
+            "Abstract": "NA",
+            "Date Published": "2018-11-7",
+            "DOI": "10.1007/s11666-018-0785-0",
+            "Number of References": 73,
+            "Number of Citations": 34,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-14T14:22:33Z"
+        }
+    },
+    {
+        "filename": "Article_15.pdf",
+        "title": "Microsturcture and mechanical properties of cold sprayed 6061 Al in As-sprayed and heat treated condition",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897216313214?casa_token=Ah9Frhq7lAQAAAAA:t2RlwAFDZbM7RE8AKjK8fp570HG22xd5jwYZrKgBzh8GDNSE1DWw-gtgyy-bONEwYxK4Nm6X",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure and mechanical properties of cold sprayed 6061 Al in As-sprayed and heat treated condition",
+            "Abstract": "NA",
+            "Date Published": "2017-1",
+            "DOI": "10.1016/j.surfcoat.2016.12.035",
+            "Number of References": 52,
+            "Number of Citations": 146,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T14:43:57Z"
+        }
+    },
+    {
+        "filename": "Article_16.pdf",
+        "title": "Engineered Aluminum Powder Microsturcture and Mechanical Properties by Heat Treatment for Optimized Cold Spray Deposition of High-Strength Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01455-4",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Engineered Aluminum Powder Microstructure and Mechanical Properties by Heat Treatment for Optimized Cold Spray Deposition of High-Strength Coatings",
+            "Abstract": "NA",
+            "Date Published": "2022-9-8",
+            "DOI": "10.1007/s11666-022-01455-4",
+            "Number of References": 69,
+            "Number of Citations": 13,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-23T04:29:32Z"
+        }
+    },
+    {
+        "filename": "Article_17.pdf",
+        "title": "Effects of Process Parameters on Cold Spray Deposition of Al-6061 Alloy",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01456-3",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of Process Parameters on Cold Spray Deposition of Al-6061 Alloy",
+            "Abstract": "NA",
+            "Date Published": "2022-9-12",
+            "DOI": "10.1007/s11666-022-01456-3",
+            "Number of References": 66,
+            "Number of Citations": 17,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-22T11:58:17Z"
+        }
+    },
+    {
+        "filename": "Article_18.pdf",
+        "title": "Fatigue an delamination of 6061 aluminum cold spray on a similar wrought substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509324009559?casa_token=wJH4sAkNVMIAAAAA:hSLjXhWiaAvq7J3HwYuLjp7Ky7kPDgKdHzL57wwWH_ziitN1mN8fZbRNR3rB3PA-QO5RJJma",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Fatigue and delamination of 6061 aluminum cold spray on a similar wrought substrate",
+            "Abstract": "NA",
+            "Date Published": "2024-10",
+            "DOI": "10.1016/j.msea.2024.147024",
+            "Number of References": 85,
+            "Number of Citations": 0,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2025-02-21T06:02:14Z"
+        }
+    },
+    {
+        "filename": "Article_19.pdf",
+        "title": "Deformation and cracking phenomena in cold sprayed 6061 Al alloy powders with nanoscale aluminum oxide films",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509322004439?casa_token=iTjXQq3ARrsAAAAA:8XIPMB7jxM4LvKNB6zcLczfNcYmdnJM1cwIuaaIwg10sTGYsD2KQ5Z2LLPeBOfTppKTotNEl",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Deformation and cracking phenomena in cold sprayed 6061 Al alloy powders with nanoscale aluminum oxide films",
+            "Abstract": "NA",
+            "Date Published": "2022-4",
+            "DOI": "10.1016/j.msea.2022.143036",
+            "Number of References": 51,
+            "Number of Citations": 23,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2024-09-10T23:49:37Z"
+        }
+    },
+    {
+        "filename": "Article_20.pdf",
+        "title": "Joining of Cast ZE41A Mg to Wrought 6061 Al by the Cold Spray Process and Friction Stir Welding",
+        "link": "https://link.springer.com/article/10.1007/s11666-015-0301-8",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Joining of Cast ZE41A Mg to Wrought 6061 Al by the Cold Spray Process and Friction Stir Welding",
+            "Abstract": "NA",
+            "Date Published": "2015-9-24",
+            "DOI": "10.1007/s11666-015-0301-8",
+            "Number of References": 43,
+            "Number of Citations": 46,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-19T10:33:27Z"
+        }
+    },
+    {
+        "filename": "Article_21.pdf",
+        "title": "Effects of post-deposition processing on static and cyclic performance of cold sprayed 6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860424002926",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of Post-Deposition Processing on Static and Cyclic Performance of Cold Sprayed 6061 Aluminum Alloy",
+            "Abstract": "NA",
+            "Date Published": "2024",
+            "DOI": "10.2139/ssrn.4725232",
+            "Number of References": 89,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2024-02-15T00:43:17Z"
+        }
+    },
+    {
+        "filename": "Article_22.pdf",
+        "title": "Effects of build orientation and head treatment on microsturcture, mechanical and corrosion properties of Al6061 aluminium parts built by cold spray additive manufacturing process",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0020740321002617?casa_token=H_hTt0GWjLgAAAAA:XXM8sXT83JIOMk463Fc2FQhIuz-N1ALlLflPCQ7oQvnja9N3yzvKH5OEeKke-qLJCj5Ag0U5",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of build orientation and heat treatment on microstructure, mechanical and corrosion properties of Al6061 aluminium parts built by cold spray additive manufacturing process",
+            "Abstract": "NA",
+            "Date Published": "2021-8",
+            "DOI": "10.1016/j.ijmecsci.2021.106526",
+            "Number of References": 71,
+            "Number of Citations": 36,
+            "Journal": "International Journal of Mechanical Sciences",
+            "Date Updated (of metadata)": "2025-03-19T16:03:04Z"
+        }
+    },
+    {
+        "filename": "Article_23.pdf",
+        "title": "Towards better understanding supersonic impact-bonding behavior of cold sprayed 6061-T6 aluminum alloy based on a high-accuracy material model",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860421006199",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Towards better understanding supersonic impact-bonding behavior of cold sprayed 6061-T6 aluminum alloy based on a high-accuracy material model",
+            "Abstract": "NA",
+            "Date Published": "2021-12",
+            "DOI": "10.1016/j.addma.2021.102469",
+            "Number of References": 62,
+            "Number of Citations": 2,
+            "Journal": "Additive Manufacturing",
+            "Date Updated (of metadata)": "2025-02-21T21:36:58Z"
+        }
+    },
+    {
+        "filename": "Article_24.pdf",
+        "title": "Effects of zirconia secondary peening on the microsturcture and mechanical behavior of Al6061 cold spray coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897222001906?casa_token=sU7VsPS_VdUAAAAA:lE0ITUDc6v_wmrQF5nviDLZdq9jW4ZpwLVLMk84Ldurvd-ZwYrkgx07jrQbnSKr49uskDqeE",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of zirconia secondary peening on the microstructure and mechanical behavior of Al6061 cold spray coatings",
+            "Abstract": "NA",
+            "Date Published": "2022-4",
+            "DOI": "10.1016/j.surfcoat.2022.128269",
+            "Number of References": 38,
+            "Number of Citations": 7,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-07-04T13:26:33Z"
+        }
+    },
+    {
+        "filename": "Article_25.pdf",
+        "title": "Solid-state additive manufacturing high performance aluminum alloy 6061 enabled by an in-situ micro-forging assisted cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509320301131?casa_token=kDcBkHJzjGkAAAAA:2VFlUZh068QYmFK6i96nD4s-UBocs-30O4CkZUeRlclqCU0X8tObQ33D5kdAZf2-oNR_izTV",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Solid-state additive manufacturing high performance aluminum alloy 6061 enabled by an in-situ micro-forging assisted cold spray",
+            "Abstract": "NA",
+            "Date Published": "2020-3",
+            "DOI": "10.1016/j.msea.2020.139024",
+            "Number of References": 40,
+            "Number of Citations": 54,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2025-03-19T11:20:54Z"
+        }
+    },
+    {
+        "filename": "Article_26.pdf",
+        "title": "Laser assisted cold spray of aluminum alloy 6061: Experimental results",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860424005943?casa_token=AUlvVNeCFL0AAAAA:qjQNaxjSzTTDKDJ-D-i6deO1Z4lCe0_-cKKtdWF-KDs6Du2OSMBOE-LVWNMnlUunM78Y7e5Z",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_27.pdf",
+        "title": "Effects of substrate surface finish and particle velocity on fatigue performance of cold spray coated A6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897222005977?casa_token=VNPMIq6LyL8AAAAA:fqn3WE8EdHgjmpXzWiUOAMInV2Q8K_cZpZJJOvg5fP-FtAP0CIAa1Dy-Var1lXhOlFusMoPF",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of substrate surface finish and particle velocity on fatigue performance of cold spray coated A6061 aluminum alloy",
+            "Abstract": "NA",
+            "Date Published": "2022-8",
+            "DOI": "10.1016/j.surfcoat.2022.128676",
+            "Number of References": 57,
+            "Number of Citations": 10,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-09-06T02:54:49Z"
+        }
+    },
+    {
+        "filename": "Article_28.pdf",
+        "title": "Annealing behaviour of 6061 aluminium deposited by high pressure cold spray",
+        "link": "https://journals.sagepub.com/doi/epub/10.1179/1743294413Y.0000000209",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Annealing behaviour of 6061 aluminium deposited by high pressure cold spray",
+            "Abstract": "<jats:p> Aluminium 6061 deposited by high pressure cold spray was analysed using a transmission electron microscope (TEM) to characterise its microstructure and response to annealing to 450\u00b0C in the plane of the deposition and perpendicular to the deposited layers. The cold sprayed deposition was also analysed with scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) analysis and differential scanning calorimeter (DSC). Segregation of the solute atoms (Mg and Si) at the grain boundaries during cold spraying was seen to play a crucial role in stabilising the deformation substructure until specific temperatures, and was found to have a significant effect on the annealing behaviour of the microstructure in the two different directions. </jats:p>",
+            "Date Published": "2014-3-1",
+            "DOI": "10.1179/1743294413y.0000000209",
+            "Number of References": 44,
+            "Number of Citations": 32,
+            "Journal": "Surface Engineering",
+            "Date Updated (of metadata)": "2025-03-12T04:13:44Z"
+        }
+    },
+    {
+        "filename": "Article_29.pdf",
+        "title": "Inter-particle bonding in cold spray deposition of a gas-atomized and a solution heat-treated Al 6061 powder",
+        "link": "https://link.springer.com/article/10.1007/s10853-019-03736-w",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Inter-particle bonding in cold spray deposition of a gas-atomised and a solution heat-treated Al 6061 powder",
+            "Abstract": "NA",
+            "Date Published": "2019-6-12",
+            "DOI": "10.1007/s10853-019-03736-w",
+            "Number of References": 39,
+            "Number of Citations": 51,
+            "Journal": "Journal of Materials Science",
+            "Date Updated (of metadata)": "2025-03-24T08:15:45Z"
+        }
+    },
+    {
+        "filename": "Article_30.pdf",
+        "title": "Laser Assisted Cold Spray of Aluminum Alloy 6061",
+        "link": "https://www.proquest.com/docview/3098002079?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Laser assisted cold spray of aluminum alloy 6061",
+            "Abstract": "NA",
+            "Date Published": "None",
+            "DOI": "10.17760/d20670401",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2025-03-06T05:22:56Z"
+        }
+    },
+    {
+        "filename": "Article_31.pdf",
+        "title": "Cold Spray processing of AA2024/Al2O3 coating on magnesium AZ31B alloy: Process parameters optimization, microstructre and adhesive strength performance of coating",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2588840424000416",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Cold spray processing of AA2024/Al2O3 coating on magnesium AZ31B alloy: Process parameters optimization, microstructure and adhesive strength performance of coating",
+            "Abstract": "NA",
+            "Date Published": "2024-9",
+            "DOI": "10.1016/j.ijlmm.2024.05.002",
+            "Number of References": 45,
+            "Number of Citations": 2,
+            "Journal": "International Journal of Lightweight Materials and Manufacture",
+            "Date Updated (of metadata)": "2025-02-21T23:22:50Z"
+        }
+    },
+    {
+        "filename": "Article_32.pdf",
+        "title": "Effects of Cold-Spray Parameters on Surface Roughness, Thickness and Adhesion of Copper-Based Composite Coating on Aluminum Alloy 6061 T6 Substrate",
+        "link": "https://www.mdpi.com/2227-9717/11/3/959",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of Cold Spray Parameters on Surface Roughness, Thickness and Adhesion of Copper Based Composite Coating on Aluminium Alloy 6061 T6 Substrate",
+            "Abstract": "NA",
+            "Date Published": "2023",
+            "DOI": "10.2139/ssrn.4369202",
+            "Number of References": 0,
+            "Number of Citations": 1,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2025-03-19T11:29:04Z"
+        }
+    },
+    {
+        "filename": "Article_33.pdf",
+        "title": "The use of Al-Al2O3 cold spray coatings to improve the surface properties of magnesium alloys",
+        "link": "https://www.sciencedirect.com/science/article/pii/S025789720900601X?casa_token=ytTuxxNeWUMAAAAA:rpDYUYeedQO3ktvW5yqmjBXzCMS-6GGODNiI5blE-F8g4Ukxmqr19JAC3hGdeRCFSVr9iJk8",
+        "extractedText": "",
+        "metadata": {
+            "Title": "The use of Al\u2013Al2O3 cold spray coatings to improve the surface properties of magnesium alloys",
+            "Abstract": "NA",
+            "Date Published": "2009-10",
+            "DOI": "10.1016/j.surfcoat.2009.07.032",
+            "Number of References": 49,
+            "Number of Citations": 279,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T15:31:06Z"
+        }
+    },
+    {
+        "filename": "Article_34.pdf",
+        "title": "Machinability of Al 6061 Deposited with Cold Spray Additive Manufacturing",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0586-x",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Machinability of Al 6061 Deposited with Cold Spray Additive Manufacturing",
+            "Abstract": "NA",
+            "Date Published": "2017-6-26",
+            "DOI": "10.1007/s11666-017-0586-x",
+            "Number of References": 31,
+            "Number of Citations": 25,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-10-06T00:51:31Z"
+        }
+    },
+    {
+        "filename": "Article_35.pdf",
+        "title": "Heat-treatment and mechanical properties of cold-sprayed high strength Al alloys from satellited feedstocks",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219305225?casa_token=a6cqKmBQDu4AAAAA:S2GDYl4SQP3kyYKIEBsC05ms6_3yru4sR3LwI-ZVNrTM_XneWOLFJ_HcY9HnmU2ikHWV7eh2",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Heat-treatment and mechanical properties of cold-sprayed high strength Al alloys from satellited feedstocks",
+            "Abstract": "NA",
+            "Date Published": "2019-9",
+            "DOI": "10.1016/j.surfcoat.2019.05.043",
+            "Number of References": 53,
+            "Number of Citations": 21,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-22T10:55:22Z"
+        }
+    },
+    {
+        "filename": "Article_36.pdf",
+        "title": "Mocrostructural Evolution of 6061 Aluminum Gas-Atomized Powder and High-Pressure Cold-Sprayed Deposition",
+        "link": "https://link.springer.com/article/10.1007/s11666-013-0049-y",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructural Evolution of 6061 Aluminum Gas-Atomized Powder and High-Pressure Cold-Sprayed Deposition",
+            "Abstract": "NA",
+            "Date Published": "2013-12-6",
+            "DOI": "10.1007/s11666-013-0049-y",
+            "Number of References": 37,
+            "Number of Citations": 92,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-15T00:05:06Z"
+        }
+    },
+    {
+        "filename": "Article_37.pdf",
+        "title": "Mechanical Properties of Cold Sprayed Aluminium 2024 and 7075 Coatings for Repairs",
+        "link": "https://www.mdpi.com/2226-4310/9/2/65",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Mechanical Properties of Cold Sprayed Aluminium 2024 and 7075 Coatings for Repairs",
+            "Abstract": "<jats:p>This study investigates the mechanical properties of aluminium 2024 (Al-2024) and aluminium 7075 (Al-7075) cold-sprayed materials and coatings for repairs. It aims to determine the acceptable data needed to meet regulatory requirement when substantiating cold spray repairs. The study focuses on repairs of non-principal structural element (PSE) structures such as skin and panels that are prone to corrosion and wear. For cold spray repair of such components, the microstructure, tensile, peel, bearing, and bending strength from the repair process and powder materials of Al-2024 and Al-7075, were identified and investigated in accordance with MIL-STD-3021. Results show an average coating porosity of &lt;1.2% for both materials. Average tensile strength was 247.1 MPa (with elongation of 0.76%) for Al-2024 and 264.0 MPa (with elongation of 0.87%) for Al-7075. Al-2024 has an average peel strength of 71.9 MPa, while Al-7075 is at 48.9 MPa. The Al-2024 bearing test specimens gave a maximum load strength before failure of 633.6 MPa, while the Al-7075 gave 762.7 MPa. The bending tests show good flexibility for coating thickness ranges of typical skin and panel parts. The results show that cold spray can be used to restore thickness and oversized hole diameters for Al-2024 and Al-7075 skin and panels. The bearing test conducted in this study has also demonstrated a new test method to determine the bearing load and yield strength of a cold spray-repaired hole in a plate.</jats:p>",
+            "Date Published": "2022-1-26",
+            "DOI": "10.3390/aerospace9020065",
+            "Number of References": 25,
+            "Number of Citations": 12,
+            "Journal": "Aerospace",
+            "Date Updated (of metadata)": "2024-08-16T11:08:10Z"
+        }
+    },
+    {
+        "filename": "Article_38.pdf",
+        "title": "Cold-Sprayed Al6061 Coatings: Online Spray Monitoring and Influence of Process Parameters on Coating Properties",
+        "link": "https://www.mdpi.com/2079-6412/10/4/348",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Cold-Sprayed Al6061 Coatings: Online Spray Monitoring and Influence of Process Parameters on Coating Properties",
+            "Abstract": "<jats:p>Process optimization and quality control are important issues in cold spraying and coating development. Because the cold spray processing is based on high kinetic energy by high particle velocities, online spray monitoring of particle inflight properties can be used as an assisting process tool. Particle velocities, their positions in the spray jet, and particle size measurements give valuable information about spraying conditions. This, in turn, improves reproducibility and reliability of coating production. This study focuses on cold spraying of Al6061 material and the connections between particle inflight properties and coating characteristics such as structures and mechanical properties. Furthermore, novel 2D velocity scan maps done with the HW CS2 online spray monitoring system are presented as an advantageous powder and spray condition controlling tool. Cold spray processing conditions were similar using different process parameters, confirmed with the online spray monitoring prior to coating production. Higher particle velocities led to higher particle deformation and thus, higher coating quality, denser structures, and improved adhesions. Also, deposition efficiency increased significantly by using higher particle velocities.</jats:p>",
+            "Date Published": "2020-4-3",
+            "DOI": "10.3390/coatings10040348",
+            "Number of References": 40,
+            "Number of Citations": 23,
+            "Journal": "Coatings",
+            "Date Updated (of metadata)": "2025-02-21T17:54:34Z"
+        }
+    },
+    {
+        "filename": "Article_39.pdf",
+        "title": "Sintering of Cold Spray Additively Manufactured Aluminum 6061",
+        "link": "https://link.springer.com/article/10.1007/s11666-021-01238-3",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Sintering of Cold Spray Additively Manufactured Aluminum 6061",
+            "Abstract": "NA",
+            "Date Published": "2021-7-15",
+            "DOI": "10.1007/s11666-021-01238-3",
+            "Number of References": 72,
+            "Number of Citations": 6,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-07-02T14:00:53Z"
+        }
+    },
+    {
+        "filename": "Article_40.pdf",
+        "title": "Comparison of Cold-Sprayed Coatings of Copper-Based Composite Deposited on AZ31B Magnesium Alloy and 6061 T6 Aluminum Alloy Substrates",
+        "link": "https://link.springer.com/article/10.1007/s11666-021-01238-3",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Comparison of Cold-Sprayed Coatings of Copper-Based Composite Deposited on AZ31B Magnesium Alloy and 6061 T6 Aluminum Alloy Substrates",
+            "Abstract": "<jats:p>Copper-coated graphite and copper mixture powders were deposited on AZ31B magnesium alloy and 6061 T6 aluminum alloy substrates under different process parameters by a solid-state cold spray technique. The microstructure of the copper-coated graphite and copper composite coatings was visually examined using photographs taken with an optical microscope and a scanning electron microscope. The surface roughness of the coatings was investigated with a 3D profilometer. The thickness of the coatings was determined through the analysis of the microstructure images, while the adhesion of the coatings was characterized using the scratch test method. The results indicate that the surface roughness of the coatings sprayed on the two different substrates gradually decreases as gas temperature and gas pressure increase. Additionally, the thickness and adhesion of the coatings deposited on the two different substrates both increase with an increase in gas temperature and gas pressure. Comparing the surface roughness, thickness, and adhesion of the coatings deposited on the two different substrates, the surface roughness and adhesion of the coatings on the soft substrate are greater than those of the coatings on the hard substrate, while the thickness of the coatings is not obviously affected by the hardness of the substrate. Furthermore, it is noteworthy that the surface roughness, thickness, and adhesion of the copper-coated graphite and copper composite coatings sprayed on the two different substrates exhibit a distinct linear relationship with particle velocity.</jats:p>",
+            "Date Published": "2023-7-20",
+            "DOI": "10.3390/ma16145120",
+            "Number of References": 42,
+            "Number of Citations": 66,
+            "Journal": "Materials",
+            "Date Updated (of metadata)": "2025-03-22T12:17:51Z"
+        }
+    },
+    {
+        "filename": "Article_41.pdf",
+        "title": "Bonding mechanism and fracture behavior of cold-sprayed Fe-based amorphous alloy on 6061 Al alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224008259?casa_token=vIiu4o0IKAwAAAAA:TAFM2aBqrToe7JqC8cVgvCCwuwapoNkgkEVK-joftqbzSqAP_8HSy1964Cr75HnfFJqlLjaZ",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Bonding mechanism and fracture behavior of cold-sprayed Fe-based amorphous alloy on 6061 Al alloy",
+            "Abstract": "NA",
+            "Date Published": "2024-9",
+            "DOI": "10.1016/j.surfcoat.2024.131194",
+            "Number of References": 33,
+            "Number of Citations": 2,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:32:28Z"
+        }
+    },
+    {
+        "filename": "Article_42.pdf",
+        "title": "Residual stresses in cold spray Al coatings: The effect of alloyying and of process parameters",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897212003283?casa_token=PO33Y1mfn3UAAAAA:oMZWZIDCPpZqJrVmLYR4WTDTo2Y0bLDQqnf4vttyJ70J9M-nJWu_P9GrFrqtOsSGvZ_QOMxZ",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Residual stresses in cold spray Al coatings: The effect of alloying and of process parameters",
+            "Abstract": "NA",
+            "Date Published": "2012-5",
+            "DOI": "10.1016/j.surfcoat.2012.04.034",
+            "Number of References": 29,
+            "Number of Citations": 109,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T10:11:10Z"
+        }
+    },
+    {
+        "filename": "Article_43.pdf",
+        "title": "Effect of particle size, morphology, and hardness on cold gas dynamic sprayed aluminum alloy coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S025789720600778X?casa_token=_zTBnlkwgYMAAAAA:GDQ5eHL3R8eJDaDWu629FEAkCgTQQFqoCT6PmPnAQBrS_ww_BVlhPiSKxrDaUCjyaC3iarVM",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of particle size, morphology, and hardness on cold gas dynamic sprayed aluminum alloy coatings",
+            "Abstract": "NA",
+            "Date Published": "2006-12",
+            "DOI": "10.1016/j.surfcoat.2006.07.232",
+            "Number of References": 27,
+            "Number of Citations": 143,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T10:07:12Z"
+        }
+    },
+    {
+        "filename": "Article_44.pdf",
+        "title": "Microstructure and Mechanical property Evaluation of Aluminum F357 Powder for Cold Spray Applications",
+        "link": "https://link.springer.com/article/10.1007/s11666-020-01140-4",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure and Mechanical Property Evaluation of Aluminum F357 Powder for Cold Spray Applications",
+            "Abstract": "<jats:title>Abstract</jats:title><jats:p>Cold spray (CS) is a solid-state additive manufacturing process that can create high-density, high-performance deposits for many applications. Aluminum alloys have been the target of recent CS research due to their excellent mechanical behavior when cold-sprayed. The introduction of new Al alloys to CS is of interest as unique properties may be achieved, especially when powder is heat-treated prior to deposition. In this study, three batches of Al F357 powder\u2014a control as-atomized, heat-treated at 230\u00a0\u00b0C for 75\u00a0min and heat-treated at 385\u00a0\u00b0C for 6\u00a0h\u2014were studied. Scanning electron microscopy revealed microstructural modifications after heat treatment in the powder and sprayed deposits. X-ray diffraction highlighted the presence of eutectic Si, Mg<jats:sub>2</jats:sub>Si and SiO<jats:sub>2</jats:sub> in all specimens. Energy-dispersive spectroscopy showed the spheroidization of Si during the 385\u00a0\u00b0C heat treatment, with an increase in the fraction of Mg<jats:sub>2</jats:sub>Si during both treatments. Nanohardness and microhardness testing showed a decrease in hardness with thermal processing in both the powder and sprayed deposits. Tensile testing demonstrated ductile behavior from both heat-treated powders, but significantly higher strengths from the 230\u00a0\u00b0C treatment. These results suggest Al F357 may be used in CS when appropriate powder heat treatments are applied.</jats:p>",
+            "Date Published": "2021-1-10",
+            "DOI": "10.1007/s11666-020-01140-4",
+            "Number of References": 63,
+            "Number of Citations": 6,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-05-01T16:53:46Z"
+        }
+    },
+    {
+        "filename": "Article_45.pdf",
+        "title": "Initial Observation of Grain Orientation Dependent Nanoindentation Hardness of Al 6061 Gas-atomized Powder",
+        "link": "https://www.researchgate.net/profile/Bryer-Sousa/publication/341318988_Initial_Observation_of_Grain_Orientation_Dependent_Nanoindentation_Hardness_of_Al_6061_Gas-atomized_Powder/links/5f4ad369458515a88b8a2fa2/Initial-Observation-of-Grain-Orientation-Dependent-Nanoindentation-Hardness-of-Al-6061-Gas-atomized-Powder.pdf",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Initial Observation of Grain Orientation Dependent Nanoindentation Hardness of Al 6061 Gas-atomized Powder",
+            "Abstract": "NA",
+            "Date Published": "2020-3-31",
+            "DOI": "10.35840/2631-5076/9250",
+            "Number of References": 0,
+            "Number of Citations": 2,
+            "Journal": "International Journal of Metallurgy and Metal Physics",
+            "Date Updated (of metadata)": "2024-12-04T14:56:20Z"
+        }
+    },
+    {
+        "filename": "Article_46.pdf",
+        "title": "Thermal preprocessing of Rapidly Solidified Al 6061 Feedstock for Tunable Cold Spray Additive Manufacturing",
+        "link": "https://www.mdpi.com/2075-4701/12/7/1214",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Thermal Preprocessing of Rapidly Solidified Al 6061 Feedstock for Tunable Cold Spray Additive Manufacturing",
+            "Abstract": "<jats:p>In this work, the influence of thermal pre-processing upon the microstructure and hardness of Al 6061 feedstock powder is considered through the lens of cold spray processing and additive manufacturing. Since solid-state cold spray processes refine and retain microstructural constituents following impact-driven and high-strain rate severe plastic deformation and bonding, thermal pre-processing enables application-driven tuning of the resultant consolidation achieved via microstructural and, therefore, mechanical manipulation of the feedstock prior to use. Microstructural analysis was achieved via X-ray diffraction, scanning electron microscopy, transmission electron microscopy, electron backscatter diffraction, energy dispersive spectroscopy, and differential thermal calorimetry. On the other hand, nanoindentation testing and analysis were relied upon to quantify pre-processing effects and microstructural evolution influences on the resultant hardness as a function of time at 540 \u00b0C. In the case of the as-atomized powder, \u03b2-Mg2Si-, Al-Fe-, and Mg-Si-type phases were observed along polycrystalline grain boundaries. Furthermore, after a 60 min hold time at 540 \u00b0C, Al-Fe-Si-Cr-Mn- and Mg-Si-type intermetallic phases were also observed along grain boundaries. Furthermore, the as-atomized hardness at 250 nm of indentation depth was 1.26 GPa and continuously decreased as a function of hold time until reaching 0.88 GPa after 240 min at 540 \u00b0C. Finally, contextualization of the observations with tuning cold spray additive manufacturing part performance via powder pre-processing is presented for through-process and application-minded design.</jats:p>",
+            "Date Published": "2022-7-18",
+            "DOI": "10.3390/met12071214",
+            "Number of References": 66,
+            "Number of Citations": 0,
+            "Journal": "Metals",
+            "Date Updated (of metadata)": "2025-02-21T18:25:42Z"
+        }
+    },
+    {
+        "filename": "Article_47.pdf",
+        "title": "Microstructural evolution and interfaces in cold sprayed hybrid aluminum alloy powders of different hardness",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224010247?casa_token=wTOh7I0wpfYAAAAA:9oQ8lQgFKBELfoMKDYtKIXztZ9d1XzAh5GGkTj6qRknvM94VOm15y7tZ7_Wy0q6V3Qm4aqeq",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructural evolution and interfaces in cold sprayed hybrid aluminum alloy powders of different hardness",
+            "Abstract": "NA",
+            "Date Published": "2024-10",
+            "DOI": "10.1016/j.surfcoat.2024.131393",
+            "Number of References": 35,
+            "Number of Citations": 0,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:32:34Z"
+        }
+    },
+    {
+        "filename": "Article_48.pdf",
+        "title": "Substrate Roughness and Thickness Effects on Cold Spray Nanocrystalline Al-Mg Coatings",
+        "link": "https://link.springer.com/article/10.1361/105996306X108174",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Substrate Roughness and Thickness Effects on Cold Spray Nanocrystalline Al-Mg Coatings",
+            "Abstract": "NA",
+            "Date Published": "2006-6-1",
+            "DOI": "10.1361/105996306x108174",
+            "Number of References": 0,
+            "Number of Citations": 80,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-09T08:28:22Z"
+        }
+    },
+    {
+        "filename": "Article_49.pdf",
+        "title": "Adhesion, tribological and corrosion properties of cold-sprayed CoCrMo and Ti6Al4V coatings on 6061-T651 Al alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897217307636?casa_token=52L5x7LlpmsAAAAA:W9Hq5m9Jq4_GWgahHdj3Rj_grGrVyJKoemKSmk5X6eJElpFCOytd-oxknwPo2QhJuklSEno7",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Adhesion, tribological and corrosion properties of cold-sprayed CoCrMo and Ti6Al4V coatings on 6061-T651 Al alloy",
+            "Abstract": "NA",
+            "Date Published": "2017-10",
+            "DOI": "10.1016/j.surfcoat.2017.07.062",
+            "Number of References": 37,
+            "Number of Citations": 54,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:32:13Z"
+        }
+    },
+    {
+        "filename": "Article_50.pdf",
+        "title": "Bonding mechanism and microstructural evolution in mechanically-alloyed nanodiamond-reinforced Al6061 composite particle deposits in cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897223003869?casa_token=nGygSyfXqg8AAAAA:PkaJYno5BFicM4EzyyYCx3gm6mj2kP2ahg9j1jpr18KsxBSm-KwWvyoUBd3B3i8qgPmJROpO",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Bonding mechanism and microstructural evolution in mechanically-alloyed nanodiamond-reinforced Al6061 composite particle deposits in cold spray",
+            "Abstract": "NA",
+            "Date Published": "2023-8",
+            "DOI": "10.1016/j.surfcoat.2023.129611",
+            "Number of References": 54,
+            "Number of Citations": 2,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-09-11T00:37:15Z"
+        }
+    },
+    {
+        "filename": "Article_51.pdf",
+        "title": "Effects of Interface Bonding on the Residual Stresses in Cold-Sprayed Al-6061: A Numerical Investigation",
+        "link": "https://link.springer.com/article/10.1007/s11666-019-00827-7",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of Interface Bonding on the Residual Stresses in Cold-Sprayed Al-6061: A Numerical Investigation",
+            "Abstract": "NA",
+            "Date Published": "2019-1-23",
+            "DOI": "10.1007/s11666-019-00827-7",
+            "Number of References": 30,
+            "Number of Citations": 46,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-19T16:54:13Z"
+        }
+    },
+    {
+        "filename": "Article_52.pdf",
+        "title": "Different Cold Spray Deposition Strategies: Single- and Multi-layers to Repair Aluminium Alloy Components",
+        "link": "https://link.springer.com/article/10.1007/s11666-014-0141-y",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Different Cold Spray Deposition Strategies: Single- and Multi-layers to Repair Aluminium Alloy Components",
+            "Abstract": "NA",
+            "Date Published": "2014-8-30",
+            "DOI": "10.1007/s11666-014-0141-y",
+            "Number of References": 24,
+            "Number of Citations": 53,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-08-25T12:48:59Z"
+        }
+    },
+    {
+        "filename": "Article_53.pdf",
+        "title": "In situ stress measurements during anodic dissolution of cold spray AA6061 coating",
+        "link": "https://www.proquest.com/docview/2622964897?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": {
+            "Title": "In situ stress measurements during anodic dissolution of cold spray AA6061 coating",
+            "Abstract": "NA",
+            "Date Published": "None",
+            "DOI": "10.31274/td-20240329-419",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2024-03-30T01:06:13Z"
+        }
+    },
+    {
+        "filename": "Article_54.pdf",
+        "title": "Nanomechanical Characterization for Cold Spray: From Feedstock to Consolidated Material Properties",
+        "link": "https://www.mdpi.com/2075-4701/10/9/1195",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Nanomechanical Characterization for Cold Spray: From Feedstock to Consolidated Material Properties",
+            "Abstract": "<jats:p>Cold gas-dynamic spray is a solid-state materials consolidation technology that has experienced successful adoption within the coatings, remanufacturing and repair sectors of the advanced manufacturing community. As of late, cold spray has also emerged as a high deposition rate metal additive manufacturing method for structural and nonstructural applications. As cold spray enjoys wider recognition and adoption, the demand for versatile, high-throughput and significant methods of particulate feedstock as well consolidated materials characterization has also become more notable. In order to address the interest for such an instrument, nanoindentation is presented herein as a viable means of achieving the desired mechanical characterization abilities. In this work, conventionally static nanoindentation testing using both Berkovich and spherical indenter tips, as well as nanoindentation using the continuous stiffness measurement mode of testing, will be applied to a range of powder-based feedstocks and cold sprayed materials.</jats:p>",
+            "Date Published": "2020-9-7",
+            "DOI": "10.3390/met10091195",
+            "Number of References": 137,
+            "Number of Citations": 25,
+            "Journal": "Metals",
+            "Date Updated (of metadata)": "2025-02-21T18:25:32Z"
+        }
+    },
+    {
+        "filename": "Article_55.pdf",
+        "title": "Effect of Surface Preparation on the Microstructure, Adhesion, and Tensile Properties of Cold-Sprayed Aluminum Coatings on AA2024 Substrates",
+        "link": "https://link.springer.com/article/10.1007/s11666-014-0175-1",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of Surface Preparation on the Microstructure, Adhesion, and Tensile Properties of Cold-Sprayed Aluminum Coatings on AA2024 Substrates",
+            "Abstract": "NA",
+            "Date Published": "2014-11-6",
+            "DOI": "10.1007/s11666-014-0175-1",
+            "Number of References": 32,
+            "Number of Citations": 46,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-24T07:33:12Z"
+        }
+    },
+    {
+        "filename": "Article_56.pdf",
+        "title": "Cold Spray Coatings Recent Trends and Future Perspectives",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-67183-3_2",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_57.pdf",
+        "title": "Cold sprayed aluminum based glassy coating: Synthesis, wear and corrosion properties",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897213004039?casa_token=OsZzNWTDzI8AAAAA:V6Pl_-M2LeioGCBbyfHNZwIgasQKmR5EIEV1OCwPPMIRssc5yTGufTOOJ1moKqfFAn-PmQIL",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Cold sprayed aluminum based glassy coating: Synthesis, wear and corrosion properties",
+            "Abstract": "NA",
+            "Date Published": "2013-10",
+            "DOI": "10.1016/j.surfcoat.2013.04.049",
+            "Number of References": 42,
+            "Number of Citations": 60,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T13:11:14Z"
+        }
+    },
+    {
+        "filename": "Article_58.pdf",
+        "title": "Precipitation behavior of cold sprayed Al6061 coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2589152922001934?casa_token=ogSNoPI8aOQAAAAA:hbb-h9WzPLgt5NSoUUiwjGCi72b86yd1ShCqQqBWM3qOWg4ClyXqlrgR10PBjAeB5gw1yMt1",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Precipitation Behavior of Cold Sprayed Al6061 Coatings",
+            "Abstract": "NA",
+            "Date Published": "2022",
+            "DOI": "10.2139/ssrn.4058078",
+            "Number of References": 62,
+            "Number of Citations": 0,
+            "Journal": "SSRN Electronic Journal",
+            "Date Updated (of metadata)": "2023-03-30T05:10:18Z"
+        }
+    },
+    {
+        "filename": "Article_59.pdf",
+        "title": "In-situ creep deformation of cold sprayed aluminum splats at elevated temperatures",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897219305249?casa_token=-DiJw8FxsC8AAAAA:R5elq8h9zxfa3lPGo6n4fEhTU1u-V2cL-WNWnFnFrQvSnq7cHqB5DmXQY12R38gIb4Pr2lAy",
+        "extractedText": "",
+        "metadata": {
+            "Title": "In-situ creep deformation of cold-sprayed aluminum splats at elevated temperatures",
+            "Abstract": "NA",
+            "Date Published": "2019-8",
+            "DOI": "10.1016/j.surfcoat.2019.05.045",
+            "Number of References": 45,
+            "Number of Citations": 16,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:31:54Z"
+        }
+    },
+    {
+        "filename": "Article_60.pdf",
+        "title": "Materials Characterization of advanced cold-spray aluminum alloys",
+        "link": "https://openurl.ebsco.com/EPDB%3Agcd%3A5%3A1967093/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A118270599&crl=c&link_origin=scholar.google.com",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_61.pdf",
+        "title": "Factors governing static properties and fatigue, fatigue crack growth, and fracture mechanisms in cold spray alloys and coatings/repairs: A review",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860420307430?casa_token=6sK5pKAFofgAAAAA:yGEIJa6mJvjDJLoqAUcsgkaZIFX5jATKyBUSE7Hs-OjaswQG-5QN8zAs4-Wzij_R7s-qWA_i",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Factors governing static properties and fatigue, fatigue crack growth, and fracture mechanisms in cold spray alloys and coatings/repairs: A review",
+            "Abstract": "NA",
+            "Date Published": "2020-12",
+            "DOI": "10.1016/j.addma.2020.101371",
+            "Number of References": 126,
+            "Number of Citations": 15,
+            "Journal": "Additive Manufacturing",
+            "Date Updated (of metadata)": "2025-02-21T21:37:56Z"
+        }
+    },
+    {
+        "filename": "Article_62.pdf",
+        "title": "Modelling the anisotropic fracture behaviour of cold spray additive manufactured 6061 aluminium alloy deposits based on the phase field method",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214860423005456",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Modelling the anisotropic fracture behaviour of cold spray additive manufactured 6061 aluminium alloy deposits based on the phase field method",
+            "Abstract": "NA",
+            "Date Published": "2024-1",
+            "DOI": "10.1016/j.addma.2023.103932",
+            "Number of References": 53,
+            "Number of Citations": 0,
+            "Journal": "Additive Manufacturing",
+            "Date Updated (of metadata)": "2025-02-21T21:37:35Z"
+        }
+    },
+    {
+        "filename": "Article_63.pdf",
+        "title": "Cold Spray Deposition of Aluminium 6061 Decoradted with Al2O3 Nanoparticles",
+        "link": "https://dl.asminternational.org/itsc/proceedings-abstract/ITSC2023/84536/574/26362",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Cold Spray Deposition of Aluminium 6061 Decorated with Al2O3 Nanoparticles",
+            "Abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This research presents a novel approach for producing metal matrix composite powders using a nanoparticle decoration technique. A 1wt% stable suspension of 30nm Al2O3 particles was decorated onto primary AA6061using a redispersion method. The resulting AA6061-1wt% Al2O3 composite powder was mixed in a rotary mixer for one hour and subsequently dried at 45\u00b0C. Scanning electron microscopy of the composite powder confirmed the successful material composition. The composite powders were then deposited onto an AA6061 substrate using a low-pressure cold spray system, with the coating quality, deposition efficiency, surface roughness, and hardness of the deposited materials analyzed. After heat treatment at 430oC, the role of the nanoparticles in hindering recrystallization was studied, with Orowan strengthening shown to be the main mechanism for preventing recrystallization and grain growth. This technique provides a promising alternative method for producing metal matrix composites and offers potential for further exploration of their properties and applications.</jats:p>",
+            "Date Published": "2023-5-22",
+            "DOI": "10.31399/asm.cp.itsc2023p0574",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "International Thermal Spray Conference",
+            "Date Updated (of metadata)": "2024-09-06T20:32:44Z"
+        }
+    },
+    {
+        "filename": "Article_64.pdf",
+        "title": "Residual stress induced by cold spray coating of magnesiums AZ31B extrusion",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0261306914002477?casa_token=BklB2AKJyq0AAAAA:jLX1BJA_lJgfbIaf5Awo5XnqTA25UowCgSpjN6rGCUlZSKiqo-Y3jij5LlCeq2ZvHmoMV8L0",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Residual stress induced by cold spray coating of magnesium AZ31B extrusion",
+            "Abstract": "NA",
+            "Date Published": "2014-8",
+            "DOI": "10.1016/j.matdes.2014.03.054",
+            "Number of References": 37,
+            "Number of Citations": 85,
+            "Journal": "Materials &amp; Design",
+            "Date Updated (of metadata)": "2024-09-15T13:18:36Z"
+        }
+    },
+    {
+        "filename": "Article_65.pdf",
+        "title": "Fabrication of aluminum-alumina metal matrix composites via cold gas dynamic spraying at low pressure followed by friction stir processing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509312009124?casa_token=290QzJ6dsncAAAAA:YeQcc2BAEskY2wdjr0UW4jrUJV0IoaA6-Te_1tt0VhIXvMcBT_nq6hTexsWsNkvW2S_CTSmj",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Fabrication of aluminum\u2013alumina metal matrix composites via cold gas dynamic spraying at low pressure followed by friction stir processing",
+            "Abstract": "NA",
+            "Date Published": "2012-10",
+            "DOI": "10.1016/j.msea.2012.06.066",
+            "Number of References": 52,
+            "Number of Citations": 146,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2025-03-19T13:14:06Z"
+        }
+    },
+    {
+        "filename": "Article_66.pdf",
+        "title": "The Microstructural Annealing Response of Cold Gas Dynamically Sprayed Al 6061",
+        "link": "https://digitalcommons.unf.edu/etd/846/",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_67.pdf",
+        "title": "Dissimilar metal joining and structural repair of ZE41A-T5 cast magnesium by the cold spray (CS) process",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/10426914.2016.1257137?scroll=top&needAccess=true#abstract",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Dissimilar metal joining and structural repair of ZE41A-T5 cast magnesium by the cold spray (CS) process",
+            "Abstract": "NA",
+            "Date Published": "2017-1-4",
+            "DOI": "10.1080/10426914.2016.1257137",
+            "Number of References": 58,
+            "Number of Citations": 31,
+            "Journal": "Materials and Manufacturing Processes",
+            "Date Updated (of metadata)": "2024-08-10T13:11:13Z"
+        }
+    },
+    {
+        "filename": "Article_68.pdf",
+        "title": "Microsturcture and Mechanical Properties of the Plasma-Sprayed and Cold-Sprayed Al0.5CoCrFeNi2Ti0.5 High-Entropy Alloy Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-022-01356-6",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure and Mechanical Properties of the Plasma-Sprayed and Cold-Sprayed Al0.5CoCrFeNi2Ti0.5 High-Entropy Alloy Coatings",
+            "Abstract": "NA",
+            "Date Published": "2022-2-24",
+            "DOI": "10.1007/s11666-022-01356-6",
+            "Number of References": 43,
+            "Number of Citations": 13,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-24T08:48:10Z"
+        }
+    },
+    {
+        "filename": "Article_69.pdf",
+        "title": "Recover the tensile strength of hard aluminum alloy through laser assisted cold spray",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224005978?casa_token=wBAVFwqSQrYAAAAA:33cg6eS4Sg7B0HrC6bLYILhcm7tVnNEF2NX-DW5vypALwDvtYBTV1ToqKV6HJQlRvYxevMKM",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Recover the tensile strength of hard aluminum alloy through laser assisted cold spray",
+            "Abstract": "NA",
+            "Date Published": "2024-6",
+            "DOI": "10.1016/j.surfcoat.2024.130966",
+            "Number of References": 40,
+            "Number of Citations": 2,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:32:44Z"
+        }
+    },
+    {
+        "filename": "Article_70.pdf",
+        "title": "Evaluation of Physical and Mechanical properties of Cold Sprayed Al6061",
+        "link": "https://www.proquest.com/docview/3147731646/fulltextPDF/F0D80C3EDD04C16PQ/1?accountid=29120&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Evaluation of physical and mechanical properties of cold sprayed Al6061:",
+            "Abstract": "NA",
+            "Date Published": "None",
+            "DOI": "10.17760/d20705233",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2025-03-06T05:22:57Z"
+        }
+    },
+    {
+        "filename": "Article_71.pdf",
+        "title": "Influence of Pre-heated Al 6061 Substrate Temperature on the Residual Stresses of Multipass Al Coatings Deposited by Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-010-9596-7",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Influence of Pre-Heated Al 6061 Substrate Temperature on the Residual Stresses of Multipass Al Coatings Deposited by Cold Spray",
+            "Abstract": "NA",
+            "Date Published": "2010-11-12",
+            "DOI": "10.1007/s11666-010-9596-7",
+            "Number of References": 26,
+            "Number of Citations": 61,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-01T20:58:48Z"
+        }
+    },
+    {
+        "filename": "Article_72.pdf",
+        "title": "Impact of cold spraying on microstructure and mechanical properties of optimized friction stir welded AA2024-T3 joint",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509317308900?casa_token=aqlL-CbZI6MAAAAA:E8odehdTBRG3hz-lxnlvHWSMkl0QEgUXzL4ycajvSHy30CWUMx1ijCoGFFIKK5tAVxDerHdk",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Impact of cold spraying on microstructure and mechanical properties of optimized friction stir welded AA2024-T3 joint",
+            "Abstract": "NA",
+            "Date Published": "2017-8",
+            "DOI": "10.1016/j.msea.2017.07.003",
+            "Number of References": 49,
+            "Number of Citations": 21,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2024-08-05T17:54:25Z"
+        }
+    },
+    {
+        "filename": "Article_73.pdf",
+        "title": "Towards high-strength cold spray additive manufactured metals: Methods, mechanisms, and properties",
+        "link": "",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Towards high-strength cold spray additive manufactured metals: Methods, mechanisms, and properties",
+            "Abstract": "NA",
+            "Date Published": "2024-1",
+            "DOI": "10.1016/j.jmst.2023.05.047",
+            "Number of References": 138,
+            "Number of Citations": 44,
+            "Journal": "Journal of Materials Science &amp; Technology",
+            "Date Updated (of metadata)": "2025-03-22T12:16:56Z"
+        }
+    },
+    {
+        "filename": "Article_74.pdf",
+        "title": "Characterization Of In-Situ Peened Aluminum 6061 Nitrogen Sprayeed Cold Spray Depositions",
+        "link": "https://www.proquest.com/docview/2897326712?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_75.pdf",
+        "title": "The unique abilities of cold spray deposition",
+        "link": "https://journals.sagepub.com/doi/full/10.1080/09506608.2016.1194948?casa_token=RuCfLXMvhHIAAAAA%3ArKa9P8Yv9Xq2hGdrJ5C6FgRGWYdbkhqwJ-Bou9vVmKZFE0Bz0z9mEU_BafRPs4lKgRKrExL7SW7q",
+        "extractedText": "",
+        "metadata": {
+            "Title": "The unique abilities of cold spray deposition",
+            "Abstract": "NA",
+            "Date Published": "2016-7-5",
+            "DOI": "10.1080/09506608.2016.1194948",
+            "Number of References": 68,
+            "Number of Citations": 125,
+            "Journal": "International Materials Reviews",
+            "Date Updated (of metadata)": "2025-03-22T10:14:36Z"
+        }
+    },
+    {
+        "filename": "Article_76.pdf",
+        "title": "Microstructural and Micromechanical Characterization of Feedstock for Cold Spray Additive Manufacturing and Processing",
+        "link": "https://www.mdpi.com/2674-0516/1/3/10",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructural and Micromechanical Characterization of Feedstock for Cold Spray Additive Manufacturing and Processing",
+            "Abstract": "<jats:p>Due to the processes solid-state nature, cold gas-dynamic spray metal additive manufacturing may be considered microstructurally and micromechanically retentive, such that properties of the feedstock material are refined and partially retained, influencing component performance. As a result, cold spray processing enables unique freedoms regarding feedstock, which can be pre-processed using chemical, thermal, and mechanical treatments to produce powder properties that achieve finely controlled consolidations with application-specific behaviors. Given such features of the cold spray process, the present review article is concerned with the through-process integration of mechanically and microstructurally characterized feedstocks for optimizable cold spray metal additive manufacturing. Therefore, in this paper, we consider how nanoindentation (dynamic, static, and quasi-static) was coupled with microstructural characterization for experimental feedstock evaluation, testing, and characterization. Atomized aluminum alloys, atomized stainless steel, and copper feedstocks, among others, were considered. Accordingly, the review validates how microparticle feedstock pre-processing and characterization in cold spray metal additive manufacturing and processing lead to controllable component performance and properties.</jats:p>",
+            "Date Published": "2022-7-29",
+            "DOI": "10.3390/powders1030010",
+            "Number of References": 42,
+            "Number of Citations": 4,
+            "Journal": "Powders",
+            "Date Updated (of metadata)": "2025-02-22T00:40:28Z"
+        }
+    },
+    {
+        "filename": "Article_77.pdf",
+        "title": "High cycle fatigue behavior of bulk 6061 Al prepared by cold spray-friction stir processing composite additive manufacturing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0013794424004181?casa_token=2fBEY0E40lgAAAAA:_XyCFVroHRjiNXw0iMoCLF3GeZyPPfAADJGIBGwoyMxHpETXeG4wovryMtiRLLQ92IlwIkdr",
+        "extractedText": "",
+        "metadata": {
+            "Title": "High cycle fatigue behavior of bulk 6061Al prepared by cold spray-friction stir processing composite additive manufacturing",
+            "Abstract": "NA",
+            "Date Published": "2024-8",
+            "DOI": "10.1016/j.engfracmech.2024.110255",
+            "Number of References": 40,
+            "Number of Citations": 0,
+            "Journal": "Engineering Fracture Mechanics",
+            "Date Updated (of metadata)": "2024-07-20T03:10:33Z"
+        }
+    },
+    {
+        "filename": "Article_78.pdf",
+        "title": "Fabrication and study of electrochemical, mechanical & tribological properties of Al alloys coatings by cold spraying",
+        "link": "https://ttu-ir.tdl.org/items/52f7483b-a3ab-4da2-a478-e2d200c41327",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_79.pdf",
+        "title": "Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112324004663?casa_token=hEkgj0c5-z4AAAAA:BoQlNqz7DU9bv644S_I-k164Wd-abMLOV0y5ZBBJncsS5wuRZMaLQUQlS-cmof5cSVA-3533",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys",
+            "Abstract": "NA",
+            "Date Published": "2025-1",
+            "DOI": "10.1016/j.ijfatigue.2024.108607",
+            "Number of References": 46,
+            "Number of Citations": 1,
+            "Journal": "International Journal of Fatigue",
+            "Date Updated (of metadata)": "2025-03-24T09:16:47Z"
+        }
+    },
+    {
+        "filename": "Article_80.pdf",
+        "title": "Research on Micro-nanoscale SiCp/6061Al Composite Coating Using High-Pressure Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01880-7",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Research on Micro-nanoscale SiCp/6061Al Composite Coating Using High-Pressure Cold Spray",
+            "Abstract": "NA",
+            "Date Published": "2024-11-24",
+            "DOI": "10.1007/s11666-024-01880-7",
+            "Number of References": 32,
+            "Number of Citations": 0,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-12-19T05:26:22Z"
+        }
+    },
+    {
+        "filename": "Article_81.pdf",
+        "title": "Effect of Gas Propellant Temperature on the Microstructure, Friction, and Wear Resistance of High-Pressure Cold Sprayed Zr702 Coatings on Al6061 Alloy",
+        "link": "https://www.mdpi.com/2079-6412/12/2/263",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of Gas Propellant Temperature on the Microstructure, Friction, and Wear Resistance of High-Pressure Cold Sprayed Zr702 Coatings on Al6061 Alloy",
+            "Abstract": "<jats:p>For the first time, Zr702 coatings were deposited onto an Al6061 alloy using a high-pressure cold spray (HPCS) system. In this work, five different N2 process gas temperatures between 700 and 1100 \u00b0C were employed to understand the formation of cold sprayed (CS) Zr coatings and their feasibility for enhanced wear resistance. Results indicated that the N2 processing gas temperature of about 1100 \u00b0C enabled a higher degree of particle thermal softening, which created a dense, robust, oxide- and defect-free Zr coating. Across all CS Zr coatings, there was a refinement of crystallinity, which was attributed to the severe localized plastic deformation of the powder particles. The enhanced thermal boost up zone at the inter-particle boundaries and decreased recoverable elastic strain were accountable for the inter-particle bonding of the coatings at higher process gas temperatures. The flattening ratio (\u03b5) increased as a function of temperature, implying that there was a greater degree of plastic deformation at higher N2 gas temperatures. The microhardness readings and wear volume of the coatings were also improved as a function of process gas temperature. In this work, the wear of the Al6061 alloy substrate was mainly plowing-based, whereas the Zr CS substrates demonstrated a gradual change of abrasive to adhesive wear. From our findings, the preparation of CS Zr coatings was a feasible method of enhancing the wear resistance of Al-based alloys.</jats:p>",
+            "Date Published": "2022-2-16",
+            "DOI": "10.3390/coatings12020263",
+            "Number of References": 115,
+            "Number of Citations": 14,
+            "Journal": "Coatings",
+            "Date Updated (of metadata)": "2025-02-21T17:55:34Z"
+        }
+    },
+    {
+        "filename": "Article_82.pdf",
+        "title": "Rapidly Solidified Gas-Atomized Aluminum Alloys Compared with Conventionally Cast Counterparts: Implications for Cold Spray Materials Consolidation",
+        "link": "https://www.mdpi.com/2079-6412/10/11/1035",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Rapidly Solidified Gas-Atomized Aluminum Alloys Compared with Conventionally Cast Counterparts: Implications for Cold Spray Materials Consolidation",
+            "Abstract": "<jats:p>In this work, three commercially available aluminum alloy systems (Al 2024, Al 6061, and Al 7075) were considered to explicitly capture the differences in material properties associated with a rapidly solidified, gas-atomized particulate feedstock as compared with their conventionally cast counterparts. Differences between the microstructural, thermodynamic, mechanical, and kinetic behaviors associated with gas-atomized and conventionally bulk counterparts have been tacitly assumed by the cold spray community. However, many researchers continue to utilize legacy properties from bulk materials when simulating particle impact phenomena in silico, for example. By way of recognizing the fact that bulk material properties may not serve as substitutes for gas-atomized powder property input parameters for cold spray process simulation and computation in silico, enhanced cold spray research and development will be more easily achieved. Therefore, understanding the feedstock powder characteristics for use in cold spray can lead to fine-tuning the properties of cold spray consolidations. Optical microscopy, scanning electron microscopy, nanoindentation, microhardness, differential scanning calorimetry, elemental analysis, and cooling rate calculations were utilized. This work confirms preliminary findings that powder alloys may not be treated the same way as their bulk counterparts in so far as the enactment of heat treatment processing parameters are concerned. Specifically, vast discrepancies were found in the grain size, secondary phases, and mechanical behavior between the powder and cast versions of each alloy.</jats:p>",
+            "Date Published": "2020-10-27",
+            "DOI": "10.3390/coatings10111035",
+            "Number of References": 58,
+            "Number of Citations": 13,
+            "Journal": "Coatings",
+            "Date Updated (of metadata)": "2025-02-21T17:55:05Z"
+        }
+    },
+    {
+        "filename": "Article_83.pdf",
+        "title": "Mechanical Performance of Cold-Sprayed A357 Aluminum Alloy Coatings for Repair and Additive Manufacturing",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0643-5",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Mechanical Performance of Cold-Sprayed A357 Aluminum Alloy Coatings for Repair and Additive Manufacturing",
+            "Abstract": "NA",
+            "Date Published": "2017-9-25",
+            "DOI": "10.1007/s11666-017-0643-5",
+            "Number of References": 36,
+            "Number of Citations": 33,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-11-19T17:22:30Z"
+        }
+    },
+    {
+        "filename": "Article_84.pdf",
+        "title": "Characterization of Al6061 Splats Cold Spray-deposited on Al6061-T6 Substrate",
+        "link": "https://www.proquest.com/docview/2088057257?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Characterization of AL6061 splats cold spray-deposited on Al6061-T6 substrate",
+            "Abstract": "NA",
+            "Date Published": "None",
+            "DOI": "10.17760/d20291512",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2022-04-03T22:49:09Z"
+        }
+    },
+    {
+        "filename": "Article_85.pdf",
+        "title": "Role of in-situ splat sintering on elastic and damping behavior of cold sprayed aluminum coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S135964622100405X?casa_token=r5DylrwUqK0AAAAA:3MmSk-LYRU-zMa6JYsKIqVaods4cw4K4YsfwbnHbPWJFMtjYu9W9X1_pZVyBGHhW7_A58SDM",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Role of In-Situ Dynamic Splat Sintering on Elastic and Damping Behavior of Cold Sprayed Aluminum Coatings",
+            "Abstract": "NA",
+            "Date Published": "2021",
+            "DOI": "10.2139/ssrn.3866410",
+            "Number of References": 25,
+            "Number of Citations": 0,
+            "Journal": "SSRN Electronic Journal",
+            "Date Updated (of metadata)": "2022-04-06T02:34:20Z"
+        }
+    },
+    {
+        "filename": "Article_86.pdf",
+        "title": "Enhavnced Electrochemical and Tribological Properties of AZ91D Magnesium Alloy via Cold Spraying of Aluminum Alloy",
+        "link": "https://link.springer.com/article/10.1007/s11666-019-00915-8",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Enhanced Electrochemical and Tribological Properties of AZ91D Magnesium Alloy via Cold Spraying of Aluminum Alloy",
+            "Abstract": "NA",
+            "Date Published": "2019-9-20",
+            "DOI": "10.1007/s11666-019-00915-8",
+            "Number of References": 46,
+            "Number of Citations": 16,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-08-01T00:53:23Z"
+        }
+    },
+    {
+        "filename": "Article_87.pdf",
+        "title": "Microstructural Development in Cold Sprayed Al 6061: Feedstock Powders Single- Particle Impacts and Consolidated Coatings",
+        "link": "https://www.proquest.com/docview/3073205541?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_88.pdf",
+        "title": "Microstructure, Mechanical Properties and Corrosion Behavior of the Aluminum Alloy Components Repaired by Cold Spray with Al-Based Powders",
+        "link": "https://www.mdpi.com/2075-4701/11/10/1633",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure, Mechanical Properties and Corrosion Behavior of the Aluminum Alloy Components Repaired by Cold Spray with Al-Based Powders",
+            "Abstract": "<jats:p>Aluminum alloy components of high-speed trains have a great risk of being corroded by various corrosive medium due to extremely complex atmospheric environments. This will bring out huge losses and reduce the safety and stability of trains. In order to solve the problem, cold spray process was used for repairing the damage of the aluminum alloy components with Al-based powders. Microstructure, mechanical properties and corrosion behavior were studied. The results indicated that there were very few pores and cracks in the repaired areas after repairing. The average microhardness of the repaired areas was 54.5 HV \u00b1 3.4 HV, and the tensile strength of the repaired samples was 160.4 MPa. After neutral salt spray tests for 1000 h, the rate of mass loss of the samples repaired by cold spray was lower than that of 6A01 aluminum alloy. The electrochemical test results showed that the repaired areas had a higher open circuit potential than 6A01 aluminum alloy. As a result, the repaired areas such as the anode protected its nearby substrate. The samples repaired by cold spray exhibited better corrosion than 6A01 aluminum alloy. Cold spray process and Al-based powders are applicable for repairing the aluminum alloy components of high-speed trains.</jats:p>",
+            "Date Published": "2021-10-14",
+            "DOI": "10.3390/met11101633",
+            "Number of References": 31,
+            "Number of Citations": 4,
+            "Journal": "Metals",
+            "Date Updated (of metadata)": "2025-02-21T18:25:51Z"
+        }
+    },
+    {
+        "filename": "Article_89.pdf",
+        "title": "Joining Al 6061 to ZE41A Mg Alloy by Friction Stir Welding Using a Cold Spray Transition Joint",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-52383-5_22",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Joining Al 6061 to ZE41A Mg Alloy by Friction Stir Welding Using a Cold Spray Transition Joint",
+            "Abstract": "NA",
+            "Date Published": "2017",
+            "DOI": "10.1007/978-3-319-52383-5_22",
+            "Number of References": 26,
+            "Number of Citations": 0,
+            "Journal": "The Minerals, Metals &amp; Materials Series",
+            "Date Updated (of metadata)": "2024-09-09T11:09:13Z"
+        }
+    },
+    {
+        "filename": "Article_90.pdf",
+        "title": "Influence of feedstock powder and cold spray processing parameters on microstructure and mechanical properties of Ti-6Al-4V cold spray depositions",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897217312318?casa_token=KWOJSUNq95wAAAAA:VwrQLgo-IP58NuzvD6q3i3dJAITRv3Cj-4wAaN1_cJnYxZAvG3zS0P59iJPbGtCYbcoZL0Sc",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Influence of feedstock powder and cold spray processing parameters on microstructure and mechanical properties of Ti-6Al-4V cold spray depositions",
+            "Abstract": "NA",
+            "Date Published": "2018-2",
+            "DOI": "10.1016/j.surfcoat.2017.12.014",
+            "Number of References": 69,
+            "Number of Citations": 82,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:31:51Z"
+        }
+    },
+    {
+        "filename": "Article_91.pdf",
+        "title": "An investigation into the mechanism for enhanced mechanical properties in friction stir welded AA2024-T3 joints coated with cold spraying",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433218300527?casa_token=gsmRpOeOMcEAAAAA:s4_9uHcx7EvRaA5cD3J9L-rC3Den4qrk8XzyEyEM5Ifr3o6HXuIlRRPnvvGyyfM-M6RCyjS1",
+        "extractedText": "",
+        "metadata": {
+            "Title": "An investigation into the mechanism for enhanced mechanical properties in friction stir welded AA2024-T3 joints coated with cold spraying",
+            "Abstract": "NA",
+            "Date Published": "2018-5",
+            "DOI": "10.1016/j.apsusc.2018.01.049",
+            "Number of References": 47,
+            "Number of Citations": 21,
+            "Journal": "Applied Surface Science",
+            "Date Updated (of metadata)": "2025-03-19T10:11:23Z"
+        }
+    },
+    {
+        "filename": "Article_92.pdf",
+        "title": "Mechanical and corrosion properties in 3.5% NaCl solution of cold sprayed Al-based coatings",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897220300414?casa_token=qA8xpUiE6WkAAAAA:O0conKbENDkC1C0_0N-VO99b1emZsraZI3PK5buyc_mt0Hrn92_fAGVYbtLnFn9yRg3nUE79",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Mechanical and corrosion properties in 3.5% NaCl solution of cold sprayed Al-based coatings",
+            "Abstract": "NA",
+            "Date Published": "2020-3",
+            "DOI": "10.1016/j.surfcoat.2020.125372",
+            "Number of References": 86,
+            "Number of Citations": 45,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T13:59:59Z"
+        }
+    },
+    {
+        "filename": "Article_93.pdf",
+        "title": "Analysis of the residual stress and bonding mechanism in the cold spray technique using experimental and numerical methods",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897214003983?casa_token=Ql8k2HTuF2gAAAAA:gFVqGWwLtHgHR789UmOlTNem1-_vliPWk1h4fBfS7_iuyc-vvtgq44Qfmrq6E6QRlexXLvgW",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Analysis of the residual stress and bonding mechanism in the cold spray technique using experimental and numerical methods",
+            "Abstract": "NA",
+            "Date Published": "2014-8",
+            "DOI": "10.1016/j.surfcoat.2014.04.059",
+            "Number of References": 48,
+            "Number of Citations": 75,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-09-20T16:07:43Z"
+        }
+    },
+    {
+        "filename": "Article_94.pdf",
+        "title": "A critical analysis of collision dynamics pertaining to aluminum micro particles on aluminium 6061 alloy substrate in cold spray additive manufacturing process",
+        "link": "https://www.researchgate.net/publication/367542804_A_critical_analysis_of_collision_dynamics_pertaining_to_aluminum_micro_particles_on_aluminium_6061_alloy_substrate_in_cold_spray_additive_manufacturing_process",
+        "extractedText": "",
+        "metadata": {
+            "Title": "A critical analysis of collision dynamics pertaining to aluminum micro particles on aluminium 6061 alloy substrate in cold spray additive manufacturing process",
+            "Abstract": "<jats:p>Cold spray (CS) is a form of additive manufacturing process, involving the accumulation of ductile metal micro particles to create new surface coatings or free-standing structures. Metallic particles are accelerated through a gas stream, experience a high-strain-rate microscopic ballistic collisions against a target substrate. It yields tremendous amounts of kinetic energy from extreme plastic deformation of the particles and substrate. In this paper, the dynamic behavior of aluminium micro-particles during the collision is analysed using micro-ballistic method. Aluminum 6061 alloy particles, approximately 20 \u03bcm in diameter, impact and rebound off aluminum 6061 alloy substrate target surface over a broad range of surrounding temperatures and impact velocities. This, in turn, can provide insight into the underlying material science behind the cold spray process.</jats:p>",
+            "Date Published": "2023-1-30",
+            "DOI": "10.30574/ijsra.2023.8.1.0354",
+            "Number of References": 0,
+            "Number of Citations": 1,
+            "Journal": "International Journal of Science and Research Archive",
+            "Date Updated (of metadata)": "2024-09-12T18:33:10Z"
+        }
+    },
+    {
+        "filename": "Article_95.pdf",
+        "title": "Effects of different heat treatments on anisotropy of cold sprayed 7075 Al deposits",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1044580323001869?casa_token=ZiWS-VRx-40AAAAA:plzvIuv-OYmBVtivAo4Q302mFsafkY_yW09QNWSsTgXa1lTG931PC8FQbdeFRfODhABbT4cV",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of different heat treatments on anisotropy of cold sprayed 7075 Al deposits",
+            "Abstract": "NA",
+            "Date Published": "2023-5",
+            "DOI": "10.1016/j.matchar.2023.112828",
+            "Number of References": 44,
+            "Number of Citations": 10,
+            "Journal": "Materials Characterization",
+            "Date Updated (of metadata)": "2025-03-19T10:43:09Z"
+        }
+    },
+    {
+        "filename": "Article_96.pdf",
+        "title": "Application of High-Pressure Cold Spray for an Internal Bore Repair of a Navy Valve Actuator",
+        "link": "https://link.springer.com/article/10.1007/s11666-015-0366-4",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Application of High-Pressure Cold Spray for an Internal Bore Repair of a Navy Valve Actuator",
+            "Abstract": "NA",
+            "Date Published": "2015-12-15",
+            "DOI": "10.1007/s11666-015-0366-4",
+            "Number of References": 14,
+            "Number of Citations": 72,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-15T13:20:28Z"
+        }
+    },
+    {
+        "filename": "Article_97.pdf",
+        "title": "Effect of friction stir spot processing on microstructure and mechanical properties of cold-sprayed Al coating on Ti substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897221005260?casa_token=sKgpbHItxXUAAAAA:QCcEux-zEL2p4hndetE-nbSrACJYnTCX38dYd9NTdLC0xyZCvZ0wTpPgSxSsVyjxGr5Z6LA9",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of friction stir spot processing on microstructure and mechanical properties of cold-sprayed Al coating on Ti substrate",
+            "Abstract": "NA",
+            "Date Published": "2021-9",
+            "DOI": "10.1016/j.surfcoat.2021.127352",
+            "Number of References": 60,
+            "Number of Citations": 8,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-02-21T04:32:19Z"
+        }
+    },
+    {
+        "filename": "Article_98.pdf",
+        "title": "Microstructure, mechanical properties, and corrosion behavior of 6061Al alloy prepared by cold spray-friction stire processing composite additive manufacturing",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1003632623663319",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure, mechanical properties, and corrosion behavior of 6061Al alloy prepared by cold spray-friction stir processing composite additive manufacturing",
+            "Abstract": "NA",
+            "Date Published": "2023-11",
+            "DOI": "10.1016/s1003-6326(23)66331-9",
+            "Number of References": 54,
+            "Number of Citations": 6,
+            "Journal": "Transactions of Nonferrous Metals Society of China",
+            "Date Updated (of metadata)": "2025-03-19T16:27:43Z"
+        }
+    },
+    {
+        "filename": "Article_99.pdf",
+        "title": "Corrosion Characteristics And Mechanical Properties Of Aluminum Coatings Applied By The Cold Spray Process",
+        "link": "https://digitalcommons.bucknell.edu/masters_theses/33/",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_100.pdf",
+        "title": "Preparation and mechanical properties of cold sprayed nanocrystalline aluminum",
+        "link": "https://www.osti.gov/servlets/purl/1145747",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_101.pdf",
+        "title": "Experimental Studies into the Analysis Required for the Durability Assessment of 7075 and 6061 Cold Spray Repairs to Military Aircraft",
+        "link": "https://www.mdpi.com/2226-4310/7/9/119",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Experimental Studies into the Analysis Required for the Durability Assessment of 7075 and 6061 Cold Spray Repairs to Military Aircraft",
+            "Abstract": "<jats:p>This paper presents an experimental study into the analysis required for the durability assessment of 7075 and 6061 cold spray repairs to military aircraft. To this end, it is first shown that provided the bulk stress in a 7075 cold spray coating can be kept beneath approximately 150 MPa, then the coating should not crack. A range of examples are presented in which the interface between the coating and the substrate only fails subsequent to crack growth in the substrate. We also show that failure of cold spray repaired/coated panels can also be due to the nucleation and growth of cracks in the substructure immediately adjacent to the coated/repaired region. As such, when performing a durability analysis for a cold spray repair, the growth of such small naturally occurring cracks, both at the interface and immediately adjacent to the ends of the coating, need to be accounted for.</jats:p>",
+            "Date Published": "2020-8-19",
+            "DOI": "10.3390/aerospace7090119",
+            "Number of References": 65,
+            "Number of Citations": 5,
+            "Journal": "Aerospace",
+            "Date Updated (of metadata)": "2025-03-19T13:52:32Z"
+        }
+    },
+    {
+        "filename": "Article_102.pdf",
+        "title": "An effective approach to improve microstructure and tribological properties of cold sprayed Al alloys",
+        "link": "https://www.degruyter.com/document/doi/10.1515/rams-2023-0314/html",
+        "extractedText": "",
+        "metadata": {
+            "Title": "An effective approach to improve microstructure and tribological properties of cold sprayed Al alloys",
+            "Abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Cold spray is considered as an emerging technique for preparing wear-resistant metal matrix composite coatings on the surface of various kinds of metallic materials. In this work, a viable strategy of \u201ccold spraying + hot rolling post-treatment\u201d was successfully applied to prepare wear-resistant B<jats:sub>4</jats:sub>C/6061 Al composite coating on commercially available 6061 Al plates. The results revealed that hot rolling post-treatment results in uniform distribution of B<jats:sub>4</jats:sub>C particles in the alloy matrix, good inter-splat bonding, and sufficient plasticity in the splats through effective healing of the defects and splat boundaries in the as-sprayed deposit. As a result, the coating/substrate bonding strength in the hot rolled sample increased two-fold when compared with that of the as-sprayed sample. Moreover, hot rolling process resulted in much improved tribological properties of the coating with the wear rate \u223c40% of that of the substrate. The obtained results indicated that the idea of combining cold spraying and hot rolling treatment is quite effective for improving the tribological properties of Al alloy plates. Further, this approach seems equally good for repairing/remanufacturing of unserviceable 6061 Al alloy components.</jats:p>",
+            "Date Published": "2023-1-1",
+            "DOI": "10.1515/rams-2023-0314",
+            "Number of References": 38,
+            "Number of Citations": 1,
+            "Journal": "REVIEWS ON ADVANCED MATERIALS SCIENCE",
+            "Date Updated (of metadata)": "2024-08-01T16:27:03Z"
+        }
+    },
+    {
+        "filename": "Article_103.pdf",
+        "title": "Microstructure Characteristics and Mechanical properties of Al-12Si Coatings on AZ31 Magnesium Alloy produced by Cold Spray Technique",
+        "link": "https://link.springer.com/article/10.1007/s11666-016-0409-5",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructure Characteristics and Mechanical Properties of Al-12Si Coatings on AZ31 Magnesium Alloy Produced by Cold Spray Technique",
+            "Abstract": "NA",
+            "Date Published": "2016-4-15",
+            "DOI": "10.1007/s11666-016-0409-5",
+            "Number of References": 36,
+            "Number of Citations": 21,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-03-19T13:41:12Z"
+        }
+    },
+    {
+        "filename": "Article_104.pdf",
+        "title": "Electrochemical corrosion performance of friction stir processed cold spray metal matrix composite coatings on AZ31B magnesium alloy under sodium chloride environment",
+        "link": "https://iopscience.iop.org/article/10.1088/2051-672X/ac8301/meta?casa_token=E3LnuzthQKAAAAAA:iCgYtPx9KivSkqGVnLhRwPf8OmtEWEkGzu69AboePWGFbtAqIzaatyFAiHRxsA1AwDk8ueAqERUHwAAW92Oi2Tbhcps",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Electrochemical corrosion performance of friction stir processed cold spray metal matrix composite coatings on AZ31B magnesium alloy under sodium chloride environment",
+            "Abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The main objective of this investigation is to study the effect of friction stir processing (FSP) on the surface integrity and corrosion resistance of low-pressure cold sprayed (LPCS) aluminium alloy/aluminium oxide metal matrix composite (Al-Al<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub> MMC) coating deposited on AZ31B magnesium alloy for aerospace and automobile applications. The Al-Al<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub> MMC coating was developed on AZ31B magnesium alloy using a LPCS system. FSP was performed on the MMC coating using a stirring tool made of H13 tool steel. The structural integrity of the coating was analyzed using scanning electron microscopy (SEM). The phase analysis of coating was studied using x-ray diffraction (XRD). The potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) tests were performed to study the corrosion resistance of cold sprayed and FSPed samples. Results showed that FSP improved the structural integrity of MMC coating. Both the EIS and potentiodynamic polarisation test results reveal that FSP treated samples provide superior corrosion resistance than cold sprayed samples. This is due to the increase in interfacial bonding between matrix and reinforcement phase. The degree of separation and dispersal of alumina in the Al alloy matrix is increased through the shear force generated by the FSP tool on the coating surface.</jats:p>",
+            "Date Published": "2022-7-29",
+            "DOI": "10.1088/2051-672x/ac8301",
+            "Number of References": 34,
+            "Number of Citations": 16,
+            "Journal": "Surface Topography: Metrology and Properties",
+            "Date Updated (of metadata)": "2025-02-21T21:09:03Z"
+        }
+    },
+    {
+        "filename": "Article_105.pdf",
+        "title": "The Potential of the Cold Spray Process for the Repair and Manufacture of Aluminium Alloy Parts",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-48761-8_40",
+        "extractedText": "",
+        "metadata": {
+            "Title": "The Potential of the Cold Spray Process for the Repair and Manufacture of Aluminium Alloy Parts",
+            "Abstract": "NA",
+            "Date Published": "2012",
+            "DOI": "10.1007/978-3-319-48761-8_40",
+            "Number of References": 16,
+            "Number of Citations": 0,
+            "Journal": "ICAA13 Pittsburgh",
+            "Date Updated (of metadata)": "2024-09-09T11:32:42Z"
+        }
+    },
+    {
+        "filename": "Article_106.pdf",
+        "title": "A viable approach to repair neutron shielding B4C/6061 Al composite sheets through cold spray and hot rolling co-treatment",
+        "link": "https://www.sciencedirect.com/science/article/pii/S100503022100788X?casa_token=eYdeL2IBwyAAAAAA:u6aHh9feCZB4O_DZXYH2Wxory1fl0xYHPieiege-32O_L2ONanJ59o4H-DqvCRG1dXqpFrm0",
+        "extractedText": "",
+        "metadata": {
+            "Title": "A viable approach to repair neutron shielding B4C/6061 Al composite sheets through cold spray and hot rolling co-treatment",
+            "Abstract": "NA",
+            "Date Published": "2022-4",
+            "DOI": "10.1016/j.jmst.2021.06.085",
+            "Number of References": 43,
+            "Number of Citations": 20,
+            "Journal": "Journal of Materials Science &amp; Technology",
+            "Date Updated (of metadata)": "2025-03-22T11:41:15Z"
+        }
+    },
+    {
+        "filename": "Article_107.pdf",
+        "title": "Characterization of cold-sprayed material consolidations",
+        "link": "https://books.google.com/books?hl=en&lr=&id=oCWjEAAAQBAJ&oi=fnd&pg=PA205&dq=%22cold+spray%22+(6061+aluminum+OR+6061+aluminium+OR+%22Al+6061%22+OR+%22AA+6061%22)+(yield+strength+OR+YS+OR+modulus+OR+%22Young%5C%27s+modulus%22+OR+%22elastic+modulus%22+OR+hardness+OR+microhardness+OR+%22Vickers+hardness%22+OR+ductility+OR+elongation+OR+%22percent+elongation%22+OR+%22%25+elongation%22)&ots=rBr_PX0A8M&sig=epRzh6hq41iF8J90QsdPgScdr3g#v=onepage&q&f=false",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Characterization of cold-sprayed material consolidations",
+            "Abstract": "NA",
+            "Date Published": "2023",
+            "DOI": "10.1016/b978-0-08-103015-8.00002-5",
+            "Number of References": 188,
+            "Number of Citations": 0,
+            "Journal": "Advances in Cold Spray",
+            "Date Updated (of metadata)": "2024-05-14T13:22:21Z"
+        }
+    },
+    {
+        "filename": "Article_108.pdf",
+        "title": "Crack Repair in Aerospace Aluminum Alloy panels by Cold Spray",
+        "link": "https://link.springer.com/article/10.1007/s11666-017-0534-9",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Crack Repair in Aerospace Aluminum Alloy Panels by Cold Spray",
+            "Abstract": "NA",
+            "Date Published": "2017-2-7",
+            "DOI": "10.1007/s11666-017-0534-9",
+            "Number of References": 29,
+            "Number of Citations": 55,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-09-20T16:18:19Z"
+        }
+    },
+    {
+        "filename": "Article_109.pdf",
+        "title": "Properties of SiC-reinforced aluminum alloy coatings produced by the cold gas dynamic spraying process",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897208001321?casa_token=uyT8av0ec6sAAAAA:Oyt5or8s6oVezH13tGTcD6cihApD7Yj1kctgVa214bL-y4mYxiQ3FrT927Wom-FynxZqxNwU",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Properties of SiC-reinforced aluminum alloy coatings produced by the cold gas dynamic spraying process",
+            "Abstract": "NA",
+            "Date Published": "2008-5",
+            "DOI": "10.1016/j.surfcoat.2008.02.017",
+            "Number of References": 41,
+            "Number of Citations": 127,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-09-10T23:44:39Z"
+        }
+    },
+    {
+        "filename": "Article_110.pdf",
+        "title": "Characterization of Microstructural Evolution and Bond Formation in Cold Sprayed Aluminum Alloy Splats and Substrates",
+        "link": "https://www.proquest.com/docview/2438990364?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Characterization of microstructural evolution and bond formation in cold sprayed aluminum alloy splats and substrates",
+            "Abstract": "NA",
+            "Date Published": "None",
+            "DOI": "10.17760/d20382854",
+            "Number of References": 0,
+            "Number of Citations": 0,
+            "Journal": "NA",
+            "Date Updated (of metadata)": "2022-04-05T21:05:53Z"
+        }
+    },
+    {
+        "filename": "Article_111.pdf",
+        "title": "Experimental Substantiation of Computational Thermodynamic, Kinetic, and Solidification Modeling for Cold Sprayable, Gas-atomized, Al 6061 Powder",
+        "link": "https://www.researchgate.net/profile/Bryer-Sousa/publication/347441536_Experimental_Substantiation_of_Computational_Thermodynamic_Kinetic_and_Solidification_Modeling_for_Cold_Sprayable_Gas-atomized_Al_6061_Powder/links/5fe9d0d9a6fdccdcb80d337c/Experimental-Substantiation-of-Computational-Thermodynamic-Kinetic-and-Solidification-Modeling-for-Cold-Sprayable-Gas-atomized-Al-6061-Powder.pdf",
+        "extractedText": "",
+        "metadata": "No metadata found"
+    },
+    {
+        "filename": "Article_112.pdf",
+        "title": "Effects of spraying parameters and heat treatment temperature on microstructure and properties of single-pass and single-layer cold-sprayed Cu coatings on Al alloy substrate",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897224008156?casa_token=MPM1rN-PHNgAAAAA:idsothXaaRzLlmb6u5YO2hsk9IvZ8KnXFE3HiqAjO2MOfYGdJmLTuKvUxo3hU5mMY2b51VY4",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of spraying parameters and heat treatment temperature on microstructure and properties of single-pass and single-layer cold-sprayed Cu coatings on Al alloy substrate",
+            "Abstract": "NA",
+            "Date Published": "2024-8",
+            "DOI": "10.1016/j.surfcoat.2024.131184",
+            "Number of References": 51,
+            "Number of Citations": 33,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-22T12:33:55Z"
+        }
+    },
+    {
+        "filename": "Article_113.pdf",
+        "title": "Towards Improved Plasticity in Cold-Sprayed Amorphous/Nanocrystalline Aluminum Alloy Deposits: The Role of Heat Treatment on the Microstructure and Mechanical Anisotropy",
+        "link": "https://link.springer.com/article/10.1007/s11666-025-01968-8",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Towards Improved Plasticity in Cold-Sprayed Amorphous/Nanocrystalline Aluminum Alloy Deposits: The Role of Heat Treatment on the Microstructure and Mechanical Anisotropy",
+            "Abstract": "NA",
+            "Date Published": "2025-2-26",
+            "DOI": "10.1007/s11666-025-01968-8",
+            "Number of References": 41,
+            "Number of Citations": 0,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-02-27T05:31:31Z"
+        }
+    },
+    {
+        "filename": "Article_114.pdf",
+        "title": "Effects of different heat treatment methods on the mechanical properties and structures of Al-6061",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/00084433.2025.2479105",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effects of different heat treatment methods on the mechanical properties and structures of Al-6061",
+            "Abstract": "NA",
+            "Date Published": "2025-3-18",
+            "DOI": "10.1080/00084433.2025.2479105",
+            "Number of References": 33,
+            "Number of Citations": 0,
+            "Journal": "Canadian Metallurgical Quarterly",
+            "Date Updated (of metadata)": "2025-03-19T04:31:24Z"
+        }
+    },
+    {
+        "filename": "Article_115.pdf",
+        "title": "Crystal Plasticity Modeling to Capture Microstructural Variations in Cold-Sprayed Materials",
+        "link": "https://www.mdpi.com/2073-4352/14/4/329",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Crystal Plasticity Modeling to Capture Microstructural Variations in Cold-Sprayed Materials",
+            "Abstract": "<jats:p>The high-velocity impact of powder particles in cold-spray additively manufactured (CSAM) parts creates intersplat boundaries with regions of high dislocation densities and sub-grain structures. Upon microstructure and mechanical characterization, CSAM Aluminum 6061 showed non-uniformity with spatial variation in the microstructure and mechanical properties, affecting the overall response of the additively manufactured parts. Post-processing treatments are conducted in as-printed samples to improve particle bonding, relieve residual stresses, and improve mechanical properties. In this work, we attempt to implement the effects of grain size and distribution of smaller grains along the intersplat boundaries using the grain size distribution function and powder size information to accurately predict the deformation response of cold-sprayed material using a mean-field viscoplastic self-consistent (VPSC) model. The incorporation of an intersplat boundary term in the VPSC model resulted in a stress\u2013strain response closely matching the experimental findings, preventing the superficially high stresses observed due to Hall\u2013Petch effects from ultra-fine-grain structures. Likewise, the results from the grain analysis showed the combined effects of grain size, orientation, and intersplat mechanisms that captured the stresses experienced and strain accommodated by individual grains.</jats:p>",
+            "Date Published": "2024-3-30",
+            "DOI": "10.3390/cryst14040329",
+            "Number of References": 57,
+            "Number of Citations": 1,
+            "Journal": "Crystals",
+            "Date Updated (of metadata)": "2025-02-21T18:13:05Z"
+        }
+    },
+    {
+        "filename": "Article_116.pdf",
+        "title": "Influence of Friction Stir Spot Processing on Grain Structure Evolution and Nanomechanical Behavior of Cold-Sprayed Al Coating on Ti Substrate",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01822-3",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Influence of Friction Stir Spot Processing on Grain Structure Evolution and Nanomechanical Behavior of Cold-Sprayed Al Coating on Ti Substrate",
+            "Abstract": "NA",
+            "Date Published": "2024-8",
+            "DOI": "10.1007/s11666-024-01822-3",
+            "Number of References": 44,
+            "Number of Citations": 0,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2024-10-02T04:19:49Z"
+        }
+    },
+    {
+        "filename": "Article_117.pdf",
+        "title": "A Comparative Study on Wear Resistance of Cold-Sprayed Aluminum/Quasicrystal Composite Coatings",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01758-8",
+        "extractedText": "",
+        "metadata": {
+            "Title": "A Comparative Study on Wear Resistance of Cold-Sprayed Aluminum/Quasicrystal Composite Coatings",
+            "Abstract": "<jats:title>Abstract</jats:title><jats:p>Cold spray (CS) technology has proven a great potential in the production of composite coatings, enabling the production of materials with superior qualities such as enhanced tribological behavior. This study aims to investigate the tribological properties of CS Al-based composite coatings reinforced by quasicrystalline (QC) particles. Two different Al alloys were used as the matrix, AA\u00a06061 and AA\u00a02024, and mixed with Al-based QC particles (Al-Cr-Fe-Cu) at different Al/QC ratios. A room-temperature ball-on-disc test was then used to evaluate the wear resistance of the composite CS coatings in air and compared to those of the non-reinforced Al alloy CS coatings as well as a cast counterpart (AA\u00a06061-T6). We have demonstrated that CS could be employed to produce thick and dense Al-QC composites that can retain up to about 50\u00a0wt.% QC reinforcement in the structure. The incorporation of the QC particles increased the wear resistance by a factor of 7.</jats:p>",
+            "Date Published": "2024-3",
+            "DOI": "10.1007/s11666-024-01758-8",
+            "Number of References": 57,
+            "Number of Citations": 1,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-02-21T11:45:07Z"
+        }
+    },
+    {
+        "filename": "Article_118.pdf",
+        "title": "Quantitative Nondestructive Evaluation of Cold Spray manufactured Aluminum Alloy 6061 and Copper Samples",
+        "link": "https://link.springer.com/article/10.1007/s11666-024-01738-y",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Quantitative Nondestructive Evaluation of Cold Spray Manufactured Aluminum Alloy 6061 and Copper Samples",
+            "Abstract": "<jats:title>Abstract</jats:title><jats:p>Cold spray (CS) is a solid-state process for depositing thick layers of material via the successive high-velocity impact of powder particles onto a solid surface, which leads to high rates of deformation, interparticle bonding, and coating build-up. Although CS is finding commercial utilization in non-load-bearing repair and coating applications, clear nondestructive characterization procedures are necessary to realize its potential in load-bearing structural applications. In this study, the viability of electrical conductivity and through thickness ultrasound wave velocity measurement methods was studied to serve as a means for nondestructive quantitative measurement for quality control in CS and potentially other additive manufacturing (AM) methods. Eddy current, ultrasound, porosity, hardness, and uniaxial tensile strength tests were conducted on CS deposited layers of aluminum alloy 6061 and copper on aluminum alloy 6061 and commercially pure copper substrates, respectively. CS gas dynamic parameters were intentionally and systematically varied to result in corresponding discrete differences in mechanical properties of deposits. Ultrasound measurements of longitudinal wave velocity and eddy current electrical conductivity measurements showed good correlation with process conditions, microstructural characterization results, and destructive mechanical tests (hardness, tensile). The results of this work show that ultrasound wave velocity and electrical conductivity correlate well with increased particle impact velocity in CS deposited aluminum and copper blocks, which evidently show an incremental decrease in porosity, increase in hardness, and increase in tensile strength. The outlined ultrasound and eddy current nondestructive testing methods present effective means for quantitative assessment of cold spray deposited structures while intact with the substrate.</jats:p>",
+            "Date Published": "2024-2-28",
+            "DOI": "10.1007/s11666-024-01738-y",
+            "Number of References": 53,
+            "Number of Citations": 1,
+            "Journal": "Journal of Thermal Spray Technology",
+            "Date Updated (of metadata)": "2025-02-21T11:45:07Z"
+        }
+    },
+    {
+        "filename": "Article_119.pdf",
+        "title": "Microstructural stability of ultrafine grained cold sprayed 6061 aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169433213022058?casa_token=EJ7APcA8zwUAAAAA:RAQn_7IAlRPaZm-G9odUYQkBP8hHrNnZp0C5Mclx8rWPHsg0M-jwiQOL4OkAX9-RhM4R2lEG",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Microstructural stability of ultrafine grained cold sprayed 6061 aluminum alloy",
+            "Abstract": "NA",
+            "Date Published": "2014-1",
+            "DOI": "10.1016/j.apsusc.2013.11.127",
+            "Number of References": 39,
+            "Number of Citations": 48,
+            "Journal": "Applied Surface Science",
+            "Date Updated (of metadata)": "2024-09-01T20:59:58Z"
+        }
+    },
+    {
+        "filename": "Article_120.pdf",
+        "title": "Residual stresses in cold spray Al coatings: The effect of alloying and of process parameters",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897212003283?casa_token=3KATS1-rp8EAAAAA:d-lM_zFNDFviXt3-arq0eoB9L2ndG4gSpmQ2newOZPerMTRnCyhMoxaEklIzedLa14GV7e2o",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Residual stresses in cold spray Al coatings: The effect of alloying and of process parameters",
+            "Abstract": "NA",
+            "Date Published": "2012-5",
+            "DOI": "10.1016/j.surfcoat.2012.04.034",
+            "Number of References": 29,
+            "Number of Citations": 109,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T10:11:10Z"
+        }
+    },
+    {
+        "filename": "Article_121.pdf",
+        "title": "Stress Corrosion Cracking Resistance of Cold-Sprayed Al 6061 Deposits Using a Newly Developed Test Fixture",
+        "link": "https://www.mdpi.com/2079-6412/9/7/445",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Stress Corrosion Cracking Resistance of Cold-Sprayed Al 6061 Deposits Using a Newly Developed Test Fixture",
+            "Abstract": "<jats:p>The stress corrosion cracking (SCC) response of Al 6061 bulk deposits produced by high-pressure cold spray (HPCS) was investigated and compared to commercial wrought Al 6061-T6 material. Representative tensile coupons were stressed to 25%, 65% and 85% of their respective yield strength and exposed to ASTM B117 salt fog for 90 days. After exposure, the samples were mechanically tested to failure, and subsequently investigated for stress corrosion cracking via optical and scanning electron microscopy with energy-dispersive X-ray spectroscopy (EDS). The results were compared to the wrought Al 6061-T6 properties and correlated with the observed microstructures. Wrought samples showed the initiation of stress corrosion cracking, while the cold-sprayed deposits appeared to be unaffected or affected by general corrosion only. Optical microscopy revealed evidence of stress corrosion cracking in the form of intergranular corrosion in the wrought samples, while no significant corrosion was observed in the cold-sprayed deposits. Fractography revealed wrought samples failed due to multiple mechanisms, with predominant cleavage and intergranular failure, but cold-sprayed samples only failed by ductile dimple rupture. The difference in SCC response between the differently processed materials is attributed to the documented benefits of the cold spray process, which includes maintaining fine grain structure of the feedstock powder and high density after consolidation, low oxidation, and work hardening effect.</jats:p>",
+            "Date Published": "2019-7-17",
+            "DOI": "10.3390/coatings9070445",
+            "Number of References": 49,
+            "Number of Citations": 3,
+            "Journal": "Coatings",
+            "Date Updated (of metadata)": "2025-02-21T17:54:36Z"
+        }
+    },
+    {
+        "filename": "Article_122.pdf",
+        "title": "Effect of zirconia secondary peening on the microstructure and mechanical behavior of Al6061 cold spray coating",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897222001906?casa_token=l-RaMvKVHfcAAAAA:Ol__W1SzPc-eKdNUjEx0odIVWY050q-OFC10v6mJEeFEKL5UhvlhCnPVZFRcvv5pUyuFq7Rc",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Effect of zirconia secondary peening on the microstructure and mechanical behavior of Al6061 cold spray coatings",
+            "Abstract": "NA",
+            "Date Published": "2022-4",
+            "DOI": "10.1016/j.surfcoat.2022.128269",
+            "Number of References": 38,
+            "Number of Citations": 7,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2024-07-04T13:26:33Z"
+        }
+    },
+    {
+        "filename": "Article_123.pdf",
+        "title": "In-situ mechanical investigation of the deformation of splat interfaces in cold-sprayed aluminum alloy",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921509318312711?casa_token=yeOUnTA1QiMAAAAA:Ir2GQAnAqxjHSnL_zad2Idt_LwNgIYLIk5ATpHE8AyXd5w9oSlvYmU2R4f4URxrnFGcAq4PO",
+        "extractedText": "",
+        "metadata": {
+            "Title": "In-situ mechanical investigation of the deformation of splat interfaces in cold-sprayed aluminum alloy",
+            "Abstract": "NA",
+            "Date Published": "2018-11",
+            "DOI": "10.1016/j.msea.2018.09.065",
+            "Number of References": 45,
+            "Number of Citations": 28,
+            "Journal": "Materials Science and Engineering: A",
+            "Date Updated (of metadata)": "2025-02-21T06:02:08Z"
+        }
+    },
+    {
+        "filename": "Article_124.pdf",
+        "title": "Carbon nanotube reinforced aluminum composite coating via cold spraying",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0257897208004088?casa_token=74jLhDUZ1ksAAAAA:f8VriU4E2G7DPdr1Ee3P9WAINfiNxqF9l4vw3qL0dKQjfdYpn6PVu1GmBU28un3ygChBODfD",
+        "extractedText": "",
+        "metadata": {
+            "Title": "Carbon nanotube reinforced aluminum composite coating via cold spraying",
+            "Abstract": "NA",
+            "Date Published": "2008-7",
+            "DOI": "10.1016/j.surfcoat.2008.05.042",
+            "Number of References": 53,
+            "Number of Citations": 199,
+            "Journal": "Surface and Coatings Technology",
+            "Date Updated (of metadata)": "2025-03-19T13:48:22Z"
+        }
+    },
+    {
+        "filename": "Article_125.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_126.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_127.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_128.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_129.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_130.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_131.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_132.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_133.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_134.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_135.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_136.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_137.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_138.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_139.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_140.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_141.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_142.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_143.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_144.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_145.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_146.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_147.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_148.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_149.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_150.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_151.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_152.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_153.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_154.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_155.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_156.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_157.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_158.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_159.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_160.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_161.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_162.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_163.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_164.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_165.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_166.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_167.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_168.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_169.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_170.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_171.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_172.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_173.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_174.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_175.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_176.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_177.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_178.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_179.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_180.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_181.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_182.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_183.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_184.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_185.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_186.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_187.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_188.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_189.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_190.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_191.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_192.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_193.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_194.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_195.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_196.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_197.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_198.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_199.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    },
+    {
+        "filename": "Article_200.pdf",
+        "title": "",
+        "link": "",
+        "extractedText": "",
+        "metadata": "No title provided"
+    }
+]

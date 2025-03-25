@@ -1,0 +1,10 @@
+Temperature of Tensile Testing
+Strain Rate
+Print Geometry
+
+Load + Dwell Time for Hardness
+
+Microstruture (Grain Size + Percipitates)
+Porosity
+
+Read all of the papers and see how if there is anything that we aren't reporting

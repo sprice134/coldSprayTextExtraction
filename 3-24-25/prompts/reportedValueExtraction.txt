@@ -1,0 +1,33 @@
+You are provided with a scientific article. Please read the article carefully and identify all distinct property names reported, ignoring any numerical or qualitative values. For each property, provide a one-sentence descriptor that explains what the property represents. In cases where broad terms are used (e.g., "Powder type"), break them out into more discrete properties (e.g., "Powder Material Name," "Powder Material Composition", "Powder Material Source", etc.). If the article references specific materials or compositions (e.g., “Aluminum Alloy 6061”), use generic placeholders (e.g., “Material Name,” “Material Composition”) instead, to keep it broadly applicable.
+
+Organize all properties into a JSON object with exactly four keys, each mapping to a dictionary:
+
+- pre_sprayed_material_properties: Any property related to the material before spraying (e.g., material name, composition, source, particle size, powder strength).
+- experimental_parameters: Any property needed to reproduce the experiment (e.g., equipment parameters, temperatures, pressures, velocities, setup procedures).
+- sprayed_properties: Any property of the sprayed part (e.g., yield strength, porosity, deposition efficiency, conductivity, mechanical performance metrics).
+- standards: Any mentioned standards (e.g., "ASTM," "ISO," etc.).
+
+If a particular category has no reported properties, leave its dictionary empty. Finally, return only the JSON object, strictly following the format below, with no additional text or explanation:
+{
+  "pre_sprayed_material_properties": {
+    "property_name_1": "One-sentence descriptor for property_name_1.",
+    "property_name_2": "One-sentence descriptor for property_name_2."
+  },
+  "experimental_parameters": {
+    "property_name_1": "One-sentence descriptor for property_name_1.",
+    "property_name_2": "One-sentence descriptor for property_name_2."
+  },
+  "sprayed_properties": {
+    "property_name_1": "One-sentence descriptor for property_name_1.",
+    "property_name_2": "One-sentence descriptor for property_name_2."
+  },
+  "standards": {
+    "standard_name_1": "One-sentence descriptor for standard_name_1.",
+    "standard_name_2": "One-sentence descriptor for standard_name_2."
+  }
+}
+
+Ensure that:
+- Your response is valid JSON.
+- Do not include any additional text or explanation—only the JSON object.
+- Only list the property names as reported in the article along with a one-sentence descriptor for each.
